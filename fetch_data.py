@@ -1,3 +1,5 @@
+import sys
+
 from jugaad_data.nse import NSELive
 import json
 import os
@@ -6,11 +8,11 @@ import logging
 
 from config import nifty_50, nifty_bank, nifty_next_50
 
-# Configure logging
+# Configure logging to write to both file and console
 logging.basicConfig(
-    filename="fetch_data.log",
     level=logging.INFO,
     format="%(asctime)s:%(levelname)s:%(message)s",
+    handlers=[logging.FileHandler("fetch_data.log"), logging.StreamHandler(sys.stdout)],
 )
 
 

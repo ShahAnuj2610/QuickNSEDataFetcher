@@ -24,6 +24,12 @@ jobs:
       - name: Fetch and Save Data
         run: python fetch_data.py
 
+      - name: Upload Log File as Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: log-files
+          path: fetch_data.log
+
       - name: Commit and push if there are changes
         run: |
           git config --global user.email "anujshah584@gmail.com"
