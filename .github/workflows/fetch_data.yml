@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit and push if there are changes
         run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.email "anujshah584@gmail.com"
+          git config --global user.name "Anuj Shah"
           git add -A
           git commit -m "Updated data" -a || echo "No changes to commit"
           git push
