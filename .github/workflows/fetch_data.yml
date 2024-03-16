@@ -3,6 +3,7 @@ name: Fetch Stock Data
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs at 00:00 UTC every day. Adjust as necessary.
+  workflow_dispatch:  # This line enables manual triggering.
 
 jobs:
   fetch-and-save-data:
