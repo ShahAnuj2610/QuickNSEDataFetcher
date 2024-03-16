@@ -17,16 +17,18 @@ logging.basicConfig(
 
 
 def fetch_and_save_stock_data(symbol):
-    # Ensure 'data' directory exists
-    data_directory = "data"
+    today = datetime.now()
+    year = today.strftime("%Y")
+    month = today.strftime("%m")
+
+    # Directory path: data/year/month
+    data_directory = os.path.join("data", year, month)
     os.makedirs(data_directory, exist_ok=True)
 
-    # Filename for the current day's data
     filename = os.path.join(
-        data_directory, f"{symbol}_{datetime.now().strftime('%Y-%m-%d')}.json"
+        data_directory, f"{symbol}_{today.strftime('%Y-%m-%d')}.json"
     )
 
-    # Check if today's data file already exists
     if os.path.exists(filename):
         logging.info(
             f"Data file {filename} already exists. Skipping fetch for {symbol}."
@@ -37,7 +39,6 @@ def fetch_and_save_stock_data(symbol):
         nse_live = NSELive()
         stock_quote = nse_live.stock_quote(symbol)
 
-        # Check if API call returned data successfully
         if stock_quote:
             with open(filename, "w") as file:
                 json.dump(stock_quote, file, indent=4)
