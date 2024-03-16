@@ -1,0 +1,32 @@
+name: Fetch Stock Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at 00:00 UTC every day. Adjust as necessary.
+
+jobs:
+  fetch-and-save-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install jugaad_data
+
+      - name: Fetch and Save Data
+        run: python fetch_data.py
+
+      - name: Commit and push if there are changes
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git add -A
+          git commit -m "Updated data" -a || echo "No changes to commit"
+          git push
