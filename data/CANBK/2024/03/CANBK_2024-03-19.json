@@ -1,0 +1,155 @@
+{
+    "info": {
+        "symbol": "CANBK",
+        "companyName": "Canara Bank",
+        "industry": "BANKS",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE476A01014",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "CANBKEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "CANBK",
+        "isin": "INE476A01014",
+        "status": "Listed",
+        "listingDate": "23-Dec-2002",
+        "industry": "Public Sector Bank",
+        "lastUpdateTime": "19-Mar-2024 16:00:00",
+        "pdSectorPe": 7.05,
+        "pdSymbolPe": 7.05,
+        "pdSectorInd": "NIFTY BANK                                        "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 1814130252
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 546.7,
+        "change": -6.349999999999909,
+        "pChange": -1.1481782840610992,
+        "previousClose": 553.05,
+        "open": 552.7,
+        "close": 548.4,
+        "vwap": 550.6,
+        "lowerCP": "497.75",
+        "upperCP": "608.35",
+        "pPriceBand": "No Band",
+        "basePrice": 553.05,
+        "intraDayHighLow": {
+            "min": 546.15,
+            "max": 555.8,
+            "value": 546.7
+        },
+        "weekHighLow": {
+            "min": 272.35,
+            "minDate": "24-Mar-2023",
+            "max": 606.3,
+            "maxDate": "06-Mar-2024",
+            "value": 546.7
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Public Sector Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 525.4,
+                "buyQty": 0,
+                "sellQty": 1350
+            },
+            {
+                "price": 539.2,
+                "buyQty": 0,
+                "sellQty": 15
+            },
+            {
+                "price": 542,
+                "buyQty": 0,
+                "sellQty": 2
+            },
+            {
+                "price": 546.5,
+                "buyQty": 0,
+                "sellQty": 22
+            },
+            {
+                "price": 552.7,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 577.95,
+                "buyQty": 6,
+                "sellQty": 0
+            },
+            {
+                "price": 580.7,
+                "buyQty": 389,
+                "sellQty": 0
+            },
+            {
+                "price": 585,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 608.35,
+                "buyQty": 331,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 972,
+            "sell": 498
+        },
+        "IEP": 552.7,
+        "totalTradedVolume": 8496,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "19-Mar-2024 09:07:56",
+        "totalBuyQuantity": 30670,
+        "totalSellQuantity": 110650,
+        "atoBuyQty": 972,
+        "atoSellQty": 498,
+        "Change": -0.34999999999990905,
+        "perChange": -0.0632854172316986,
+        "prevClose": 553.05
+    }
+}
