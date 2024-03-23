@@ -1,0 +1,147 @@
+{
+    "info": {
+        "symbol": "AUBANK",
+        "companyName": "AU Small Finance Bank Limited",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE949L01017",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "AUBANKEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "AUBANK",
+        "isin": "INE949L01017",
+        "status": "Listed",
+        "listingDate": "10-Jul-2017",
+        "industry": "Other Bank",
+        "lastUpdateTime": "22-Mar-2024 16:00:00",
+        "pdSectorPe": 23.84,
+        "pdSymbolPe": 23.84,
+        "pdSectorInd": "NIFTY BANK                                        "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 669142000
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 564.25,
+        "change": -1.7000000000000455,
+        "pChange": -0.3003798922166349,
+        "previousClose": 565.95,
+        "open": 564,
+        "close": 564.25,
+        "vwap": 563.88,
+        "lowerCP": "509.35",
+        "upperCP": "622.50",
+        "pPriceBand": "No Band",
+        "basePrice": 565.95,
+        "intraDayHighLow": {
+            "min": 561.25,
+            "max": 568.9,
+            "value": 564.25
+        },
+        "weekHighLow": {
+            "min": 548,
+            "minDate": "24-Mar-2023",
+            "max": 813.4,
+            "maxDate": "09-Jan-2024",
+            "value": 564.25
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Other Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 559.6,
+                "buyQty": 0,
+                "sellQty": 51
+            },
+            {
+                "price": 560,
+                "buyQty": 0,
+                "sellQty": 30
+            },
+            {
+                "price": 563.5,
+                "buyQty": 0,
+                "sellQty": 81
+            },
+            {
+                "price": 564,
+                "buyQty": 0,
+                "sellQty": 5000,
+                "iep": true
+            },
+            {
+                "price": 577.3,
+                "buyQty": 5,
+                "sellQty": 0
+            },
+            {
+                "price": 588.55,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 591.45,
+                "buyQty": 19,
+                "sellQty": 0
+            },
+            {
+                "price": 591.9,
+                "buyQty": 5,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 600,
+            "sell": 1183
+        },
+        "IEP": 564,
+        "totalTradedVolume": 2945,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "22-Mar-2024 09:07:52",
+        "totalBuyQuantity": 54369,
+        "totalSellQuantity": 73622,
+        "atoBuyQty": 600,
+        "atoSellQty": 1183,
+        "Change": -1.9500000000000455,
+        "perChange": -0.3445534057779036,
+        "prevClose": 565.95
+    }
+}
