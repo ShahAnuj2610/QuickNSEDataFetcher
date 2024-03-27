@@ -1,0 +1,153 @@
+{
+    "info": {
+        "symbol": "BAJAJHLDNG",
+        "companyName": "Bajaj Holdings & Investment Limited",
+        "industry": "FINANCE",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE118A01012",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "BAJAJHLDNGEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "BAJAJHLDNG",
+        "isin": "INE118A01012",
+        "status": "Listed",
+        "listingDate": "15-Mar-1995",
+        "industry": "Holding Company",
+        "lastUpdateTime": "26-Mar-2024 16:00:00",
+        "pdSectorPe": 318.48,
+        "pdSymbolPe": 318.48,
+        "pdSectorInd": "NIFTY FINANCIAL SERVICES                          "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 111293510
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 8424,
+        "change": 28.950000000000728,
+        "pChange": 0.3448460700055477,
+        "previousClose": 8395.05,
+        "open": 8212,
+        "close": 8413.2,
+        "vwap": 8341.13,
+        "lowerCP": "6716.05",
+        "upperCP": "10074.05",
+        "pPriceBand": "20",
+        "basePrice": 8395.05,
+        "intraDayHighLow": {
+            "min": 8212,
+            "max": 8435,
+            "value": 8424
+        },
+        "weekHighLow": {
+            "min": 5770,
+            "minDate": "03-Apr-2023",
+            "max": 9348.95,
+            "maxDate": "29-Feb-2024",
+            "value": 8424
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Finance",
+        "basicIndustry": "Holding Company"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 6716.05,
+                "buyQty": 0,
+                "sellQty": 37
+            },
+            {
+                "price": 7975.3,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 8010.1,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 8203.4,
+                "buyQty": 0,
+                "sellQty": 16
+            },
+            {
+                "price": 8212,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 8400,
+                "buyQty": 20,
+                "sellQty": 0
+            },
+            {
+                "price": 8562.95,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 8563,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 8814.8,
+                "buyQty": 1,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 3,
+            "sell": 70
+        },
+        "IEP": 8212,
+        "totalTradedVolume": 125,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "26-Mar-2024 09:07:34",
+        "totalBuyQuantity": 880,
+        "totalSellQuantity": 1968,
+        "atoBuyQty": 3,
+        "atoSellQty": 70,
+        "Change": -183.04999999999927,
+        "perChange": -2.1804515756308693,
+        "prevClose": 8395.05
+    }
+}
