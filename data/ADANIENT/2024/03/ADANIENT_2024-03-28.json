@@ -1,0 +1,153 @@
+{
+    "info": {
+        "symbol": "ADANIENT",
+        "companyName": "Adani Enterprises Limited",
+        "industry": "TRADING",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE423A01024",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "ADANIENTEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "ADANIENT",
+        "isin": "INE423A01024",
+        "status": "Listed",
+        "listingDate": "04-Jun-1997",
+        "industry": "Trading - Minerals",
+        "lastUpdateTime": "28-Mar-2024 16:00:00",
+        "pdSectorPe": 86.75,
+        "pdSymbolPe": 94.87,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 1140001121
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 3197,
+        "change": 74.90000000000009,
+        "pChange": 2.399026296403065,
+        "previousClose": 3122.1,
+        "open": 3134,
+        "close": 3197.1,
+        "vwap": 3178.72,
+        "lowerCP": "2809.90",
+        "upperCP": "3434.30",
+        "pPriceBand": "No Band",
+        "basePrice": 3122.1,
+        "intraDayHighLow": {
+            "min": 3096.75,
+            "max": 3237,
+            "value": 3197
+        },
+        "weekHighLow": {
+            "min": 1573,
+            "minDate": "28-Mar-2023",
+            "max": 3350,
+            "maxDate": "04-Mar-2024",
+            "value": 3197
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Commodities",
+        "sector": "Metals & Mining",
+        "industry": "Metals & Minerals Trading",
+        "basicIndustry": "Trading - Minerals"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 2950,
+                "buyQty": 0,
+                "sellQty": 2
+            },
+            {
+                "price": 2966,
+                "buyQty": 0,
+                "sellQty": 39
+            },
+            {
+                "price": 2990,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 2999,
+                "buyQty": 0,
+                "sellQty": 7
+            },
+            {
+                "price": 3134,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 3174.5,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 3184.55,
+                "buyQty": 21,
+                "sellQty": 0
+            },
+            {
+                "price": 3250,
+                "buyQty": 50,
+                "sellQty": 0
+            },
+            {
+                "price": 3278.2,
+                "buyQty": 130,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 415,
+            "sell": 77
+        },
+        "IEP": 3134,
+        "totalTradedVolume": 1304,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "28-Mar-2024 09:07:31",
+        "totalBuyQuantity": 16326,
+        "totalSellQuantity": 16530,
+        "atoBuyQty": 415,
+        "atoSellQty": 77,
+        "Change": 11.900000000000091,
+        "perChange": 0.3811537106434801,
+        "prevClose": 3122.1
+    }
+}

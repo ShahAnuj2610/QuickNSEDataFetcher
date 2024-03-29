@@ -1,0 +1,153 @@
+{
+    "info": {
+        "symbol": "IOC",
+        "companyName": "Indian Oil Corporation Limited",
+        "industry": "REFINERIES",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE242A01010",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "IOCEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "IOC",
+        "isin": "INE242A01010",
+        "status": "Listed",
+        "listingDate": "24-Jul-1996",
+        "industry": "Refineries & Marketing",
+        "lastUpdateTime": "28-Mar-2024 16:00:00",
+        "pdSectorPe": 4.98,
+        "pdSymbolPe": 4.98,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 14121238383
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 168,
+        "change": 1.8000000000000114,
+        "pChange": 1.0830324909747362,
+        "previousClose": 166.2,
+        "open": 166.75,
+        "close": 167.75,
+        "vwap": 168.2,
+        "lowerCP": "149.60",
+        "upperCP": "182.80",
+        "pPriceBand": "No Band",
+        "basePrice": 166.2,
+        "intraDayHighLow": {
+            "min": 166.7,
+            "max": 169.5,
+            "value": 168
+        },
+        "weekHighLow": {
+            "min": 75.75,
+            "minDate": "28-Mar-2023",
+            "max": 196.8,
+            "maxDate": "08-Feb-2024",
+            "value": 168
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Energy",
+        "sector": "Oil Gas & Consumable Fuels",
+        "industry": "Petroleum Products",
+        "basicIndustry": "Refineries & Marketing"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 155,
+                "buyQty": 0,
+                "sellQty": 1000
+            },
+            {
+                "price": 160,
+                "buyQty": 0,
+                "sellQty": 2623
+            },
+            {
+                "price": 162,
+                "buyQty": 0,
+                "sellQty": 1000
+            },
+            {
+                "price": 162.05,
+                "buyQty": 0,
+                "sellQty": 6
+            },
+            {
+                "price": 166.75,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 174.5,
+                "buyQty": 1070,
+                "sellQty": 0
+            },
+            {
+                "price": 175.8,
+                "buyQty": 181,
+                "sellQty": 0
+            },
+            {
+                "price": 176.7,
+                "buyQty": 20,
+                "sellQty": 0
+            },
+            {
+                "price": 182,
+                "buyQty": 40,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 19736,
+            "sell": 3582
+        },
+        "IEP": 166.75,
+        "totalTradedVolume": 50115,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "28-Mar-2024 09:07:30",
+        "totalBuyQuantity": 306515,
+        "totalSellQuantity": 568804,
+        "atoBuyQty": 19736,
+        "atoSellQty": 3582,
+        "Change": 0.5500000000000114,
+        "perChange": 0.33092659446450745,
+        "prevClose": 166.2
+    }
+}
