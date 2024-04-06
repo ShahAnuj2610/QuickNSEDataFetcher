@@ -1,0 +1,186 @@
+{
+    "info": {
+        "symbol": "MUTHOOTFIN",
+        "companyName": "Muthoot Finance Limited",
+        "industry": "FINANCE",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [
+            "NH",
+            "NI",
+            "NJ",
+            "NK",
+            "NL"
+        ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "N1",
+            "N2",
+            "N3",
+            "N4",
+            "N5",
+            "N6",
+            "N7",
+            "N8",
+            "N9",
+            "NA",
+            "NB",
+            "NC",
+            "ND",
+            "NF",
+            "NG",
+            "U1",
+            "U2",
+            "U3",
+            "U4",
+            "U5",
+            "U6",
+            "U7",
+            "U8",
+            "U9",
+            "UA",
+            "UB"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE414G07241",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "MUTHOOTFINEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "MUTHOOTFIN",
+        "isin": "INE414G01012",
+        "status": "Listed",
+        "listingDate": "06-May-2011",
+        "industry": "Non Banking Financial Company (NBFC)",
+        "lastUpdateTime": "05-Apr-2024 16:00:00",
+        "pdSectorPe": 15.58,
+        "pdSymbolPe": 15.58,
+        "pdSectorInd": "NIFTY FINANCIAL SERVICES                          "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Bond",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 401458976
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1649.95,
+        "change": -16.59999999999991,
+        "pChange": -0.9960697248807363,
+        "previousClose": 1666.55,
+        "open": 1626.05,
+        "close": 1654.75,
+        "vwap": 1639.7,
+        "lowerCP": "1499.90",
+        "upperCP": "1833.20",
+        "pPriceBand": "No Band",
+        "basePrice": 1666.55,
+        "intraDayHighLow": {
+            "min": 1620.8,
+            "max": 1659.15,
+            "value": 1649.95
+        },
+        "weekHighLow": {
+            "min": 978.5,
+            "minDate": "06-Apr-2023",
+            "max": 1674.45,
+            "maxDate": "04-Apr-2024",
+            "value": 1649.95
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Finance",
+        "basicIndustry": "Non Banking Financial Company (NBFC)"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1499.9,
+                "buyQty": 0,
+                "sellQty": 161
+            },
+            {
+                "price": 1550,
+                "buyQty": 0,
+                "sellQty": 480
+            },
+            {
+                "price": 1600,
+                "buyQty": 0,
+                "sellQty": 100
+            },
+            {
+                "price": 1610,
+                "buyQty": 0,
+                "sellQty": 10
+            },
+            {
+                "price": 1626.05,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1701,
+                "buyQty": 10,
+                "sellQty": 0
+            },
+            {
+                "price": 1719,
+                "buyQty": 10,
+                "sellQty": 0
+            },
+            {
+                "price": 1741.55,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 1751,
+                "buyQty": 10,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 336,
+            "sell": 325
+        },
+        "IEP": 1626.05,
+        "totalTradedVolume": 1100,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "05-Apr-2024 09:07:39",
+        "totalBuyQuantity": 1848,
+        "totalSellQuantity": 9235,
+        "atoBuyQty": 336,
+        "atoSellQty": 325,
+        "Change": -40.5,
+        "perChange": -2.4301701119078336,
+        "prevClose": 1666.55
+    }
+}
