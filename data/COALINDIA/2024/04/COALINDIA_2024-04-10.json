@@ -1,0 +1,153 @@
+{
+    "info": {
+        "symbol": "COALINDIA",
+        "companyName": "Coal India Limited",
+        "industry": "MINING",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE522F01014",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "COALINDIAEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "COALINDIA",
+        "isin": "INE522F01014",
+        "status": "Listed",
+        "listingDate": "04-Nov-2010",
+        "industry": "Coal",
+        "lastUpdateTime": "10-Apr-2024 16:00:00",
+        "pdSectorPe": 9.36,
+        "pdSymbolPe": 9.36,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 6162728327
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 455.5,
+        "change": 15.649999999999977,
+        "pChange": 3.55803114698192,
+        "previousClose": 439.85,
+        "open": 442.55,
+        "close": 456.35,
+        "vwap": 452.39,
+        "lowerCP": "395.90",
+        "upperCP": "483.80",
+        "pPriceBand": "No Band",
+        "basePrice": 439.85,
+        "intraDayHighLow": {
+            "min": 442.1,
+            "max": 458.6,
+            "value": 455.5
+        },
+        "weekHighLow": {
+            "min": 221.15,
+            "minDate": "10-Apr-2023",
+            "max": 487.6,
+            "maxDate": "16-Feb-2024",
+            "value": 455.5
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Energy",
+        "sector": "Oil Gas & Consumable Fuels",
+        "industry": "Consumable Fuels",
+        "basicIndustry": "Coal"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 395.9,
+                "buyQty": 0,
+                "sellQty": 109
+            },
+            {
+                "price": 425.4,
+                "buyQty": 0,
+                "sellQty": 100
+            },
+            {
+                "price": 426.7,
+                "buyQty": 0,
+                "sellQty": 166
+            },
+            {
+                "price": 426.85,
+                "buyQty": 0,
+                "sellQty": 269
+            },
+            {
+                "price": 442.55,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 461.8,
+                "buyQty": 219,
+                "sellQty": 0
+            },
+            {
+                "price": 464.2,
+                "buyQty": 25,
+                "sellQty": 0
+            },
+            {
+                "price": 483,
+                "buyQty": 200,
+                "sellQty": 0
+            },
+            {
+                "price": 483.8,
+                "buyQty": 27,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 6811,
+            "sell": 3294
+        },
+        "IEP": 442.55,
+        "totalTradedVolume": 22075,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "10-Apr-2024 09:07:43",
+        "totalBuyQuantity": 93276,
+        "totalSellQuantity": 302540,
+        "atoBuyQty": 6811,
+        "atoSellQty": 3294,
+        "Change": 2.6999999999999886,
+        "perChange": 0.6138456291917673,
+        "prevClose": 439.85
+    }
+}

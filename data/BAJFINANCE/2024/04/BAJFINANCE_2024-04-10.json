@@ -1,0 +1,156 @@
+{
+    "info": {
+        "symbol": "BAJFINANCE",
+        "companyName": "Bajaj Finance Limited",
+        "industry": "FINANCE",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "N1",
+            "W1"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE296A13011",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "BAJFINANCEEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "BAJFINANCE",
+        "isin": "INE296A01024",
+        "status": "Listed",
+        "listingDate": "01-Apr-2003",
+        "industry": "Non Banking Financial Company (NBFC)",
+        "lastUpdateTime": "10-Apr-2024 16:00:00",
+        "pdSectorPe": 32.32,
+        "pdSymbolPe": 32.32,
+        "pdSectorInd": "NIFTY FINANCIAL SERVICES                          "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 618996320
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 7219.85,
+        "change": 26.25,
+        "pChange": 0.36490769572953735,
+        "previousClose": 7193.6,
+        "open": 7235.9,
+        "close": 7230.25,
+        "vwap": 7210.99,
+        "lowerCP": "6474.25",
+        "upperCP": "7912.95",
+        "pPriceBand": "No Band",
+        "basePrice": 7193.6,
+        "intraDayHighLow": {
+            "min": 7160,
+            "max": 7254,
+            "value": 7219.85
+        },
+        "weekHighLow": {
+            "min": 5786,
+            "minDate": "12-Apr-2023",
+            "max": 8192,
+            "maxDate": "06-Oct-2023",
+            "value": 7219.85
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Finance",
+        "basicIndustry": "Non Banking Financial Company (NBFC)"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 6618.1,
+                "buyQty": 0,
+                "sellQty": 20
+            },
+            {
+                "price": 6895.85,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 7032.85,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 7049.75,
+                "buyQty": 0,
+                "sellQty": 461
+            },
+            {
+                "price": 7235.9,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 7467.85,
+                "buyQty": 146,
+                "sellQty": 0
+            },
+            {
+                "price": 7517.35,
+                "buyQty": 3,
+                "sellQty": 0
+            },
+            {
+                "price": 7553.25,
+                "buyQty": 83,
+                "sellQty": 0
+            },
+            {
+                "price": 7912.95,
+                "buyQty": 68,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 70,
+            "sell": 47
+        },
+        "IEP": 7235.9,
+        "totalTradedVolume": 3049,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "10-Apr-2024 09:07:43",
+        "totalBuyQuantity": 7391,
+        "totalSellQuantity": 27969,
+        "atoBuyQty": 70,
+        "atoSellQty": 47,
+        "Change": 42.29999999999927,
+        "perChange": 0.5880226868327301,
+        "prevClose": 7193.6
+    }
+}
