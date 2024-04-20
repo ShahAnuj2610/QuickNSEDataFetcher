@@ -1,0 +1,152 @@
+{
+    "info": {
+        "symbol": "DMART",
+        "companyName": "Avenue Supermarts Limited",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE192R01011",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "DMARTEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "DMART",
+        "isin": "INE192R01011",
+        "status": "Listed",
+        "listingDate": "21-Mar-2017",
+        "industry": "Diversified Retail",
+        "lastUpdateTime": "19-Apr-2024 16:00:00",
+        "pdSectorPe": 123.78,
+        "pdSymbolPe": 123.78,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 650733068
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 4711,
+        "change": 83.89999999999964,
+        "pChange": 1.8132307492813995,
+        "previousClose": 4627.1,
+        "open": 4766.95,
+        "close": 4696,
+        "vwap": 4721,
+        "lowerCP": "3701.70",
+        "upperCP": "5552.50",
+        "pPriceBand": "20",
+        "basePrice": 4627.1,
+        "intraDayHighLow": {
+            "min": 4651.1,
+            "max": 4836.7,
+            "value": 4711
+        },
+        "weekHighLow": {
+            "min": 3352,
+            "minDate": "18-May-2023",
+            "max": 4836.7,
+            "maxDate": "19-Apr-2024",
+            "value": 4711
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Consumer Discretionary",
+        "sector": "Consumer Services",
+        "industry": "Retailing",
+        "basicIndustry": "Diversified Retail"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 4164.4,
+                "buyQty": 0,
+                "sellQty": 1493
+            },
+            {
+                "price": 4250,
+                "buyQty": 0,
+                "sellQty": 6
+            },
+            {
+                "price": 4400,
+                "buyQty": 0,
+                "sellQty": 2
+            },
+            {
+                "price": 4534.5,
+                "buyQty": 0,
+                "sellQty": 2
+            },
+            {
+                "price": 4766.95,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 4865.35,
+                "buyQty": 1835,
+                "sellQty": 0
+            },
+            {
+                "price": 4913.1,
+                "buyQty": 2022,
+                "sellQty": 0
+            },
+            {
+                "price": 4995.5,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 5089.8,
+                "buyQty": 2125,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 257,
+            "sell": 424
+        },
+        "IEP": 4766.95,
+        "totalTradedVolume": 9176,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "19-Apr-2024 09:07:28",
+        "totalBuyQuantity": 3597,
+        "totalSellQuantity": 9049,
+        "atoBuyQty": 257,
+        "atoSellQty": 424,
+        "Change": 139.84999999999945,
+        "perChange": 3.0224114456138715,
+        "prevClose": 4627.1
+    }
+}
