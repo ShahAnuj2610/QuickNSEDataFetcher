@@ -1,0 +1,155 @@
+{
+    "info": {
+        "symbol": "INDUSINDBK",
+        "companyName": "IndusInd Bank Limited",
+        "industry": "BANKS",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE095A01012",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "INDUSINDBKEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "INDUSINDBK",
+        "isin": "INE095A01012",
+        "status": "Listed",
+        "listingDate": "28-Jan-1998",
+        "industry": "Private Sector Bank",
+        "lastUpdateTime": "07-May-2024 16:00:00",
+        "pdSectorPe": 12.98,
+        "pdSymbolPe": 12.98,
+        "pdSectorInd": "NIFTY BANK                                        "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 778319951
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1454,
+        "change": -43.5,
+        "pChange": -2.9048414023372287,
+        "previousClose": 1497.5,
+        "open": 1497.5,
+        "close": 1452.55,
+        "vwap": 1463.9,
+        "lowerCP": "1347.75",
+        "upperCP": "1647.25",
+        "pPriceBand": "No Band",
+        "basePrice": 1497.5,
+        "intraDayHighLow": {
+            "min": 1448,
+            "max": 1502.65,
+            "value": 1454
+        },
+        "weekHighLow": {
+            "min": 1087,
+            "minDate": "08-May-2023",
+            "max": 1694.5,
+            "maxDate": "15-Jan-2024",
+            "value": 1454
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Private Sector Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1347.75,
+                "buyQty": 0,
+                "sellQty": 66
+            },
+            {
+                "price": 1460.05,
+                "buyQty": 0,
+                "sellQty": 10
+            },
+            {
+                "price": 1467.55,
+                "buyQty": 0,
+                "sellQty": 3
+            },
+            {
+                "price": 1488,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 1497.5,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1559.2,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 1560,
+                "buyQty": 40,
+                "sellQty": 0
+            },
+            {
+                "price": 1564.9,
+                "buyQty": 12,
+                "sellQty": 0
+            },
+            {
+                "price": 1600,
+                "buyQty": 50,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 189,
+            "sell": 26
+        },
+        "IEP": 1497.5,
+        "totalTradedVolume": 1229,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "07-May-2024 09:07:52",
+        "totalBuyQuantity": 10006,
+        "totalSellQuantity": 51465,
+        "atoBuyQty": 189,
+        "atoSellQty": 26,
+        "Change": 0,
+        "perChange": 0,
+        "prevClose": 1497.5
+    }
+}
