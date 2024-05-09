@@ -1,0 +1,162 @@
+{
+    "info": {
+        "symbol": "SBIN",
+        "companyName": "State Bank of India",
+        "industry": "BANKS",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL",
+            "N1",
+            "N2",
+            "N3",
+            "N4",
+            "N5",
+            "N6"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE062A01020",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "SBINEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "SBIN",
+        "isin": "INE062A01020",
+        "status": "Listed",
+        "listingDate": "01-Mar-1995",
+        "industry": "Public Sector Bank",
+        "lastUpdateTime": "08-May-2024 16:00:00",
+        "pdSectorPe": 10.22,
+        "pdSymbolPe": 11.05,
+        "pdSectorInd": "NIFTY BANK                                        "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 8924611934
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 811.4,
+        "change": 9.5,
+        "pChange": 1.184686369871555,
+        "previousClose": 801.9,
+        "open": 802.6,
+        "close": 810.8,
+        "vwap": 811.86,
+        "lowerCP": "721.75",
+        "upperCP": "882.05",
+        "pPriceBand": "No Band",
+        "basePrice": 801.9,
+        "intraDayHighLow": {
+            "min": 799.5,
+            "max": 822,
+            "value": 811.4
+        },
+        "weekHighLow": {
+            "min": 543.2,
+            "minDate": "26-Oct-2023",
+            "max": 836.2,
+            "maxDate": "03-May-2024",
+            "value": 811.4
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Public Sector Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 721.75,
+                "buyQty": 0,
+                "sellQty": 2120
+            },
+            {
+                "price": 730,
+                "buyQty": 0,
+                "sellQty": 75
+            },
+            {
+                "price": 746.55,
+                "buyQty": 0,
+                "sellQty": 970
+            },
+            {
+                "price": 746.8,
+                "buyQty": 0,
+                "sellQty": 855
+            },
+            {
+                "price": 802.6,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 844,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 858,
+                "buyQty": 4140,
+                "sellQty": 0
+            },
+            {
+                "price": 860,
+                "buyQty": 5,
+                "sellQty": 0
+            },
+            {
+                "price": 878,
+                "buyQty": 10,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 4640,
+            "sell": 4866
+        },
+        "IEP": 802.6,
+        "totalTradedVolume": 23446,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "08-May-2024 09:07:13",
+        "totalBuyQuantity": 59843,
+        "totalSellQuantity": 345713,
+        "atoBuyQty": 4640,
+        "atoSellQty": 4866,
+        "Change": 0.7000000000000455,
+        "perChange": 0.08729267988527815,
+        "prevClose": 801.9
+    }
+}
