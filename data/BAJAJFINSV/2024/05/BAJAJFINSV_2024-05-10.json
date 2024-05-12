@@ -1,0 +1,153 @@
+{
+    "info": {
+        "symbol": "BAJAJFINSV",
+        "companyName": "Bajaj Finserv Limited",
+        "industry": "FINANCE",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE918I01026",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "BAJAJFINSVEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "BAJAJFINSV",
+        "isin": "INE918I01026",
+        "status": "Listed",
+        "listingDate": "26-May-2008",
+        "industry": "Holding Company",
+        "lastUpdateTime": "10-May-2024 16:00:00",
+        "pdSectorPe": 16.02,
+        "pdSymbolPe": 16.02,
+        "pdSectorInd": "NIFTY FINANCIAL SERVICES                          "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 1595488813
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1571,
+        "change": 6.400000000000091,
+        "pChange": 0.4090502364821738,
+        "previousClose": 1564.6,
+        "open": 1560,
+        "close": 1572.7,
+        "vwap": 1572.01,
+        "lowerCP": "1408.15",
+        "upperCP": "1721.05",
+        "pPriceBand": "No Band",
+        "basePrice": 1564.6,
+        "intraDayHighLow": {
+            "min": 1556,
+            "max": 1584.15,
+            "value": 1571
+        },
+        "weekHighLow": {
+            "min": 1395,
+            "minDate": "10-May-2023",
+            "max": 1741,
+            "maxDate": "20-Dec-2023",
+            "value": 1571
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Finance",
+        "basicIndustry": "Holding Company"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1533,
+                "buyQty": 0,
+                "sellQty": 576
+            },
+            {
+                "price": 1540,
+                "buyQty": 0,
+                "sellQty": 50
+            },
+            {
+                "price": 1550,
+                "buyQty": 0,
+                "sellQty": 25
+            },
+            {
+                "price": 1555,
+                "buyQty": 0,
+                "sellQty": 50
+            },
+            {
+                "price": 1560,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1595.9,
+                "buyQty": 5,
+                "sellQty": 0
+            },
+            {
+                "price": 1626,
+                "buyQty": 50,
+                "sellQty": 0
+            },
+            {
+                "price": 1635.05,
+                "buyQty": 3,
+                "sellQty": 0
+            },
+            {
+                "price": 1638,
+                "buyQty": 471,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 174,
+            "sell": 249
+        },
+        "IEP": 1560,
+        "totalTradedVolume": 4277,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "10-May-2024 09:07:55",
+        "totalBuyQuantity": 7883,
+        "totalSellQuantity": 29928,
+        "atoBuyQty": 174,
+        "atoSellQty": 249,
+        "Change": -4.599999999999909,
+        "perChange": -0.2940048574715524,
+        "prevClose": 1564.6
+    }
+}
