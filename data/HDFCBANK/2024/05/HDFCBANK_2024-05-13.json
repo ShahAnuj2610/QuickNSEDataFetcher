@@ -1,0 +1,156 @@
+{
+    "info": {
+        "symbol": "HDFCBANK",
+        "companyName": "HDFC Bank Limited",
+        "industry": "BANKS",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL",
+            "W3"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE040A13013",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "HDFCBANKEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "HDFCBANK",
+        "isin": "INE040A01034",
+        "status": "Listed",
+        "listingDate": "08-Nov-1995",
+        "industry": "Private Sector Bank",
+        "lastUpdateTime": "13-May-2024 16:00:00",
+        "pdSectorPe": 16.7,
+        "pdSymbolPe": 16.8,
+        "pdSectorInd": "NIFTY BANK                                        "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 7603134249
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1456.5,
+        "change": 18.59999999999991,
+        "pChange": 1.2935530982683014,
+        "previousClose": 1437.9,
+        "open": 1432,
+        "close": 1455.25,
+        "vwap": 1447.13,
+        "lowerCP": "1294.15",
+        "upperCP": "1581.65",
+        "pPriceBand": "No Band",
+        "basePrice": 1437.9,
+        "intraDayHighLow": {
+            "min": 1430.3,
+            "max": 1459.8,
+            "value": 1456.5
+        },
+        "weekHighLow": {
+            "min": 1363.55,
+            "minDate": "14-Feb-2024",
+            "max": 1757.5,
+            "maxDate": "03-Jul-2023",
+            "value": 1456.5
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Private Sector Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1294.15,
+                "buyQty": 0,
+                "sellQty": 6395
+            },
+            {
+                "price": 1295,
+                "buyQty": 0,
+                "sellQty": 111
+            },
+            {
+                "price": 1337.25,
+                "buyQty": 0,
+                "sellQty": 11104
+            },
+            {
+                "price": 1366,
+                "buyQty": 0,
+                "sellQty": 4
+            },
+            {
+                "price": 1432,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1520.1,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 1534.55,
+                "buyQty": 30,
+                "sellQty": 0
+            },
+            {
+                "price": 1557.4,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 1581.65,
+                "buyQty": 8446,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 6442,
+            "sell": 7106
+        },
+        "IEP": 1432,
+        "totalTradedVolume": 177573,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "13-May-2024 09:07:03",
+        "totalBuyQuantity": 171606,
+        "totalSellQuantity": 260729,
+        "atoBuyQty": 6442,
+        "atoSellQty": 7106,
+        "Change": -5.900000000000091,
+        "perChange": -0.41032060643995344,
+        "prevClose": 1437.9
+    }
+}
