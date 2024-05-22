@@ -1,0 +1,158 @@
+{
+    "info": {
+        "symbol": "CHOLAFIN",
+        "companyName": "Cholamandalam Investment and Finance Company Limited",
+        "industry": "FINANCE",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [
+            "D1"
+        ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "BE",
+            "W1"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE121A13011",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "CHOLAFINEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "CHOLAFIN",
+        "isin": "INE121A01024",
+        "status": "Listed",
+        "listingDate": "15-May-1996",
+        "industry": "Non Banking Financial Company (NBFC)",
+        "lastUpdateTime": "21-May-2024 16:00:00",
+        "pdSectorPe": 31.57,
+        "pdSymbolPe": 31.57,
+        "pdSectorInd": "NIFTY FINANCIAL SERVICES                          "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Bond",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 840040902
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1299,
+        "change": 17.15000000000009,
+        "pChange": 1.3379100518781522,
+        "previousClose": 1281.85,
+        "open": 1285.3,
+        "close": 1292.45,
+        "vwap": 1290.69,
+        "lowerCP": "1153.70",
+        "upperCP": "1410.00",
+        "pPriceBand": "No Band",
+        "basePrice": 1281.85,
+        "intraDayHighLow": {
+            "min": 1276,
+            "max": 1308.7,
+            "value": 1299
+        },
+        "weekHighLow": {
+            "min": 997.25,
+            "minDate": "18-Aug-2023",
+            "max": 1352.6,
+            "maxDate": "03-May-2024",
+            "value": 1299
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Finance",
+        "basicIndustry": "Non Banking Financial Company (NBFC)"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1217.8,
+                "buyQty": 0,
+                "sellQty": 32
+            },
+            {
+                "price": 1243.4,
+                "buyQty": 0,
+                "sellQty": 83
+            },
+            {
+                "price": 1256.25,
+                "buyQty": 0,
+                "sellQty": 18
+            },
+            {
+                "price": 1258.35,
+                "buyQty": 0,
+                "sellQty": 2
+            },
+            {
+                "price": 1285.3,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1339.55,
+                "buyQty": 6,
+                "sellQty": 0
+            },
+            {
+                "price": 1345.9,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 1364.75,
+                "buyQty": 14,
+                "sellQty": 0
+            },
+            {
+                "price": 1366.8,
+                "buyQty": 42,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 660,
+            "sell": 35
+        },
+        "IEP": 1285.3,
+        "totalTradedVolume": 1082,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "21-May-2024 09:07:17",
+        "totalBuyQuantity": 4451,
+        "totalSellQuantity": 14319,
+        "atoBuyQty": 660,
+        "atoSellQty": 35,
+        "Change": 3.4500000000000455,
+        "perChange": 0.26914225533409103,
+        "prevClose": 1281.85
+    }
+}
