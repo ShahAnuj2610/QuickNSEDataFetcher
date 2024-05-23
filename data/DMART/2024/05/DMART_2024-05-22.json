@@ -1,0 +1,152 @@
+{
+    "info": {
+        "symbol": "DMART",
+        "companyName": "Avenue Supermarts Limited",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE192R01011",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "DMARTEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "DMART",
+        "isin": "INE192R01011",
+        "status": "Listed",
+        "listingDate": "21-Mar-2017",
+        "industry": "Diversified Retail",
+        "lastUpdateTime": "22-May-2024 16:00:00",
+        "pdSectorPe": 120.77,
+        "pdSymbolPe": 120.77,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 650733068
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 4777.9,
+        "change": 72,
+        "pChange": 1.5299942625215157,
+        "previousClose": 4705.9,
+        "open": 4763.15,
+        "close": 4798.8,
+        "vwap": 4827.67,
+        "lowerCP": "3764.75",
+        "upperCP": "5647.05",
+        "pPriceBand": "20",
+        "basePrice": 4705.9,
+        "intraDayHighLow": {
+            "min": 4737.15,
+            "max": 4924.2,
+            "value": 4777.9
+        },
+        "weekHighLow": {
+            "min": 3382.15,
+            "minDate": "22-May-2023",
+            "max": 4924.2,
+            "maxDate": "22-May-2024",
+            "value": 4777.9
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Consumer Discretionary",
+        "sector": "Consumer Services",
+        "industry": "Retailing",
+        "basicIndustry": "Diversified Retail"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 4235.35,
+                "buyQty": 0,
+                "sellQty": 31
+            },
+            {
+                "price": 4470.65,
+                "buyQty": 0,
+                "sellQty": 7
+            },
+            {
+                "price": 4567.75,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 4580.5,
+                "buyQty": 0,
+                "sellQty": 40
+            },
+            {
+                "price": 4763.15,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 4948.65,
+                "buyQty": 1713,
+                "sellQty": 0
+            },
+            {
+                "price": 5106,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 5176.45,
+                "buyQty": 1721,
+                "sellQty": 0
+            },
+            {
+                "price": 5200,
+                "buyQty": 20,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 210,
+            "sell": 166
+        },
+        "IEP": 4763.15,
+        "totalTradedVolume": 6485,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "22-May-2024 09:07:53",
+        "totalBuyQuantity": 2577,
+        "totalSellQuantity": 13694,
+        "atoBuyQty": 210,
+        "atoSellQty": 166,
+        "Change": 57.25,
+        "perChange": 1.216557937907733,
+        "prevClose": 4705.9
+    }
+}
