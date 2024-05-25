@@ -1,0 +1,152 @@
+{
+    "info": {
+        "symbol": "ZOMATO",
+        "companyName": "Zomato Limited",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE758T01015",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "ZOMATOEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "ZOMATO",
+        "isin": "INE758T01015",
+        "status": "Listed",
+        "listingDate": "23-Jul-2021",
+        "industry": "E-Retail/ E-Commerce",
+        "lastUpdateTime": "24-May-2024 16:00:00",
+        "pdSectorPe": 469.77,
+        "pdSymbolPe": 469.77,
+        "pdSectorInd": null
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": "LTASM - I (13)",
+            "desc": "Long Term Additional Surveillance Measure (LTASM) - Stage I"
+        },
+        "faceValue": 1,
+        "issuedSize": 8826985307
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 182.5,
+        "change": -4.300000000000011,
+        "pChange": -2.3019271948608195,
+        "previousClose": 186.8,
+        "open": 188,
+        "close": 182.9,
+        "vwap": 183.93,
+        "lowerCP": "149.45",
+        "upperCP": "224.15",
+        "pPriceBand": "20",
+        "basePrice": 186.8,
+        "intraDayHighLow": {
+            "min": 179.1,
+            "max": 188,
+            "value": 182.5
+        },
+        "weekHighLow": {
+            "min": 62.75,
+            "minDate": "24-May-2023",
+            "max": 207.2,
+            "maxDate": "13-May-2024",
+            "value": 182.5
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Consumer Discretionary",
+        "sector": "Consumer Services",
+        "industry": "Retailing",
+        "basicIndustry": "E-Retail/ E-Commerce"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 150,
+                "buyQty": 0,
+                "sellQty": 500
+            },
+            {
+                "price": 156,
+                "buyQty": 0,
+                "sellQty": 273
+            },
+            {
+                "price": 165.85,
+                "buyQty": 0,
+                "sellQty": 25
+            },
+            {
+                "price": 171.1,
+                "buyQty": 0,
+                "sellQty": 5
+            },
+            {
+                "price": 188,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 196,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 196.1,
+                "buyQty": 2656,
+                "sellQty": 0
+            },
+            {
+                "price": 196.15,
+                "buyQty": 55,
+                "sellQty": 0
+            },
+            {
+                "price": 200,
+                "buyQty": 188,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 26705,
+            "sell": 55187
+        },
+        "IEP": 188,
+        "totalTradedVolume": 197298,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "24-May-2024 09:07:46",
+        "totalBuyQuantity": 805231,
+        "totalSellQuantity": 1900114,
+        "atoBuyQty": 26705,
+        "atoSellQty": 55187,
+        "Change": 1.1999999999999886,
+        "perChange": 0.6423982869378954,
+        "prevClose": 186.8
+    }
+}
