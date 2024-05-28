@@ -1,0 +1,154 @@
+{
+    "info": {
+        "symbol": "ATGL",
+        "companyName": "Adani Total Gas Limited",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "BE"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE399L01023",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "ATGLEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "ATGL",
+        "isin": "INE399L01023",
+        "status": "Listed",
+        "listingDate": "05-Nov-2018",
+        "industry": "LPG/CNG/PNG/LNG Supplier",
+        "lastUpdateTime": "27-May-2024 16:00:00",
+        "pdSectorPe": 165.88,
+        "pdSymbolPe": 165.88,
+        "pdSectorInd": null
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 1099810083
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 974.4,
+        "change": -5.350000000000023,
+        "pChange": -0.5460576677723933,
+        "previousClose": 979.75,
+        "open": 990,
+        "close": 972.6,
+        "vwap": 985.01,
+        "lowerCP": "783.80",
+        "upperCP": "1175.70",
+        "pPriceBand": "20",
+        "basePrice": 979.75,
+        "intraDayHighLow": {
+            "min": 969.55,
+            "max": 1008,
+            "value": 974.4
+        },
+        "weekHighLow": {
+            "min": 522,
+            "minDate": "26-Oct-2023",
+            "max": 1259.4,
+            "maxDate": "08-Dec-2023",
+            "value": 974.4
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Energy",
+        "sector": "Oil Gas & Consumable Fuels",
+        "industry": "Gas",
+        "basicIndustry": "LPG/CNG/PNG/LNG Supplier"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 789.7,
+                "buyQty": 0,
+                "sellQty": 100
+            },
+            {
+                "price": 793.7,
+                "buyQty": 0,
+                "sellQty": 100
+            },
+            {
+                "price": 797.8,
+                "buyQty": 0,
+                "sellQty": 100
+            },
+            {
+                "price": 807,
+                "buyQty": 0,
+                "sellQty": 41
+            },
+            {
+                "price": 990,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1028.7,
+                "buyQty": 3,
+                "sellQty": 0
+            },
+            {
+                "price": 1050,
+                "buyQty": 100,
+                "sellQty": 0
+            },
+            {
+                "price": 1070,
+                "buyQty": 50,
+                "sellQty": 0
+            },
+            {
+                "price": 1079.75,
+                "buyQty": 20,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 5953,
+            "sell": 522
+        },
+        "IEP": 990,
+        "totalTradedVolume": 13149,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "27-May-2024 09:07:14",
+        "totalBuyQuantity": 35586,
+        "totalSellQuantity": 90636,
+        "atoBuyQty": 5953,
+        "atoSellQty": 522,
+        "Change": 10.25,
+        "perChange": 1.0461852513396275,
+        "prevClose": 979.75
+    }
+}
