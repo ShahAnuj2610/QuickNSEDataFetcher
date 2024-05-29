@@ -1,0 +1,158 @@
+{
+    "info": {
+        "symbol": "NTPC",
+        "companyName": "NTPC Limited",
+        "industry": "POWER",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "N1",
+            "N4",
+            "U1",
+            "U4"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE733E07JH3",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "NTPCEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "NTPC",
+        "isin": "INE733E01010",
+        "status": "Listed",
+        "listingDate": "05-Nov-2004",
+        "industry": "Power Generation",
+        "lastUpdateTime": "28-May-2024 16:00:00",
+        "pdSectorPe": 18.2,
+        "pdSymbolPe": 18.2,
+        "pdSectorInd": "NIFTY INFRASTRUCTURE                              "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 9696666134
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 364.5,
+        "change": -5.149999999999977,
+        "pChange": -1.3932097930474712,
+        "previousClose": 369.65,
+        "open": 372.6,
+        "close": 365.4,
+        "vwap": 367.46,
+        "lowerCP": "332.70",
+        "upperCP": "406.60",
+        "pPriceBand": "No Band",
+        "basePrice": 369.65,
+        "intraDayHighLow": {
+            "min": 364.1,
+            "max": 373.25,
+            "value": 364.5
+        },
+        "weekHighLow": {
+            "min": 171.85,
+            "minDate": "01-Jun-2023",
+            "max": 380.5,
+            "maxDate": "27-May-2024",
+            "value": 364.5
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Utilities",
+        "sector": "Power",
+        "industry": "Power",
+        "basicIndustry": "Power Generation"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 332.7,
+                "buyQty": 0,
+                "sellQty": 61
+            },
+            {
+                "price": 346.3,
+                "buyQty": 0,
+                "sellQty": 273
+            },
+            {
+                "price": 350,
+                "buyQty": 0,
+                "sellQty": 50
+            },
+            {
+                "price": 351.2,
+                "buyQty": 0,
+                "sellQty": 4282
+            },
+            {
+                "price": 372.6,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 386.3,
+                "buyQty": 766,
+                "sellQty": 0
+            },
+            {
+                "price": 386.85,
+                "buyQty": 10,
+                "sellQty": 0
+            },
+            {
+                "price": 388.9,
+                "buyQty": 50,
+                "sellQty": 0
+            },
+            {
+                "price": 390,
+                "buyQty": 500,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 19218,
+            "sell": 1742
+        },
+        "IEP": 372.6,
+        "totalTradedVolume": 37853,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "28-May-2024 09:08:05",
+        "totalBuyQuantity": 200054,
+        "totalSellQuantity": 442069,
+        "atoBuyQty": 19218,
+        "atoSellQty": 1742,
+        "Change": 2.9500000000000455,
+        "perChange": 0.79805221155148,
+        "prevClose": 369.65
+    }
+}
