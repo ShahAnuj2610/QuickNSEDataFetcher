@@ -1,0 +1,156 @@
+{
+    "info": {
+        "symbol": "BANKBARODA",
+        "companyName": "Bank of Baroda",
+        "industry": "BANKS",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE028A01039",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "BANKBARODAEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "BANKBARODA",
+        "isin": "INE028A01039",
+        "status": "Listed",
+        "listingDate": "19-Feb-1997",
+        "industry": "Public Sector Bank",
+        "lastUpdateTime": "29-May-2024 16:00:00",
+        "pdSectorPe": 7.42,
+        "pdSymbolPe": 7.42,
+        "pdSectorInd": "NIFTY BANK                                        "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 5171362179
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 263.5,
+        "change": -0.8000000000000114,
+        "pChange": -0.3026863412788541,
+        "previousClose": 264.3,
+        "open": 262.9,
+        "close": 263.4,
+        "vwap": 263.88,
+        "lowerCP": "237.90",
+        "upperCP": "290.70",
+        "pPriceBand": "No Band",
+        "basePrice": 264.3,
+        "intraDayHighLow": {
+            "min": 261.8,
+            "max": 266.2,
+            "value": 263.5
+        },
+        "weekHighLow": {
+            "min": 182.1,
+            "minDate": "31-May-2023",
+            "max": 285.6,
+            "maxDate": "11-Mar-2024",
+            "value": 263.5
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Public Sector Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 259.05,
+                "buyQty": 0,
+                "sellQty": 123
+            },
+            {
+                "price": 260,
+                "buyQty": 0,
+                "sellQty": 3145
+            },
+            {
+                "price": 260.3,
+                "buyQty": 0,
+                "sellQty": 11000
+            },
+            {
+                "price": 260.6,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 262.9,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 274.75,
+                "buyQty": 3,
+                "sellQty": 0
+            },
+            {
+                "price": 276.2,
+                "buyQty": 29,
+                "sellQty": 0
+            },
+            {
+                "price": 277.5,
+                "buyQty": 892,
+                "sellQty": 0
+            },
+            {
+                "price": 280,
+                "buyQty": 200,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 13237,
+            "sell": 895
+        },
+        "IEP": 262.9,
+        "totalTradedVolume": 29794,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "29-May-2024 09:07:14",
+        "totalBuyQuantity": 130956,
+        "totalSellQuantity": 527866,
+        "atoBuyQty": 13237,
+        "atoSellQty": 895,
+        "Change": -1.400000000000034,
+        "perChange": -0.529701097238,
+        "prevClose": 264.3
+    }
+}
