@@ -1,0 +1,153 @@
+{
+    "info": {
+        "symbol": "SIEMENS",
+        "companyName": "Siemens Limited",
+        "industry": "ELECTRICAL EQUIPMENT",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE003A01024",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "SIEMENSEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "SIEMENS",
+        "isin": "INE003A01024",
+        "status": "Listed",
+        "listingDate": "06-Sep-1995",
+        "industry": "Heavy Electrical Equipment",
+        "lastUpdateTime": "03-Jun-2024 16:00:00",
+        "pdSectorPe": 106.23,
+        "pdSymbolPe": 106.23,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 356120255
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 7240,
+        "change": 272.0500000000002,
+        "pChange": 3.9043047094195593,
+        "previousClose": 6967.95,
+        "open": 7250,
+        "close": 7274,
+        "vwap": 7291.76,
+        "lowerCP": "6271.15",
+        "upperCP": "7664.70",
+        "pPriceBand": "No Band",
+        "basePrice": 6967.95,
+        "intraDayHighLow": {
+            "min": 7138.1,
+            "max": 7344.9,
+            "value": 7240
+        },
+        "weekHighLow": {
+            "min": 3246,
+            "minDate": "31-Oct-2023",
+            "max": 7387.2,
+            "maxDate": "23-May-2024",
+            "value": 7240
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Industrials",
+        "sector": "Capital Goods",
+        "industry": "Electrical Equipment",
+        "basicIndustry": "Heavy Electrical Equipment"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 6825,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 6828.6,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 6966.5,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 6967.95,
+                "buyQty": 0,
+                "sellQty": 26
+            },
+            {
+                "price": 7250,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 7388,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 7410,
+                "buyQty": 50,
+                "sellQty": 0
+            },
+            {
+                "price": 7456.65,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 7664.7,
+                "buyQty": 1,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 471,
+            "sell": 40
+        },
+        "IEP": 7250,
+        "totalTradedVolume": 904,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "03-Jun-2024 09:07:21",
+        "totalBuyQuantity": 3645,
+        "totalSellQuantity": 4305,
+        "atoBuyQty": 471,
+        "atoSellQty": 40,
+        "Change": 282.0500000000002,
+        "perChange": 4.0478189424436195,
+        "prevClose": 6967.95
+    }
+}

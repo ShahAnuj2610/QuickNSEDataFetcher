@@ -1,0 +1,153 @@
+{
+    "info": {
+        "symbol": "BOSCHLTD",
+        "companyName": "Bosch Limited",
+        "industry": "AUTO ANCILLARIES",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE323A01026",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "BOSCHLTDEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "BOSCHLTD",
+        "isin": "INE323A01026",
+        "status": "Listed",
+        "listingDate": "12-May-2003",
+        "industry": "Auto Components & Equipments",
+        "lastUpdateTime": "03-Jun-2024 16:00:00",
+        "pdSectorPe": 48.7,
+        "pdSymbolPe": 36,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 29493640
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 30000,
+        "change": -393.75,
+        "pChange": -1.2954966070326959,
+        "previousClose": 30393.75,
+        "open": 30555,
+        "close": 29989.35,
+        "vwap": 30342.14,
+        "lowerCP": "27354.40",
+        "upperCP": "33433.10",
+        "pPriceBand": "No Band",
+        "basePrice": 30393.75,
+        "intraDayHighLow": {
+            "min": 29865.75,
+            "max": 30694.35,
+            "value": 30000
+        },
+        "weekHighLow": {
+            "min": 17931.15,
+            "minDate": "14-Aug-2023",
+            "max": 32229.5,
+            "maxDate": "27-May-2024",
+            "value": 30000
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Consumer Discretionary",
+        "sector": "Automobile and Auto Components",
+        "industry": "Auto Components",
+        "basicIndustry": "Auto Components & Equipments"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 30393.75,
+                "buyQty": 0,
+                "sellQty": 10
+            },
+            {
+                "price": 30400,
+                "buyQty": 0,
+                "sellQty": 24
+            },
+            {
+                "price": 30474,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 30489,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 30555,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 31305.55,
+                "buyQty": 31,
+                "sellQty": 0
+            },
+            {
+                "price": 31761.5,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 33400,
+                "buyQty": 3,
+                "sellQty": 0
+            },
+            {
+                "price": 33433.1,
+                "buyQty": 12,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 85,
+            "sell": 9
+        },
+        "IEP": 30555,
+        "totalTradedVolume": 232,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "03-Jun-2024 09:07:24",
+        "totalBuyQuantity": 510,
+        "totalSellQuantity": 2034,
+        "atoBuyQty": 85,
+        "atoSellQty": 9,
+        "Change": 161.25,
+        "perChange": 0.5305367057371992,
+        "prevClose": 30393.75
+    }
+}

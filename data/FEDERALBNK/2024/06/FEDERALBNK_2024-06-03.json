@@ -1,0 +1,155 @@
+{
+    "info": {
+        "symbol": "FEDERALBNK",
+        "companyName": "The Federal Bank  Limited",
+        "industry": "BANKS",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE171A01029",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "FEDERALBNKEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "FEDERALBNK",
+        "isin": "INE171A01029",
+        "status": "Listed",
+        "listingDate": "08-Feb-1995",
+        "industry": "Private Sector Bank",
+        "lastUpdateTime": "03-Jun-2024 16:00:00",
+        "pdSectorPe": 10.07,
+        "pdSymbolPe": 10.07,
+        "pdSectorInd": "NIFTY BANK                                        "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 2441569759
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 165.3,
+        "change": 3.25,
+        "pChange": 2.005553841406973,
+        "previousClose": 162.05,
+        "open": 165.25,
+        "close": 164.35,
+        "vwap": 165.04,
+        "lowerCP": "145.85",
+        "upperCP": "178.25",
+        "pPriceBand": "No Band",
+        "basePrice": 162.05,
+        "intraDayHighLow": {
+            "min": 163.55,
+            "max": 167,
+            "value": 165.3
+        },
+        "weekHighLow": {
+            "min": 121,
+            "minDate": "26-Jun-2023",
+            "max": 170.3,
+            "maxDate": "02-May-2024",
+            "value": 165.3
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Private Sector Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 146,
+                "buyQty": 0,
+                "sellQty": 500
+            },
+            {
+                "price": 153,
+                "buyQty": 0,
+                "sellQty": 100
+            },
+            {
+                "price": 153.9,
+                "buyQty": 0,
+                "sellQty": 2113
+            },
+            {
+                "price": 155,
+                "buyQty": 0,
+                "sellQty": 180
+            },
+            {
+                "price": 165.25,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 170,
+                "buyQty": 2000,
+                "sellQty": 0
+            },
+            {
+                "price": 170.05,
+                "buyQty": 1000,
+                "sellQty": 0
+            },
+            {
+                "price": 170.1,
+                "buyQty": 710,
+                "sellQty": 0
+            },
+            {
+                "price": 178.25,
+                "buyQty": 498,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 12310,
+            "sell": 3459
+        },
+        "IEP": 165.25,
+        "totalTradedVolume": 60184,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "03-Jun-2024 09:07:27",
+        "totalBuyQuantity": 134286,
+        "totalSellQuantity": 556267,
+        "atoBuyQty": 12310,
+        "atoSellQty": 3459,
+        "Change": 3.1999999999999886,
+        "perChange": 1.9746991669237817,
+        "prevClose": 162.05
+    }
+}
