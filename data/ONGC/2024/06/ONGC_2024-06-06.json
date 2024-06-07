@@ -1,0 +1,154 @@
+{
+    "info": {
+        "symbol": "ONGC",
+        "companyName": "Oil & Natural Gas Corporation Limited",
+        "industry": "OIL EXPLORATION/PRODUCTION",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE213A01029",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "ONGCEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "ONGC",
+        "isin": "INE213A01029",
+        "status": "Listed",
+        "listingDate": "19-Jul-1995",
+        "industry": "Oil Exploration & Production",
+        "lastUpdateTime": "06-Jun-2024 16:00:00",
+        "pdSectorPe": 5.65,
+        "pdSymbolPe": 5.79,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 5,
+        "issuedSize": 12580279206
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 253.5,
+        "change": 6,
+        "pChange": 2.4242424242424243,
+        "previousClose": 247.5,
+        "open": 254,
+        "close": 252.3,
+        "vwap": 254.21,
+        "lowerCP": "222.75",
+        "upperCP": "272.25",
+        "pPriceBand": "No Band",
+        "basePrice": 247.5,
+        "intraDayHighLow": {
+            "min": 249.25,
+            "max": 259.5,
+            "value": 253.5
+        },
+        "weekHighLow": {
+            "min": 152.55,
+            "minDate": "07-Jun-2023",
+            "max": 292.95,
+            "maxDate": "03-May-2024",
+            "value": 253.5
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Energy",
+        "sector": "Oil Gas & Consumable Fuels",
+        "industry": "Oil",
+        "basicIndustry": "Oil Exploration & Production"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 230.2,
+                "buyQty": 0,
+                "sellQty": 1566
+            },
+            {
+                "price": 232,
+                "buyQty": 0,
+                "sellQty": 3744
+            },
+            {
+                "price": 235,
+                "buyQty": 0,
+                "sellQty": 50
+            },
+            {
+                "price": 235.15,
+                "buyQty": 0,
+                "sellQty": 5449
+            },
+            {
+                "price": 254,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 260.1,
+                "buyQty": 500,
+                "sellQty": 0
+            },
+            {
+                "price": 264.6,
+                "buyQty": 25,
+                "sellQty": 0
+            },
+            {
+                "price": 267,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 267.5,
+                "buyQty": 923,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 35918,
+            "sell": 2533
+        },
+        "IEP": 254,
+        "totalTradedVolume": 85559,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "06-Jun-2024 09:07:28",
+        "totalBuyQuantity": 223591,
+        "totalSellQuantity": 223901,
+        "atoBuyQty": 35918,
+        "atoSellQty": 2533,
+        "Change": 6.5,
+        "perChange": 2.6262626262626263,
+        "prevClose": 247.5
+    }
+}
