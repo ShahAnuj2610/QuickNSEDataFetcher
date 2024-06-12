@@ -1,0 +1,154 @@
+{
+    "info": {
+        "symbol": "CIPLA",
+        "companyName": "Cipla Limited",
+        "industry": "PHARMACEUTICALS",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE059A01026",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "CIPLAEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "CIPLA",
+        "isin": "INE059A01026",
+        "status": "Listed",
+        "listingDate": "08-Feb-1995",
+        "industry": "Pharmaceuticals",
+        "lastUpdateTime": "11-Jun-2024 16:00:00",
+        "pdSectorPe": 28.77,
+        "pdSymbolPe": 29.81,
+        "pdSectorInd": "NIFTY PHARMA                                      "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 807445736
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1535,
+        "change": 0.75,
+        "pChange": 0.04888381945576015,
+        "previousClose": 1534.25,
+        "open": 1545,
+        "close": 1530.25,
+        "vwap": 1537.4,
+        "lowerCP": "1380.85",
+        "upperCP": "1687.65",
+        "pPriceBand": "No Band",
+        "basePrice": 1534.25,
+        "intraDayHighLow": {
+            "min": 1527,
+            "max": 1546.45,
+            "value": 1535
+        },
+        "weekHighLow": {
+            "min": 955.15,
+            "minDate": "12-Jun-2023",
+            "max": 1546.45,
+            "maxDate": "11-Jun-2024",
+            "value": 1535
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Healthcare",
+        "sector": "Healthcare",
+        "industry": "Pharmaceuticals & Biotechnology",
+        "basicIndustry": "Pharmaceuticals"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1380.85,
+                "buyQty": 0,
+                "sellQty": 65
+            },
+            {
+                "price": 1457.55,
+                "buyQty": 0,
+                "sellQty": 680
+            },
+            {
+                "price": 1469.55,
+                "buyQty": 0,
+                "sellQty": 78
+            },
+            {
+                "price": 1501.6,
+                "buyQty": 0,
+                "sellQty": 5
+            },
+            {
+                "price": 1545,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1625,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 1634,
+                "buyQty": 29,
+                "sellQty": 0
+            },
+            {
+                "price": 1641.6,
+                "buyQty": 717,
+                "sellQty": 0
+            },
+            {
+                "price": 1687.65,
+                "buyQty": 113,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 5570,
+            "sell": 500
+        },
+        "IEP": 1545,
+        "totalTradedVolume": 10348,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "11-Jun-2024 09:07:17",
+        "totalBuyQuantity": 20044,
+        "totalSellQuantity": 35407,
+        "atoBuyQty": 5570,
+        "atoSellQty": 500,
+        "Change": 10.75,
+        "perChange": 0.7006680788658953,
+        "prevClose": 1534.25
+    }
+}
