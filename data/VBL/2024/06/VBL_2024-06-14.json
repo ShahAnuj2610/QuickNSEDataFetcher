@@ -1,0 +1,152 @@
+{
+    "info": {
+        "symbol": "VBL",
+        "companyName": "Varun Beverages Limited",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE200M01021",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "VBLEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "VBL",
+        "isin": "INE200M01021",
+        "status": "Listed",
+        "listingDate": "08-Nov-2016",
+        "industry": "Other Beverages",
+        "lastUpdateTime": "14-Jun-2024 16:00:00",
+        "pdSectorPe": 92.74,
+        "pdSymbolPe": 92.74,
+        "pdSectorInd": "NIFTY FMCG                                        "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 5,
+        "issuedSize": 1299426713
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1641.3,
+        "change": 62.75,
+        "pChange": 3.975167083716068,
+        "previousClose": 1578.55,
+        "open": 1579.8,
+        "close": 1639.25,
+        "vwap": 1615.89,
+        "lowerCP": "1262.85",
+        "upperCP": "1894.25",
+        "pPriceBand": "20",
+        "basePrice": 1578.55,
+        "intraDayHighLow": {
+            "min": 1574.55,
+            "max": 1650,
+            "value": 1641.3
+        },
+        "weekHighLow": {
+            "min": 755,
+            "minDate": "26-Jun-2023",
+            "max": 1650,
+            "maxDate": "14-Jun-2024",
+            "value": 1641.3
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Fast Moving Consumer Goods",
+        "sector": "Fast Moving Consumer Goods",
+        "industry": "Beverages",
+        "basicIndustry": "Other Beverages"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1262.85,
+                "buyQty": 0,
+                "sellQty": 368
+            },
+            {
+                "price": 1499.65,
+                "buyQty": 0,
+                "sellQty": 17
+            },
+            {
+                "price": 1531.2,
+                "buyQty": 0,
+                "sellQty": 77
+            },
+            {
+                "price": 1547,
+                "buyQty": 0,
+                "sellQty": 11
+            },
+            {
+                "price": 1579.8,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1627.3,
+                "buyQty": 685,
+                "sellQty": 0
+            },
+            {
+                "price": 1646.75,
+                "buyQty": 4,
+                "sellQty": 0
+            },
+            {
+                "price": 1649.6,
+                "buyQty": 35,
+                "sellQty": 0
+            },
+            {
+                "price": 1657.45,
+                "buyQty": 468,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 890,
+            "sell": 483
+        },
+        "IEP": 1579.8,
+        "totalTradedVolume": 4310,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "14-Jun-2024 09:07:34",
+        "totalBuyQuantity": 24162,
+        "totalSellQuantity": 76158,
+        "atoBuyQty": 890,
+        "atoSellQty": 483,
+        "Change": 1.25,
+        "perChange": 0.07918659529314877,
+        "prevClose": 1578.55
+    }
+}
