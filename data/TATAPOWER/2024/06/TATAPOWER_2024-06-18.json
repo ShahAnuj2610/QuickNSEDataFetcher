@@ -1,0 +1,153 @@
+{
+    "info": {
+        "symbol": "TATAPOWER",
+        "companyName": "Tata Power Company Limited",
+        "industry": "POWER",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE245A01021",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "TATAPOWEREQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "TATAPOWER",
+        "isin": "INE245A01021",
+        "status": "Listed",
+        "listingDate": "03-Apr-1996",
+        "industry": "Integrated Power Utilities",
+        "lastUpdateTime": "18-Jun-2024 16:00:00",
+        "pdSectorPe": 49.94,
+        "pdSymbolPe": 46.21,
+        "pdSectorInd": "NIFTY INFRASTRUCTURE                              "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 3195339547
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 451.2,
+        "change": 2.5500000000000114,
+        "pChange": 0.5683717820127073,
+        "previousClose": 448.65,
+        "open": 449.75,
+        "close": 451.7,
+        "vwap": 451.22,
+        "lowerCP": "403.80",
+        "upperCP": "493.50",
+        "pPriceBand": "No Band",
+        "basePrice": 448.65,
+        "intraDayHighLow": {
+            "min": 448.15,
+            "max": 454.25,
+            "value": 451.2
+        },
+        "weekHighLow": {
+            "min": 215.7,
+            "minDate": "23-Jun-2023",
+            "max": 464.2,
+            "maxDate": "03-May-2024",
+            "value": 451.2
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Utilities",
+        "sector": "Power",
+        "industry": "Power",
+        "basicIndustry": "Integrated Power Utilities"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 406.75,
+                "buyQty": 0,
+                "sellQty": 426
+            },
+            {
+                "price": 428.45,
+                "buyQty": 0,
+                "sellQty": 3
+            },
+            {
+                "price": 439.65,
+                "buyQty": 0,
+                "sellQty": 35
+            },
+            {
+                "price": 439.7,
+                "buyQty": 0,
+                "sellQty": 1313
+            },
+            {
+                "price": 449.75,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 471.05,
+                "buyQty": 250,
+                "sellQty": 0
+            },
+            {
+                "price": 471.1,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 488.65,
+                "buyQty": 50,
+                "sellQty": 0
+            },
+            {
+                "price": 493,
+                "buyQty": 50,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 16685,
+            "sell": 10042
+        },
+        "IEP": 449.75,
+        "totalTradedVolume": 32075,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "18-Jun-2024 09:07:10",
+        "totalBuyQuantity": 96960,
+        "totalSellQuantity": 583585,
+        "atoBuyQty": 16685,
+        "atoSellQty": 10042,
+        "Change": 1.1000000000000227,
+        "perChange": 0.24517998439764244,
+        "prevClose": 448.65
+    }
+}
