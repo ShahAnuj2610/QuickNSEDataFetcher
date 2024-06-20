@@ -1,0 +1,153 @@
+{
+    "info": {
+        "symbol": "ITC",
+        "companyName": "ITC Limited",
+        "industry": "CIGARETTES",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE154A01025",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "ITCEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "ITC",
+        "isin": "INE154A01025",
+        "status": "Listed",
+        "listingDate": "23-Aug-1995",
+        "industry": "Diversified FMCG",
+        "lastUpdateTime": "19-Jun-2024 16:00:00",
+        "pdSectorPe": 25.82,
+        "pdSymbolPe": 25.83,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 12484721472
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 423.4,
+        "change": -5.350000000000023,
+        "pChange": -1.2478134110787225,
+        "previousClose": 428.75,
+        "open": 430,
+        "close": 423.65,
+        "vwap": 425.65,
+        "lowerCP": "385.90",
+        "upperCP": "471.60",
+        "pPriceBand": "No Band",
+        "basePrice": 428.75,
+        "intraDayHighLow": {
+            "min": 423.05,
+            "max": 430.75,
+            "value": 423.4
+        },
+        "weekHighLow": {
+            "min": 399.35,
+            "minDate": "12-Mar-2024",
+            "max": 499.7,
+            "maxDate": "24-Jul-2023",
+            "value": 423.4
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Fast Moving Consumer Goods",
+        "sector": "Fast Moving Consumer Goods",
+        "industry": "Diversified FMCG",
+        "basicIndustry": "Diversified FMCG"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 385.9,
+                "buyQty": 0,
+                "sellQty": 15
+            },
+            {
+                "price": 400,
+                "buyQty": 0,
+                "sellQty": 60
+            },
+            {
+                "price": 405.1,
+                "buyQty": 0,
+                "sellQty": 31
+            },
+            {
+                "price": 420.2,
+                "buyQty": 0,
+                "sellQty": 4912
+            },
+            {
+                "price": 430,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 448.25,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 448.35,
+                "buyQty": 32,
+                "sellQty": 0
+            },
+            {
+                "price": 450,
+                "buyQty": 300,
+                "sellQty": 0
+            },
+            {
+                "price": 450.15,
+                "buyQty": 1051,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 8606,
+            "sell": 2972
+        },
+        "IEP": 430,
+        "totalTradedVolume": 22221,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "19-Jun-2024 09:07:39",
+        "totalBuyQuantity": 398384,
+        "totalSellQuantity": 617643,
+        "atoBuyQty": 8606,
+        "atoSellQty": 2972,
+        "Change": 1.25,
+        "perChange": 0.2915451895043732,
+        "prevClose": 428.75
+    }
+}
