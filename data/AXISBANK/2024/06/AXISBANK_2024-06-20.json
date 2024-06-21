@@ -1,0 +1,155 @@
+{
+    "info": {
+        "symbol": "AXISBANK",
+        "companyName": "Axis Bank Limited",
+        "industry": "BANKS",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE238A01034",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "AXISBANKEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "AXISBANK",
+        "isin": "INE238A01034",
+        "status": "Listed",
+        "listingDate": "16-Nov-1998",
+        "industry": "Private Sector Bank",
+        "lastUpdateTime": "20-Jun-2024 16:00:00",
+        "pdSectorPe": 14.34,
+        "pdSymbolPe": 14.34,
+        "pdSectorInd": "NIFTY BANK                                        "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 3089678141
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1238,
+        "change": 11.349999999999909,
+        "pChange": 0.9252843109281301,
+        "previousClose": 1226.65,
+        "open": 1230.1,
+        "close": 1239.5,
+        "vwap": 1234.4,
+        "lowerCP": "1104.00",
+        "upperCP": "1349.30",
+        "pPriceBand": "No Band",
+        "basePrice": 1226.65,
+        "intraDayHighLow": {
+            "min": 1220.4,
+            "max": 1241.5,
+            "value": 1238
+        },
+        "weekHighLow": {
+            "min": 927.15,
+            "minDate": "03-Aug-2023",
+            "max": 1243.35,
+            "maxDate": "19-Jun-2024",
+            "value": 1238
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Private Sector Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1104,
+                "buyQty": 0,
+                "sellQty": 1806
+            },
+            {
+                "price": 1132.35,
+                "buyQty": 0,
+                "sellQty": 2631
+            },
+            {
+                "price": 1140.8,
+                "buyQty": 0,
+                "sellQty": 1219
+            },
+            {
+                "price": 1150,
+                "buyQty": 0,
+                "sellQty": 30
+            },
+            {
+                "price": 1230.1,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1287.95,
+                "buyQty": 747,
+                "sellQty": 0
+            },
+            {
+                "price": 1288,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 1295,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 1300,
+                "buyQty": 37,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 4741,
+            "sell": 956
+        },
+        "IEP": 1230.1,
+        "totalTradedVolume": 17858,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "20-Jun-2024 09:07:20",
+        "totalBuyQuantity": 31412,
+        "totalSellQuantity": 83068,
+        "atoBuyQty": 4741,
+        "atoSellQty": 956,
+        "Change": 3.449999999999818,
+        "perChange": 0.28125382138342786,
+        "prevClose": 1226.65
+    }
+}
