@@ -1,0 +1,154 @@
+{
+    "info": {
+        "symbol": "ADANIGREEN",
+        "companyName": "Adani Green Energy Limited",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "BE"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE364U01010",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "ADANIGREENEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "ADANIGREEN",
+        "isin": "INE364U01010",
+        "status": "Listed",
+        "listingDate": "18-Jun-2018",
+        "industry": "Power Generation",
+        "lastUpdateTime": "21-Jun-2024 16:00:00",
+        "pdSectorPe": 236.31,
+        "pdSymbolPe": 294.69,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 1584032478
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1781.95,
+        "change": -24.450000000000045,
+        "pChange": -1.3535208148804276,
+        "previousClose": 1806.4,
+        "open": 1810,
+        "close": 1780.45,
+        "vwap": 1790.52,
+        "lowerCP": "1445.15",
+        "upperCP": "2167.65",
+        "pPriceBand": "20",
+        "basePrice": 1806.4,
+        "intraDayHighLow": {
+            "min": 1775.25,
+            "max": 1814.3,
+            "value": 1781.95
+        },
+        "weekHighLow": {
+            "min": 815.55,
+            "minDate": "26-Oct-2023",
+            "max": 2174.1,
+            "maxDate": "03-Jun-2024",
+            "value": 1781.95
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Utilities",
+        "sector": "Power",
+        "industry": "Power",
+        "basicIndustry": "Power Generation"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1517,
+                "buyQty": 0,
+                "sellQty": 16
+            },
+            {
+                "price": 1700,
+                "buyQty": 0,
+                "sellQty": 20
+            },
+            {
+                "price": 1716.1,
+                "buyQty": 0,
+                "sellQty": 42
+            },
+            {
+                "price": 1752.25,
+                "buyQty": 0,
+                "sellQty": 51
+            },
+            {
+                "price": 1810,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1887.65,
+                "buyQty": 21,
+                "sellQty": 0
+            },
+            {
+                "price": 1896.7,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 1972,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 1990,
+                "buyQty": 12,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 324,
+            "sell": 41
+        },
+        "IEP": 1810,
+        "totalTradedVolume": 1021,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "21-Jun-2024 09:07:37",
+        "totalBuyQuantity": 15009,
+        "totalSellQuantity": 51398,
+        "atoBuyQty": 324,
+        "atoSellQty": 41,
+        "Change": 3.599999999999909,
+        "perChange": 0.1992914083259471,
+        "prevClose": 1806.4
+    }
+}
