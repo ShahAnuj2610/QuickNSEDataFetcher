@@ -1,0 +1,153 @@
+{
+    "info": {
+        "symbol": "GAIL",
+        "companyName": "GAIL (India) Limited",
+        "industry": "GAS",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE129A01019",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "GAILEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "GAIL",
+        "isin": "INE129A01019",
+        "status": "Listed",
+        "listingDate": "02-Apr-1997",
+        "industry": "Gas Transmission/Marketing",
+        "lastUpdateTime": "01-Jul-2024 16:00:00",
+        "pdSectorPe": 17.39,
+        "pdSymbolPe": 16.79,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 6575099643
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 222.1,
+        "change": 2.549999999999983,
+        "pChange": 1.161466636301518,
+        "previousClose": 219.55,
+        "open": 220.25,
+        "close": 222.55,
+        "vwap": 220.92,
+        "lowerCP": "197.59",
+        "upperCP": "241.50",
+        "pPriceBand": "No Band",
+        "basePrice": 219.55,
+        "intraDayHighLow": {
+            "min": 219.55,
+            "max": 224,
+            "value": 222.1
+        },
+        "weekHighLow": {
+            "min": 103.75,
+            "minDate": "30-Jun-2023",
+            "max": 233.2,
+            "maxDate": "03-Jun-2024",
+            "value": 222.1
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Energy",
+        "sector": "Oil Gas & Consumable Fuels",
+        "industry": "Gas",
+        "basicIndustry": "Gas Transmission/Marketing"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 197.59,
+                "buyQty": 0,
+                "sellQty": 344
+            },
+            {
+                "price": 209.93,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 210,
+                "buyQty": 0,
+                "sellQty": 2401
+            },
+            {
+                "price": 211,
+                "buyQty": 0,
+                "sellQty": 400
+            },
+            {
+                "price": 220.25,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 229.43,
+                "buyQty": 779,
+                "sellQty": 0
+            },
+            {
+                "price": 229.45,
+                "buyQty": 50,
+                "sellQty": 0
+            },
+            {
+                "price": 230.52,
+                "buyQty": 135,
+                "sellQty": 0
+            },
+            {
+                "price": 240,
+                "buyQty": 609,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 11627,
+            "sell": 6124
+        },
+        "IEP": 220.25,
+        "totalTradedVolume": 45530,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "01-Jul-2024 09:07:16",
+        "totalBuyQuantity": 156967,
+        "totalSellQuantity": 870155,
+        "atoBuyQty": 11627,
+        "atoSellQty": 6124,
+        "Change": 0.6999999999999886,
+        "perChange": 0.3188339785925705,
+        "prevClose": 219.55
+    }
+}
