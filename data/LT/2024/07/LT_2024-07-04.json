@@ -1,0 +1,153 @@
+{
+    "info": {
+        "symbol": "LT",
+        "companyName": "Larsen & Toubro Limited",
+        "industry": "ENGINEERING",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE018A01030",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "LTEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "LT",
+        "isin": "INE018A01030",
+        "status": "Listed",
+        "listingDate": "23-Jun-2004",
+        "industry": "Civil Construction",
+        "lastUpdateTime": "04-Jul-2024 16:00:00",
+        "pdSectorPe": 32.06,
+        "pdSymbolPe": 31.92,
+        "pdSectorInd": "NIFTY INFRASTRUCTURE                              "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 1374848104
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 3581.65,
+        "change": -32.69999999999982,
+        "pChange": -0.9047269910218938,
+        "previousClose": 3614.35,
+        "open": 3616.1,
+        "close": 3573.3,
+        "vwap": 3603.24,
+        "lowerCP": "3252.95",
+        "upperCP": "3975.75",
+        "pPriceBand": "No Band",
+        "basePrice": 3614.35,
+        "intraDayHighLow": {
+            "min": 3565.8,
+            "max": 3644,
+            "value": 3581.65
+        },
+        "weekHighLow": {
+            "min": 2420,
+            "minDate": "10-Jul-2023",
+            "max": 3919.9,
+            "maxDate": "03-Jun-2024",
+            "value": 3581.65
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Industrials",
+        "sector": "Construction",
+        "industry": "Construction",
+        "basicIndustry": "Civil Construction"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 3252.95,
+                "buyQty": 0,
+                "sellQty": 660
+            },
+            {
+                "price": 3505.95,
+                "buyQty": 0,
+                "sellQty": 1784
+            },
+            {
+                "price": 3542.1,
+                "buyQty": 0,
+                "sellQty": 16
+            },
+            {
+                "price": 3554,
+                "buyQty": 0,
+                "sellQty": 680
+            },
+            {
+                "price": 3616.1,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 3740,
+                "buyQty": 25,
+                "sellQty": 0
+            },
+            {
+                "price": 3777,
+                "buyQty": 92,
+                "sellQty": 0
+            },
+            {
+                "price": 3777.65,
+                "buyQty": 15,
+                "sellQty": 0
+            },
+            {
+                "price": 3795.05,
+                "buyQty": 1,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 2330,
+            "sell": 382
+        },
+        "IEP": 3616.1,
+        "totalTradedVolume": 5288,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "04-Jul-2024 09:07:28",
+        "totalBuyQuantity": 27139,
+        "totalSellQuantity": 76794,
+        "atoBuyQty": 2330,
+        "atoSellQty": 382,
+        "Change": 1.75,
+        "perChange": 0.04841811114031569,
+        "prevClose": 3614.35
+    }
+}

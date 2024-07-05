@@ -1,0 +1,157 @@
+{
+    "info": {
+        "symbol": "JSWSTEEL",
+        "companyName": "JSW Steel Limited",
+        "industry": "STEEL AND STEEL PRODUCTS",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "P1",
+            "P2"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE019A01038",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "JSWSTEELEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "JSWSTEEL",
+        "isin": "INE019A01038",
+        "status": "Listed",
+        "listingDate": "23-Mar-2005",
+        "industry": "Iron & Steel",
+        "lastUpdateTime": "04-Jul-2024 16:00:00",
+        "pdSectorPe": 26.8,
+        "pdSymbolPe": 25.41,
+        "pdSectorInd": "NIFTY METAL                                       "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 2445453966
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 945.65,
+        "change": -4.75,
+        "pChange": -0.4997895622895623,
+        "previousClose": 950.4,
+        "open": 950.4,
+        "close": 944.35,
+        "vwap": 949.61,
+        "lowerCP": "855.40",
+        "upperCP": "1045.40",
+        "pPriceBand": "No Band",
+        "basePrice": 950.4,
+        "intraDayHighLow": {
+            "min": 943,
+            "max": 959.4,
+            "value": 945.65
+        },
+        "weekHighLow": {
+            "min": 723,
+            "minDate": "01-Nov-2023",
+            "max": 959.4,
+            "maxDate": "04-Jul-2024",
+            "value": 945.65
+        },
+        "iNavValue": null,
+        "checkINAV": false
+    },
+    "industryInfo": {
+        "macro": "Commodities",
+        "sector": "Metals & Mining",
+        "industry": "Ferrous Metals",
+        "basicIndustry": "Iron & Steel"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 900,
+                "buyQty": 0,
+                "sellQty": 25
+            },
+            {
+                "price": 902.9,
+                "buyQty": 0,
+                "sellQty": 152
+            },
+            {
+                "price": 919,
+                "buyQty": 0,
+                "sellQty": 748
+            },
+            {
+                "price": 930,
+                "buyQty": 0,
+                "sellQty": 675
+            },
+            {
+                "price": 950.4,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 980,
+                "buyQty": 200,
+                "sellQty": 0
+            },
+            {
+                "price": 993.15,
+                "buyQty": 14,
+                "sellQty": 0
+            },
+            {
+                "price": 1020,
+                "buyQty": 50,
+                "sellQty": 0
+            },
+            {
+                "price": 1030,
+                "buyQty": 10,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 561,
+            "sell": 173
+        },
+        "IEP": 950.4,
+        "totalTradedVolume": 6595,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "04-Jul-2024 09:07:28",
+        "totalBuyQuantity": 12264,
+        "totalSellQuantity": 42285,
+        "atoBuyQty": 561,
+        "atoSellQty": 173,
+        "Change": 0,
+        "perChange": 0,
+        "prevClose": 950.4
+    }
+}
