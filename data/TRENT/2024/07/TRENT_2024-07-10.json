@@ -1,0 +1,161 @@
+{
+    "info": {
+        "symbol": "TRENT",
+        "companyName": "Trent Limited",
+        "industry": "MISCELLANEOUS",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL",
+            "N1",
+            "Q1",
+            "Q2",
+            "W1"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE849A13017",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "TRENTEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "TRENT",
+        "isin": "INE849A01020",
+        "status": "Listed",
+        "listingDate": "07-Jun-2004",
+        "industry": "Speciality Retail",
+        "lastUpdateTime": "10-Jul-2024 16:00:00",
+        "pdSectorPe": 238.29,
+        "pdSymbolPe": 146.85,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 355487461
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 5547.8,
+        "change": -45.05000000000018,
+        "pChange": -0.805492727321494,
+        "previousClose": 5592.85,
+        "open": 5610,
+        "close": 5568,
+        "vwap": 5547.49,
+        "lowerCP": "5033.60",
+        "upperCP": "6152.10",
+        "pPriceBand": "No Band",
+        "basePrice": 5592.85,
+        "intraDayHighLow": {
+            "min": 5470.05,
+            "max": 5626.45,
+            "value": 5547.8
+        },
+        "weekHighLow": {
+            "min": 1657.45,
+            "minDate": "14-Jul-2023",
+            "max": 5665,
+            "maxDate": "08-Jul-2024",
+            "value": 5547.8
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Consumer Discretionary",
+        "sector": "Consumer Services",
+        "industry": "Retailing",
+        "basicIndustry": "Speciality Retail"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 5313.25,
+                "buyQty": 0,
+                "sellQty": 12
+            },
+            {
+                "price": 5425.1,
+                "buyQty": 0,
+                "sellQty": 6
+            },
+            {
+                "price": 5479.55,
+                "buyQty": 0,
+                "sellQty": 30
+            },
+            {
+                "price": 5575,
+                "buyQty": 0,
+                "sellQty": 20
+            },
+            {
+                "price": 5610,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 5760.65,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 5844.5,
+                "buyQty": 3,
+                "sellQty": 0
+            },
+            {
+                "price": 5872.45,
+                "buyQty": 419,
+                "sellQty": 0
+            },
+            {
+                "price": 6152.1,
+                "buyQty": 60,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 62,
+            "sell": 14
+        },
+        "IEP": 5610,
+        "totalTradedVolume": 591,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "10-Jul-2024 09:08:03",
+        "totalBuyQuantity": 1855,
+        "totalSellQuantity": 9871,
+        "atoBuyQty": 62,
+        "atoSellQty": 14,
+        "Change": 17.149999999999636,
+        "perChange": 0.30664151550639895,
+        "prevClose": 5592.85
+    }
+}
