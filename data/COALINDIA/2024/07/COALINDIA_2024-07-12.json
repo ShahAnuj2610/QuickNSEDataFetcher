@@ -1,0 +1,154 @@
+{
+    "info": {
+        "symbol": "COALINDIA",
+        "companyName": "Coal India Limited",
+        "industry": "MINING",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE522F01014",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "COALINDIAEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "COALINDIA",
+        "isin": "INE522F01014",
+        "status": "Listed",
+        "listingDate": "04-Nov-2010",
+        "industry": "Coal",
+        "lastUpdateTime": "12-Jul-2024 16:00:00",
+        "pdSectorPe": 9.61,
+        "pdSymbolPe": 9.61,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 6162728327
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 497.35,
+        "change": -2.6999999999999886,
+        "pChange": -0.5399460053994578,
+        "previousClose": 500.05,
+        "open": 504,
+        "close": 496.2,
+        "vwap": 502.52,
+        "lowerCP": "450.05",
+        "upperCP": "550.05",
+        "pPriceBand": "No Band",
+        "basePrice": 500.05,
+        "intraDayHighLow": {
+            "min": 495.5,
+            "max": 508.6,
+            "value": 497.35
+        },
+        "weekHighLow": {
+            "min": 226.85,
+            "minDate": "31-Jul-2023",
+            "max": 527.4,
+            "maxDate": "03-Jun-2024",
+            "value": 497.35
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Energy",
+        "sector": "Oil Gas & Consumable Fuels",
+        "industry": "Consumable Fuels",
+        "basicIndustry": "Coal"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 450.05,
+                "buyQty": 0,
+                "sellQty": 5046
+            },
+            {
+                "price": 480,
+                "buyQty": 0,
+                "sellQty": 216
+            },
+            {
+                "price": 490.05,
+                "buyQty": 0,
+                "sellQty": 340
+            },
+            {
+                "price": 490.2,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 504,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 529,
+                "buyQty": 20,
+                "sellQty": 0
+            },
+            {
+                "price": 535,
+                "buyQty": 11,
+                "sellQty": 0
+            },
+            {
+                "price": 540,
+                "buyQty": 340,
+                "sellQty": 0
+            },
+            {
+                "price": 550,
+                "buyQty": 251,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 20766,
+            "sell": 413
+        },
+        "IEP": 504,
+        "totalTradedVolume": 34940,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "12-Jul-2024 09:07:30",
+        "totalBuyQuantity": 142105,
+        "totalSellQuantity": 303597,
+        "atoBuyQty": 20766,
+        "atoSellQty": 413,
+        "Change": 3.9499999999999886,
+        "perChange": 0.7899210078992077,
+        "prevClose": 500.05
+    }
+}
