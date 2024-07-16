@@ -1,0 +1,154 @@
+{
+    "info": {
+        "symbol": "WIPRO",
+        "companyName": "Wipro Limited",
+        "industry": "COMPUTERS - SOFTWARE",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE075A01022",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "WIPROEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "WIPRO",
+        "isin": "INE075A01022",
+        "status": "Listed",
+        "listingDate": "08-Nov-1995",
+        "industry": "Computers - Software & Consulting",
+        "lastUpdateTime": "15-Jul-2024 16:00:00",
+        "pdSectorPe": 26.31,
+        "pdSymbolPe": 26.31,
+        "pdSectorInd": "NIFTY IT                                          "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 5230474458
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 561,
+        "change": 0.8500000000000227,
+        "pChange": 0.15174506828528478,
+        "previousClose": 560.15,
+        "open": 566.9,
+        "close": 559.7,
+        "vwap": 560.78,
+        "lowerCP": "504.15",
+        "upperCP": "616.15",
+        "pPriceBand": "No Band",
+        "basePrice": 560.15,
+        "intraDayHighLow": {
+            "min": 556.15,
+            "max": 566.9,
+            "value": 561
+        },
+        "weekHighLow": {
+            "min": 375.05,
+            "minDate": "26-Oct-2023",
+            "max": 566.9,
+            "maxDate": "15-Jul-2024",
+            "value": 561
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Information Technology",
+        "sector": "Information Technology",
+        "industry": "IT - Software",
+        "basicIndustry": "Computers - Software & Consulting"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 504.15,
+                "buyQty": 0,
+                "sellQty": 371
+            },
+            {
+                "price": 504.3,
+                "buyQty": 0,
+                "sellQty": 200
+            },
+            {
+                "price": 520,
+                "buyQty": 0,
+                "sellQty": 27
+            },
+            {
+                "price": 525,
+                "buyQty": 0,
+                "sellQty": 300
+            },
+            {
+                "price": 566.9,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 599.35,
+                "buyQty": 6673,
+                "sellQty": 0
+            },
+            {
+                "price": 600,
+                "buyQty": 447,
+                "sellQty": 0
+            },
+            {
+                "price": 616,
+                "buyQty": 40,
+                "sellQty": 0
+            },
+            {
+                "price": 616.15,
+                "buyQty": 11439,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 41566,
+            "sell": 6030
+        },
+        "IEP": 566.9,
+        "totalTradedVolume": 76278,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "15-Jul-2024 09:07:43",
+        "totalBuyQuantity": 115176,
+        "totalSellQuantity": 227537,
+        "atoBuyQty": 41566,
+        "atoSellQty": 6030,
+        "Change": 6.75,
+        "perChange": 1.2050343657948765,
+        "prevClose": 560.15
+    }
+}

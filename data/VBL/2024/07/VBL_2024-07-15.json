@@ -1,0 +1,153 @@
+{
+    "info": {
+        "symbol": "VBL",
+        "companyName": "Varun Beverages Limited",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE200M01021",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "VBLEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "VBL",
+        "isin": "INE200M01021",
+        "status": "Listed",
+        "listingDate": "08-Nov-2016",
+        "industry": "Other Beverages",
+        "lastUpdateTime": "15-Jul-2024 16:00:00",
+        "pdSectorPe": 93.09,
+        "pdSymbolPe": 93.09,
+        "pdSectorInd": "NIFTY FMCG                                        "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 5,
+        "issuedSize": 1299440413
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1625,
+        "change": 40.5,
+        "pChange": 2.5560113600504892,
+        "previousClose": 1584.5,
+        "open": 1580,
+        "close": 1627.85,
+        "vwap": 1611.17,
+        "lowerCP": "1267.60",
+        "upperCP": "1901.40",
+        "pPriceBand": "20",
+        "basePrice": 1584.5,
+        "intraDayHighLow": {
+            "min": 1572,
+            "max": 1633,
+            "value": 1625
+        },
+        "weekHighLow": {
+            "min": 784.9,
+            "minDate": "24-Jul-2023",
+            "max": 1672,
+            "maxDate": "19-Jun-2024",
+            "value": 1625
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Fast Moving Consumer Goods",
+        "sector": "Fast Moving Consumer Goods",
+        "industry": "Beverages",
+        "basicIndustry": "Other Beverages"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1505.3,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 1512.85,
+                "buyQty": 0,
+                "sellQty": 75
+            },
+            {
+                "price": 1537,
+                "buyQty": 0,
+                "sellQty": 2
+            },
+            {
+                "price": 1546,
+                "buyQty": 0,
+                "sellQty": 150
+            },
+            {
+                "price": 1580,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1658.55,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 1661.1,
+                "buyQty": 100,
+                "sellQty": 0
+            },
+            {
+                "price": 1663,
+                "buyQty": 51,
+                "sellQty": 0
+            },
+            {
+                "price": 1663.7,
+                "buyQty": 46,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 718,
+            "sell": 1541
+        },
+        "IEP": 1580,
+        "totalTradedVolume": 6262,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "15-Jul-2024 09:07:40",
+        "totalBuyQuantity": 30861,
+        "totalSellQuantity": 61137,
+        "atoBuyQty": 718,
+        "atoSellQty": 1541,
+        "Change": -4.5,
+        "perChange": -0.2840012622278321,
+        "prevClose": 1584.5
+    }
+}

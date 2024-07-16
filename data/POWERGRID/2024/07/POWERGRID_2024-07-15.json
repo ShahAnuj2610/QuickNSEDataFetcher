@@ -1,0 +1,156 @@
+{
+    "info": {
+        "symbol": "POWERGRID",
+        "companyName": "Power Grid Corporation of India Limited",
+        "industry": "POWER",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE752E01010",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "POWERGRIDEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "POWERGRID",
+        "isin": "INE752E01010",
+        "status": "Listed",
+        "listingDate": "05-Oct-2007",
+        "industry": "Power - Transmission",
+        "lastUpdateTime": "15-Jul-2024 16:00:00",
+        "pdSectorPe": 20.46,
+        "pdSymbolPe": 20.46,
+        "pdSectorInd": "NIFTY 500                                         "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 9300603819
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 343.8,
+        "change": 0.6999999999999886,
+        "pChange": 0.2040221509763884,
+        "previousClose": 343.1,
+        "open": 345.4,
+        "close": 343.85,
+        "vwap": 343.63,
+        "lowerCP": "308.80",
+        "upperCP": "377.40",
+        "pPriceBand": "No Band",
+        "basePrice": 343.1,
+        "intraDayHighLow": {
+            "min": 340.2,
+            "max": 345.4,
+            "value": 343.8
+        },
+        "weekHighLow": {
+            "min": 177.53,
+            "minDate": "14-Jul-2023",
+            "max": 348.75,
+            "maxDate": "11-Jul-2024",
+            "value": 343.8
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Utilities",
+        "sector": "Power",
+        "industry": "Power",
+        "basicIndustry": "Power - Transmission"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 325.95,
+                "buyQty": 0,
+                "sellQty": 4537
+            },
+            {
+                "price": 327.65,
+                "buyQty": 0,
+                "sellQty": 5
+            },
+            {
+                "price": 331,
+                "buyQty": 0,
+                "sellQty": 265
+            },
+            {
+                "price": 332.85,
+                "buyQty": 0,
+                "sellQty": 2095
+            },
+            {
+                "price": 345.4,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 358.55,
+                "buyQty": 6,
+                "sellQty": 0
+            },
+            {
+                "price": 360.25,
+                "buyQty": 4917,
+                "sellQty": 0
+            },
+            {
+                "price": 371,
+                "buyQty": 8,
+                "sellQty": 0
+            },
+            {
+                "price": 377.4,
+                "buyQty": 3935,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 8101,
+            "sell": 1178
+        },
+        "IEP": 345.4,
+        "totalTradedVolume": 25564,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "15-Jul-2024 09:07:40",
+        "totalBuyQuantity": 87408,
+        "totalSellQuantity": 192414,
+        "atoBuyQty": 8101,
+        "atoSellQty": 1178,
+        "Change": 2.2999999999999545,
+        "perChange": 0.6703584960652739,
+        "prevClose": 343.1
+    }
+}
