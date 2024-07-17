@@ -1,0 +1,155 @@
+{
+    "info": {
+        "symbol": "ATGL",
+        "companyName": "Adani Total Gas Limited",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "BE"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE399L01023",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "ATGLEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "ATGL",
+        "isin": "INE399L01023",
+        "status": "Listed",
+        "listingDate": "05-Nov-2018",
+        "industry": "LPG/CNG/PNG/LNG Supplier",
+        "lastUpdateTime": "16-Jul-2024 16:00:00",
+        "pdSectorPe": 151.63,
+        "pdSymbolPe": 151.63,
+        "pdSectorInd": null
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 1099810083
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 904,
+        "change": 8.399999999999977,
+        "pChange": 0.9379187137114757,
+        "previousClose": 895.6,
+        "open": 904.55,
+        "close": 906,
+        "vwap": 905.3,
+        "lowerCP": "716.50",
+        "upperCP": "1074.70",
+        "pPriceBand": "20",
+        "basePrice": 895.6,
+        "intraDayHighLow": {
+            "min": 897.6,
+            "max": 915.8,
+            "value": 904
+        },
+        "weekHighLow": {
+            "min": 522,
+            "minDate": "26-Oct-2023",
+            "max": 1259.4,
+            "maxDate": "08-Dec-2023",
+            "value": 904
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Energy",
+        "sector": "Oil Gas & Consumable Fuels",
+        "industry": "Gas",
+        "basicIndustry": "LPG/CNG/PNG/LNG Supplier"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 737,
+                "buyQty": 0,
+                "sellQty": 27
+            },
+            {
+                "price": 804,
+                "buyQty": 0,
+                "sellQty": 10
+            },
+            {
+                "price": 806.05,
+                "buyQty": 0,
+                "sellQty": 132
+            },
+            {
+                "price": 809,
+                "buyQty": 0,
+                "sellQty": 10
+            },
+            {
+                "price": 904.55,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 919,
+                "buyQty": 20,
+                "sellQty": 0
+            },
+            {
+                "price": 920,
+                "buyQty": 25,
+                "sellQty": 0
+            },
+            {
+                "price": 940.35,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 1074.7,
+                "buyQty": 950,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 2396,
+            "sell": 682
+        },
+        "IEP": 904.55,
+        "totalTradedVolume": 4948,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "16-Jul-2024 09:07:54",
+        "totalBuyQuantity": 17601,
+        "totalSellQuantity": 101525,
+        "atoBuyQty": 2396,
+        "atoSellQty": 682,
+        "Change": 8.949999999999932,
+        "perChange": 0.999330058061627,
+        "prevClose": 895.6
+    }
+}
