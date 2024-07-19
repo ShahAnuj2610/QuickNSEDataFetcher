@@ -1,0 +1,156 @@
+{
+    "info": {
+        "symbol": "PNB",
+        "companyName": "Punjab National Bank",
+        "industry": "BANKS",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE160A01022",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "PNBEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "PNB",
+        "isin": "INE160A01022",
+        "status": "Listed",
+        "listingDate": "24-Apr-2002",
+        "industry": "Public Sector Bank",
+        "lastUpdateTime": "18-Jul-2024 16:00:00",
+        "pdSectorPe": 15.85,
+        "pdSymbolPe": 15.85,
+        "pdSectorInd": "NIFTY BANK                                        "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 11011015558
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 118.88,
+        "change": -0.980000000000004,
+        "pChange": -0.817620557316873,
+        "previousClose": 119.86,
+        "open": 119.99,
+        "close": 118.84,
+        "vwap": 119.44,
+        "lowerCP": "107.87",
+        "upperCP": "131.84",
+        "pPriceBand": "No Band",
+        "basePrice": 119.86,
+        "intraDayHighLow": {
+            "min": 118.15,
+            "max": 120.9,
+            "value": 118.88
+        },
+        "weekHighLow": {
+            "min": 58.55,
+            "minDate": "02-Aug-2023",
+            "max": 142.9,
+            "maxDate": "30-Apr-2024",
+            "value": 118.88
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.01
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Public Sector Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 113.86,
+                "buyQty": 0,
+                "sellQty": 1300
+            },
+            {
+                "price": 113.87,
+                "buyQty": 0,
+                "sellQty": 685
+            },
+            {
+                "price": 114.45,
+                "buyQty": 0,
+                "sellQty": 119
+            },
+            {
+                "price": 114.6,
+                "buyQty": 0,
+                "sellQty": 4800
+            },
+            {
+                "price": 119.99,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 125.4,
+                "buyQty": 4,
+                "sellQty": 0
+            },
+            {
+                "price": 125.85,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 130,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 131,
+                "buyQty": 1067,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 29042,
+            "sell": 18939
+        },
+        "IEP": 119.99,
+        "totalTradedVolume": 77279,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "18-Jul-2024 09:07:40",
+        "totalBuyQuantity": 306936,
+        "totalSellQuantity": 1919974,
+        "atoBuyQty": 29042,
+        "atoSellQty": 18939,
+        "Change": 0.12999999999999545,
+        "perChange": 0.1084598698481524,
+        "prevClose": 119.86
+    }
+}
