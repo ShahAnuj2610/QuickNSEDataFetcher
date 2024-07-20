@@ -1,0 +1,153 @@
+{
+    "info": {
+        "symbol": "AUBANK",
+        "companyName": "AU Small Finance Bank Limited",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE949L01017",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "AUBANKEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "AUBANK",
+        "isin": "INE949L01017",
+        "status": "Listed",
+        "listingDate": "10-Jul-2017",
+        "industry": "Other Bank",
+        "lastUpdateTime": "19-Jul-2024 16:00:00",
+        "pdSectorPe": 29.45,
+        "pdSymbolPe": 30.65,
+        "pdSectorInd": "NIFTY BANK                                        "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 743159155
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 632.1,
+        "change": -0.9499999999999318,
+        "pChange": -0.15006713529735913,
+        "previousClose": 633.05,
+        "open": 630.5,
+        "close": 633.65,
+        "vwap": 631.81,
+        "lowerCP": "569.75",
+        "upperCP": "696.35",
+        "pPriceBand": "No Band",
+        "basePrice": 633.05,
+        "intraDayHighLow": {
+            "min": 625.15,
+            "max": 635.35,
+            "value": 632.1
+        },
+        "weekHighLow": {
+            "min": 553.7,
+            "minDate": "20-Mar-2024",
+            "max": 813.4,
+            "maxDate": "09-Jan-2024",
+            "value": 632.1
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Other Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 569.75,
+                "buyQty": 0,
+                "sellQty": 2
+            },
+            {
+                "price": 598.2,
+                "buyQty": 0,
+                "sellQty": 525
+            },
+            {
+                "price": 625.4,
+                "buyQty": 0,
+                "sellQty": 26
+            },
+            {
+                "price": 627.75,
+                "buyQty": 0,
+                "sellQty": 26
+            },
+            {
+                "price": 630.5,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 645.5,
+                "buyQty": 27,
+                "sellQty": 0
+            },
+            {
+                "price": 645.75,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 661.5,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 696.35,
+                "buyQty": 151,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 21,
+            "sell": 197
+        },
+        "IEP": 630.5,
+        "totalTradedVolume": 1355,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "19-Jul-2024 09:07:21",
+        "totalBuyQuantity": 9716,
+        "totalSellQuantity": 75391,
+        "atoBuyQty": 21,
+        "atoSellQty": 197,
+        "Change": -2.5499999999999545,
+        "perChange": -0.4028117842192488,
+        "prevClose": 633.05
+    }
+}
