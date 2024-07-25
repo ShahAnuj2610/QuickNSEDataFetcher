@@ -1,0 +1,156 @@
+{
+    "info": {
+        "symbol": "AXISBANK",
+        "companyName": "Axis Bank Limited",
+        "industry": "BANKS",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE238A01034",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "AXISBANKEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "AXISBANK",
+        "isin": "INE238A01034",
+        "status": "Listed",
+        "listingDate": "16-Nov-1998",
+        "industry": "Private Sector Bank",
+        "lastUpdateTime": "24-Jul-2024 16:00:00",
+        "pdSectorPe": 14.78,
+        "pdSymbolPe": 14.78,
+        "pdSectorInd": "NIFTY BANK                                        "
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 3090963522
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1240.2,
+        "change": -23.049999999999955,
+        "pChange": -1.8246586186423872,
+        "previousClose": 1263.25,
+        "open": 1262.9,
+        "close": 1239.25,
+        "vwap": 1240.48,
+        "lowerCP": "1136.95",
+        "upperCP": "1389.55",
+        "pPriceBand": "No Band",
+        "basePrice": 1263.25,
+        "intraDayHighLow": {
+            "min": 1226.65,
+            "max": 1267.35,
+            "value": 1240.2
+        },
+        "weekHighLow": {
+            "min": 927.15,
+            "minDate": "03-Aug-2023",
+            "max": 1339.65,
+            "maxDate": "12-Jul-2024",
+            "value": 1240.2
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Private Sector Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1193.8,
+                "buyQty": 0,
+                "sellQty": 951
+            },
+            {
+                "price": 1225.4,
+                "buyQty": 0,
+                "sellQty": 1822
+            },
+            {
+                "price": 1240,
+                "buyQty": 0,
+                "sellQty": 1000
+            },
+            {
+                "price": 1242.45,
+                "buyQty": 0,
+                "sellQty": 42
+            },
+            {
+                "price": 1262.9,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1288.5,
+                "buyQty": 3201,
+                "sellQty": 0
+            },
+            {
+                "price": 1288.55,
+                "buyQty": 71,
+                "sellQty": 0
+            },
+            {
+                "price": 1320.1,
+                "buyQty": 6,
+                "sellQty": 0
+            },
+            {
+                "price": 1326.4,
+                "buyQty": 95,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 1607,
+            "sell": 997
+        },
+        "IEP": 1262.9,
+        "totalTradedVolume": 9147,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "24-Jul-2024 09:07:54",
+        "totalBuyQuantity": 14722,
+        "totalSellQuantity": 39391,
+        "atoBuyQty": 1607,
+        "atoSellQty": 997,
+        "Change": -0.34999999999990905,
+        "perChange": -0.02770631308133062,
+        "prevClose": 1263.25
+    }
+}
