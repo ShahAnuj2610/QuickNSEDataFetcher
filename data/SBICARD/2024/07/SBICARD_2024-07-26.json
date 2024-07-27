@@ -1,0 +1,171 @@
+{
+    "info": {
+        "symbol": "SBICARD",
+        "companyName": "SBI Cards and Payment Services Limited",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE018E01016",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "SBICARDEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "SBICARD",
+        "isin": "INE018E01016",
+        "status": "Listed",
+        "listingDate": "16-Mar-2020",
+        "industry": "Non Banking Financial Company (NBFC)",
+        "lastUpdateTime": "26-Jul-2024 16:00:00",
+        "pdSectorPe": 28.85,
+        "pdSymbolPe": 28.85,
+        "pdSectorInd": "NIFTY NEXT 50",
+        "pdSectorIndAll": [
+            "NIFTY NEXT 50",
+            "NIFTY FINANCIAL SERVICES",
+            "NIFTY 500",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY FINANCIAL SERVICES 25/50",
+            "NIFTY100 ESG SECTOR LEADERS",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY100 ESG",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY FINANCIAL SERVICES EX-BANK",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY 200",
+            "NIFTY TOTAL MARKET",
+            "NIFTY 100"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 951052534
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 720.7,
+        "change": -9.799999999999955,
+        "pChange": -1.3415468856947232,
+        "previousClose": 730.5,
+        "open": 730.4,
+        "close": 721.7,
+        "vwap": 723.01,
+        "lowerCP": "657.45",
+        "upperCP": "803.55",
+        "pPriceBand": "No Band",
+        "basePrice": 730.5,
+        "intraDayHighLow": {
+            "min": 718.1,
+            "max": 730.4,
+            "value": 720.7
+        },
+        "weekHighLow": {
+            "min": 647.95,
+            "minDate": "04-Jun-2024",
+            "max": 892.85,
+            "maxDate": "08-Aug-2023",
+            "value": 720.7
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Finance",
+        "basicIndustry": "Non Banking Financial Company (NBFC)"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 692,
+                "buyQty": 0,
+                "sellQty": 200
+            },
+            {
+                "price": 694,
+                "buyQty": 0,
+                "sellQty": 344
+            },
+            {
+                "price": 700,
+                "buyQty": 0,
+                "sellQty": 35
+            },
+            {
+                "price": 712.3,
+                "buyQty": 0,
+                "sellQty": 190
+            },
+            {
+                "price": 730.4,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 745,
+                "buyQty": 84,
+                "sellQty": 0
+            },
+            {
+                "price": 745.15,
+                "buyQty": 12,
+                "sellQty": 0
+            },
+            {
+                "price": 763.35,
+                "buyQty": 210,
+                "sellQty": 0
+            },
+            {
+                "price": 767,
+                "buyQty": 20,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 1293,
+            "sell": 552
+        },
+        "IEP": 730.4,
+        "totalTradedVolume": 5914,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "26-Jul-2024 09:07:15",
+        "totalBuyQuantity": 34197,
+        "totalSellQuantity": 96949,
+        "atoBuyQty": 1293,
+        "atoSellQty": 552,
+        "Change": -0.10000000000002274,
+        "perChange": -0.013689253935663618,
+        "prevClose": 730.5
+    }
+}

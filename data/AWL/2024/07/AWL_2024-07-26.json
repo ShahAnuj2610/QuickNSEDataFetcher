@@ -1,0 +1,163 @@
+{
+    "info": {
+        "symbol": "AWL",
+        "companyName": "Adani Wilmar Limited",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE699H01024",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "AWLEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "AWL",
+        "isin": "INE699H01024",
+        "status": "Listed",
+        "listingDate": "08-Feb-2022",
+        "industry": "Edible Oil",
+        "lastUpdateTime": "26-Jul-2024 16:00:00",
+        "pdSectorPe": 196.88,
+        "pdSymbolPe": 246.26,
+        "pdSectorInd": "NIFTY 500",
+        "pdSectorIndAll": [
+            "NIFTY 500",
+            "NIFTY MIDCAP 150",
+            "NIFTY MIDSMALLCAP 400",
+            "NIFTY TOTAL MARKET",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY LARGEMIDCAP 250"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 1299678605
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 325.65,
+        "change": 2.2999999999999545,
+        "pChange": 0.7113035410545707,
+        "previousClose": 323.35,
+        "open": 325.45,
+        "close": 325.15,
+        "vwap": 327.89,
+        "lowerCP": "291.05",
+        "upperCP": "355.65",
+        "pPriceBand": "10",
+        "basePrice": 323.35,
+        "intraDayHighLow": {
+            "min": 324,
+            "max": 333.9,
+            "value": 325.65
+        },
+        "weekHighLow": {
+            "min": 285.8,
+            "minDate": "20-Nov-2023",
+            "max": 422.7,
+            "maxDate": "26-Jul-2023",
+            "value": 325.65
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Fast Moving Consumer Goods",
+        "sector": "Fast Moving Consumer Goods",
+        "industry": "Agricultural Food & other Products",
+        "basicIndustry": "Edible Oil"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 300,
+                "buyQty": 0,
+                "sellQty": 150
+            },
+            {
+                "price": 305,
+                "buyQty": 0,
+                "sellQty": 70
+            },
+            {
+                "price": 307.2,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 316.9,
+                "buyQty": 0,
+                "sellQty": 3
+            },
+            {
+                "price": 325.45,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 329.2,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 329.85,
+                "buyQty": 67,
+                "sellQty": 0
+            },
+            {
+                "price": 332.35,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 337.9,
+                "buyQty": 67,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 1611,
+            "sell": 1043
+        },
+        "IEP": 325.45,
+        "totalTradedVolume": 5213,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "26-Jul-2024 09:07:12",
+        "totalBuyQuantity": 48626,
+        "totalSellQuantity": 150474,
+        "atoBuyQty": 1611,
+        "atoSellQty": 1043,
+        "Change": 2.099999999999966,
+        "perChange": 0.6494510592237408,
+        "prevClose": 323.35
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "info": {
+        "symbol": "LICI",
+        "companyName": "Life Insurance Corporation Of India",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE0J1Y01017",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "LICIEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "LICI",
+        "isin": "INE0J1Y01017",
+        "status": "Listed",
+        "listingDate": "17-May-2022",
+        "industry": "Life Insurance",
+        "lastUpdateTime": "26-Jul-2024 16:00:00",
+        "pdSectorPe": "NA",
+        "pdSymbolPe": "NA",
+        "pdSectorInd": "NIFTY NEXT 50",
+        "pdSectorIndAll": [
+            "NIFTY NEXT 50",
+            "NIFTY PSE",
+            "NIFTY 100",
+            "NIFTY 200",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY TOTAL MARKET",
+            "NIFTY100 ESG",
+            "NIFTY 500",
+            "NIFTY100 EQUAL WEIGHT"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 6324997701
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1190,
+        "change": 29.09999999999991,
+        "pChange": 2.5066758549401245,
+        "previousClose": 1160.9,
+        "open": 1165,
+        "close": 1184.35,
+        "vwap": 1179.88,
+        "lowerCP": "928.75",
+        "upperCP": "1393.05",
+        "pPriceBand": "20",
+        "basePrice": 1160.9,
+        "intraDayHighLow": {
+            "min": 1151.05,
+            "max": 1197,
+            "value": 1190
+        },
+        "weekHighLow": {
+            "min": 597.35,
+            "minDate": "26-Oct-2023",
+            "max": 1197,
+            "maxDate": "26-Jul-2024",
+            "value": 1190
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Insurance",
+        "basicIndustry": "Life Insurance"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1063.9,
+                "buyQty": 0,
+                "sellQty": 50
+            },
+            {
+                "price": 1074.3,
+                "buyQty": 0,
+                "sellQty": 10
+            },
+            {
+                "price": 1081,
+                "buyQty": 0,
+                "sellQty": 5
+            },
+            {
+                "price": 1090,
+                "buyQty": 0,
+                "sellQty": 25
+            },
+            {
+                "price": 1165,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1211.35,
+                "buyQty": 15,
+                "sellQty": 0
+            },
+            {
+                "price": 1213.1,
+                "buyQty": 50,
+                "sellQty": 0
+            },
+            {
+                "price": 1228,
+                "buyQty": 5,
+                "sellQty": 0
+            },
+            {
+                "price": 1250,
+                "buyQty": 1,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 3303,
+            "sell": 1584
+        },
+        "IEP": 1165,
+        "totalTradedVolume": 10165,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "26-Jul-2024 09:07:13",
+        "totalBuyQuantity": 87846,
+        "totalSellQuantity": 215745,
+        "atoBuyQty": 3303,
+        "atoSellQty": 1584,
+        "Change": 4.099999999999909,
+        "perChange": 0.35317426134894553,
+        "prevClose": 1160.9
+    }
+}
