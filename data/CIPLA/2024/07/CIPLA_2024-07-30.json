@@ -1,0 +1,181 @@
+{
+    "info": {
+        "symbol": "CIPLA",
+        "companyName": "Cipla Limited",
+        "industry": "PHARMACEUTICALS",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE059A01026",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "CIPLAEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "CIPLA",
+        "isin": "INE059A01026",
+        "status": "Listed",
+        "listingDate": "08-Feb-1995",
+        "industry": "Pharmaceuticals",
+        "lastUpdateTime": "30-Jul-2024 16:00:00",
+        "pdSectorPe": 27.97,
+        "pdSymbolPe": 28.95,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY100 ESG",
+            "NIFTY 500",
+            "NIFTY 200",
+            "NIFTY GROWTH SECTORS 15",
+            "NIFTY50 SHARIAH",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY500 SHARIAH",
+            "NIFTY SHARIAH 25",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY100 LOW VOLATILITY 30",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY QUALITY LOW-VOLATILITY 30",
+            "NIFTY100 ESG SECTOR LEADERS",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY HEALTHCARE INDEX",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY INDIA MANUFACTURING",
+            "NIFTY500 MULTICAP INDIA MANUFACTURING 50:30:20",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY TOTAL MARKET",
+            "NIFTY 100",
+            "NIFTY PHARMA"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 807553105
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1529,
+        "change": -24.950000000000045,
+        "pChange": -1.6055857653077668,
+        "previousClose": 1553.95,
+        "open": 1554,
+        "close": 1528.9,
+        "vwap": 1535.54,
+        "lowerCP": "1398.55",
+        "upperCP": "1709.30",
+        "pPriceBand": "No Band",
+        "basePrice": 1553.95,
+        "intraDayHighLow": {
+            "min": 1526,
+            "max": 1564.05,
+            "value": 1529
+        },
+        "weekHighLow": {
+            "min": 1132,
+            "minDate": "26-Oct-2023",
+            "max": 1600,
+            "maxDate": "26-Jul-2024",
+            "value": 1529
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Healthcare",
+        "sector": "Healthcare",
+        "industry": "Pharmaceuticals & Biotechnology",
+        "basicIndustry": "Pharmaceuticals"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1444,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 1476,
+                "buyQty": 0,
+                "sellQty": 200
+            },
+            {
+                "price": 1476.3,
+                "buyQty": 0,
+                "sellQty": 504
+            },
+            {
+                "price": 1482,
+                "buyQty": 0,
+                "sellQty": 306
+            },
+            {
+                "price": 1554,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1605,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 1623.85,
+                "buyQty": 23,
+                "sellQty": 0
+            },
+            {
+                "price": 1623.9,
+                "buyQty": 12,
+                "sellQty": 0
+            },
+            {
+                "price": 1709.3,
+                "buyQty": 13,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 894,
+            "sell": 363
+        },
+        "IEP": 1554,
+        "totalTradedVolume": 4208,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "30-Jul-2024 09:07:34",
+        "totalBuyQuantity": 19343,
+        "totalSellQuantity": 22358,
+        "atoBuyQty": 894,
+        "atoSellQty": 363,
+        "Change": 0.049999999999954525,
+        "perChange": 0.003217606744100809,
+        "prevClose": 1553.95
+    }
+}

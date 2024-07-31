@@ -1,0 +1,174 @@
+{
+    "info": {
+        "symbol": "SBILIFE",
+        "companyName": "SBI Life Insurance Company Limited",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE123W01016",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "SBILIFEEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "SBILIFE",
+        "isin": "INE123W01016",
+        "status": "Listed",
+        "listingDate": "03-Oct-2017",
+        "industry": "Life Insurance",
+        "lastUpdateTime": "30-Jul-2024 16:00:00",
+        "pdSectorPe": 86.08,
+        "pdSymbolPe": 86.08,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY FINANCIAL SERVICES",
+            "NIFTY SERVICES SECTOR",
+            "NIFTY 200",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY100 LOW VOLATILITY 30",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY FINANCIAL SERVICES 25/50",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY FINANCIAL SERVICES EX-BANK",
+            "NIFTY RURAL",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY TOTAL MARKET",
+            "NIFTY100 ESG",
+            "NIFTY 100",
+            "NIFTY 500"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 1001576855
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1717.45,
+        "change": -29.25,
+        "pChange": -1.6745863628556705,
+        "previousClose": 1746.7,
+        "open": 1740.5,
+        "close": 1721.05,
+        "vwap": 1725.51,
+        "lowerCP": "1572.05",
+        "upperCP": "1921.35",
+        "pPriceBand": "No Band",
+        "basePrice": 1746.7,
+        "intraDayHighLow": {
+            "min": 1708,
+            "max": 1746.3,
+            "value": 1717.45
+        },
+        "weekHighLow": {
+            "min": 1251.65,
+            "minDate": "03-Aug-2023",
+            "max": 1777.7,
+            "maxDate": "26-Jul-2024",
+            "value": 1717.45
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Insurance",
+        "basicIndustry": "Life Insurance"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1572.05,
+                "buyQty": 0,
+                "sellQty": 108
+            },
+            {
+                "price": 1575.85,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 1650.6,
+                "buyQty": 0,
+                "sellQty": 260
+            },
+            {
+                "price": 1711.8,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 1740.5,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1799.1,
+                "buyQty": 44,
+                "sellQty": 0
+            },
+            {
+                "price": 1824.15,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 1825.3,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 1834,
+                "buyQty": 10,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 273,
+            "sell": 95
+        },
+        "IEP": 1740.5,
+        "totalTradedVolume": 1188,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "30-Jul-2024 09:07:39",
+        "totalBuyQuantity": 3556,
+        "totalSellQuantity": 6670,
+        "atoBuyQty": 273,
+        "atoSellQty": 95,
+        "Change": -6.2000000000000455,
+        "perChange": -0.35495505810958067,
+        "prevClose": 1746.7
+    }
+}
