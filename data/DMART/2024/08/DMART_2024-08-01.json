@@ -1,0 +1,171 @@
+{
+    "info": {
+        "symbol": "DMART",
+        "companyName": "Avenue Supermarts Limited",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE192R01011",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "DMARTEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "DMART",
+        "isin": "INE192R01011",
+        "status": "Listed",
+        "listingDate": "21-Mar-2017",
+        "industry": "Diversified Retail",
+        "lastUpdateTime": "01-Aug-2024 16:00:00",
+        "pdSectorPe": 121.18,
+        "pdSymbolPe": 121.18,
+        "pdSectorInd": "NIFTY NEXT 50",
+        "pdSectorIndAll": [
+            "NIFTY NEXT 50",
+            "NIFTY SERVICES SECTOR",
+            "NIFTY 500",
+            "NIFTY INDIA CONSUMPTION",
+            "NIFTY 200",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY TOTAL MARKET",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY100 ESG",
+            "NIFTY NON-CYCLICAL CONSUMER",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY 100",
+            "NIFTY500 SHARIAH"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 650733068
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 4990,
+        "change": 54.05000000000018,
+        "pChange": 1.0950272997092796,
+        "previousClose": 4935.95,
+        "open": 4949,
+        "close": 4993.8,
+        "vwap": 4947.05,
+        "lowerCP": "3948.80",
+        "upperCP": "5923.10",
+        "pPriceBand": "20",
+        "basePrice": 4935.95,
+        "intraDayHighLow": {
+            "min": 4883,
+            "max": 5008,
+            "value": 4990
+        },
+        "weekHighLow": {
+            "min": 3491.25,
+            "minDate": "16-Aug-2023",
+            "max": 5219,
+            "maxDate": "19-Jun-2024",
+            "value": 4990
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Consumer Discretionary",
+        "sector": "Consumer Services",
+        "industry": "Retailing",
+        "basicIndustry": "Diversified Retail"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 4236.9,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 4442.4,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 4635.9,
+                "buyQty": 0,
+                "sellQty": 10
+            },
+            {
+                "price": 4842.45,
+                "buyQty": 0,
+                "sellQty": 10
+            },
+            {
+                "price": 4949,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 4995,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 5034.7,
+                "buyQty": 19,
+                "sellQty": 0
+            },
+            {
+                "price": 5158.05,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 5182.7,
+                "buyQty": 1,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 123,
+            "sell": 80
+        },
+        "IEP": 4949,
+        "totalTradedVolume": 462,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "01-Aug-2024 09:07:15",
+        "totalBuyQuantity": 5255,
+        "totalSellQuantity": 13373,
+        "atoBuyQty": 123,
+        "atoSellQty": 80,
+        "Change": 13.050000000000182,
+        "perChange": 0.26438679484192873,
+        "prevClose": 4935.95
+    }
+}
