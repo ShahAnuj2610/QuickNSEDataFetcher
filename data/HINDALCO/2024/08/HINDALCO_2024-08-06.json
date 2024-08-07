@@ -1,0 +1,183 @@
+{
+    "info": {
+        "symbol": "HINDALCO",
+        "companyName": "Hindalco Industries Limited",
+        "industry": "Aluminium",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "P1",
+            "E1",
+            "E2"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "IN9038A01028",
+        "slb_isin": "INE038A01020",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "HINDALCOEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "HINDALCO",
+        "isin": "INE038A01020",
+        "status": "Listed",
+        "listingDate": "08-Jan-1997",
+        "industry": "Aluminium",
+        "lastUpdateTime": "06-Aug-2024 16:00:00",
+        "pdSectorPe": 13.62,
+        "pdSymbolPe": 13.6,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY 500",
+            "NIFTY 200",
+            "NIFTY METAL",
+            "NIFTY COMMODITIES",
+            "NIFTY50 VALUE 20",
+            "NIFTY500 VALUE 50",
+            "NIFTY HIGH BETA 50",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY INDIA MANUFACTURING",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY100 ESG",
+            "NIFTY500 MULTICAP INDIA MANUFACTURING 50:30:20",
+            "NIFTY TOTAL MARKET",
+            "NIFTY200 VALUE 30",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY 100",
+            "NIFTY INDIA CORPORATE GROUP INDEX - ADITYA BIRLA GROUP"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 2247216523
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 614,
+        "change": -0.2999999999999545,
+        "pChange": -0.0488360735796768,
+        "previousClose": 614.3,
+        "open": 625,
+        "close": 610.3,
+        "vwap": 617.81,
+        "lowerCP": "552.90",
+        "upperCP": "675.70",
+        "pPriceBand": "No Band",
+        "basePrice": 614.3,
+        "intraDayHighLow": {
+            "min": 608,
+            "max": 629,
+            "value": 614
+        },
+        "weekHighLow": {
+            "min": 438.15,
+            "minDate": "18-Aug-2023",
+            "max": 715.25,
+            "maxDate": "03-Jun-2024",
+            "value": 614
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Commodities",
+        "sector": "Metals & Mining",
+        "industry": "Non - Ferrous Metals",
+        "basicIndustry": "Aluminium"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 552.9,
+                "buyQty": 0,
+                "sellQty": 240
+            },
+            {
+                "price": 575,
+                "buyQty": 0,
+                "sellQty": 36
+            },
+            {
+                "price": 583.6,
+                "buyQty": 0,
+                "sellQty": 4
+            },
+            {
+                "price": 583.75,
+                "buyQty": 0,
+                "sellQty": 1222
+            },
+            {
+                "price": 625,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 647,
+                "buyQty": 3,
+                "sellQty": 0
+            },
+            {
+                "price": 670,
+                "buyQty": 74,
+                "sellQty": 0
+            },
+            {
+                "price": 675,
+                "buyQty": 5,
+                "sellQty": 0
+            },
+            {
+                "price": 675.7,
+                "buyQty": 11,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 2182,
+            "sell": 5231
+        },
+        "IEP": 625,
+        "totalTradedVolume": 22415,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "06-Aug-2024 09:07:22",
+        "totalBuyQuantity": 67266,
+        "totalSellQuantity": 41060,
+        "atoBuyQty": 2182,
+        "atoSellQty": 5231,
+        "Change": 10.700000000000045,
+        "perChange": 1.7418199576754105,
+        "prevClose": 614.3
+    }
+}
