@@ -1,0 +1,188 @@
+{
+    "info": {
+        "symbol": "COALINDIA",
+        "companyName": "Coal India Limited",
+        "industry": "Coal",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE522F01014",
+        "slb_isin": "INE522F01014",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "COALINDIAEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "COALINDIA",
+        "isin": "INE522F01014",
+        "status": "Listed",
+        "listingDate": "04-Nov-2010",
+        "industry": "Coal",
+        "lastUpdateTime": "08-Aug-2024 16:00:00",
+        "pdSectorPe": 9.37,
+        "pdSymbolPe": 9.37,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY ENERGY",
+            "NIFTY 500",
+            "NIFTY 200",
+            "NIFTY CPSE",
+            "NIFTY100 QUALITY 30",
+            "NIFTY DIVIDEND OPPORTUNITIES 50",
+            "NIFTY50 VALUE 20",
+            "NIFTY100 LIQUID 15",
+            "NIFTY50 SHARIAH",
+            "NIFTY COMMODITIES",
+            "NIFTY500 SHARIAH",
+            "NIFTY500 VALUE 50",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY SHARIAH 25",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY ALPHA QUALITY VALUE LOW-VOLATILITY 30",
+            "NIFTY QUALITY LOW-VOLATILITY 30",
+            "NIFTY ALPHA QUALITY LOW-VOLATILITY 30",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY200 QUALITY 30",
+            "NIFTY200 MOMENTUM 30",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY TOTAL MARKET",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY200 VALUE 30",
+            "NIFTY100 ESG",
+            "NIFTY200 ALPHA 30",
+            "NIFTY PSE",
+            "NIFTY 100"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 6162728327
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 523.2,
+        "change": -8.299999999999955,
+        "pChange": -1.5616180620884204,
+        "previousClose": 531.5,
+        "open": 534,
+        "close": 523.45,
+        "vwap": 527.94,
+        "lowerCP": "478.35",
+        "upperCP": "584.65",
+        "pPriceBand": "No Band",
+        "basePrice": 531.5,
+        "intraDayHighLow": {
+            "min": 521.25,
+            "max": 535,
+            "value": 523.2
+        },
+        "weekHighLow": {
+            "min": 227,
+            "minDate": "21-Aug-2023",
+            "max": 542.25,
+            "maxDate": "01-Aug-2024",
+            "value": 523.2
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Energy",
+        "sector": "Oil Gas & Consumable Fuels",
+        "industry": "Consumable Fuels",
+        "basicIndustry": "Coal"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 478.35,
+                "buyQty": 0,
+                "sellQty": 211
+            },
+            {
+                "price": 490.5,
+                "buyQty": 0,
+                "sellQty": 119
+            },
+            {
+                "price": 500,
+                "buyQty": 0,
+                "sellQty": 57
+            },
+            {
+                "price": 501.5,
+                "buyQty": 0,
+                "sellQty": 93
+            },
+            {
+                "price": 534,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 554.65,
+                "buyQty": 10,
+                "sellQty": 0
+            },
+            {
+                "price": 555.4,
+                "buyQty": 443,
+                "sellQty": 0
+            },
+            {
+                "price": 558.05,
+                "buyQty": 1710,
+                "sellQty": 0
+            },
+            {
+                "price": 560,
+                "buyQty": 377,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 9324,
+            "sell": 4374
+        },
+        "IEP": 534,
+        "totalTradedVolume": 82238,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "08-Aug-2024 09:07:23",
+        "totalBuyQuantity": 144525,
+        "totalSellQuantity": 206217,
+        "atoBuyQty": 9324,
+        "atoSellQty": 4374,
+        "Change": 2.5,
+        "perChange": 0.4703668861712135,
+        "prevClose": 531.5
+    }
+}

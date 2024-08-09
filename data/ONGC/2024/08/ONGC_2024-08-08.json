@@ -1,0 +1,187 @@
+{
+    "info": {
+        "symbol": "ONGC",
+        "companyName": "Oil & Natural Gas Corporation Limited",
+        "industry": "Oil Exploration & Production",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE213A01029",
+        "slb_isin": "INE213A01029",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "ONGCEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "ONGC",
+        "isin": "INE213A01029",
+        "status": "Listed",
+        "listingDate": "19-Jul-1995",
+        "industry": "Oil Exploration & Production",
+        "lastUpdateTime": "08-Aug-2024 16:00:00",
+        "pdSectorPe": 8.58,
+        "pdSymbolPe": 8.81,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY 100",
+            "NIFTY ENERGY",
+            "NIFTY 500",
+            "NIFTY 200",
+            "NIFTY CPSE",
+            "NIFTY DIVIDEND OPPORTUNITIES 50",
+            "NIFTY COMMODITIES",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY50 VALUE 20",
+            "NIFTY50 SHARIAH",
+            "NIFTY500 VALUE 50",
+            "NIFTY500 SHARIAH",
+            "NIFTY SHARIAH 25",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY ALPHA LOW-VOLATILITY 30",
+            "NIFTY ALPHA QUALITY VALUE LOW-VOLATILITY 30",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY OIL & GAS",
+            "NIFTY500 MULTICAP INFRASTRUCTURE 50:30:20",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY TOTAL MARKET",
+            "NIFTY100 ESG",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY200 VALUE 30",
+            "NIFTY INFRASTRUCTURE",
+            "NIFTY PSE"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 5,
+        "issuedSize": 12580279206
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 323.8,
+        "change": -5.300000000000011,
+        "pChange": -1.6104527499240386,
+        "previousClose": 329.1,
+        "open": 329,
+        "close": 322.7,
+        "vwap": 324.71,
+        "lowerCP": "296.20",
+        "upperCP": "362.00",
+        "pPriceBand": "No Band",
+        "basePrice": 329.1,
+        "intraDayHighLow": {
+            "min": 321.7,
+            "max": 329,
+            "value": 323.8
+        },
+        "weekHighLow": {
+            "min": 172.6,
+            "minDate": "08-Aug-2023",
+            "max": 344.7,
+            "maxDate": "01-Aug-2024",
+            "value": 323.8
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Energy",
+        "sector": "Oil Gas & Consumable Fuels",
+        "industry": "Oil",
+        "basicIndustry": "Oil Exploration & Production"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 296.2,
+                "buyQty": 0,
+                "sellQty": 24767
+            },
+            {
+                "price": 300,
+                "buyQty": 0,
+                "sellQty": 19
+            },
+            {
+                "price": 312.65,
+                "buyQty": 0,
+                "sellQty": 15620
+            },
+            {
+                "price": 315.25,
+                "buyQty": 0,
+                "sellQty": 1279
+            },
+            {
+                "price": 329,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 350,
+                "buyQty": 1158,
+                "sellQty": 0
+            },
+            {
+                "price": 360.05,
+                "buyQty": 5,
+                "sellQty": 0
+            },
+            {
+                "price": 361,
+                "buyQty": 300,
+                "sellQty": 0
+            },
+            {
+                "price": 362,
+                "buyQty": 2000,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 30903,
+            "sell": 11655
+        },
+        "IEP": 329,
+        "totalTradedVolume": 173853,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "08-Aug-2024 09:07:24",
+        "totalBuyQuantity": 286549,
+        "totalSellQuantity": 681733,
+        "atoBuyQty": 30903,
+        "atoSellQty": 11655,
+        "Change": -0.10000000000002274,
+        "perChange": -0.03038590094196984,
+        "prevClose": 329.1
+    }
+}
