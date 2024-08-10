@@ -1,0 +1,180 @@
+{
+    "info": {
+        "symbol": "SIEMENS",
+        "companyName": "Siemens Limited",
+        "industry": "Heavy Electrical Equipment",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE003A01024",
+        "slb_isin": "INE003A01024",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "SIEMENSEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "SIEMENS",
+        "isin": "INE003A01024",
+        "status": "Listed",
+        "listingDate": "06-Sep-1995",
+        "industry": "Heavy Electrical Equipment",
+        "lastUpdateTime": "09-Aug-2024 16:00:00",
+        "pdSectorPe": 103.19,
+        "pdSymbolPe": 103.19,
+        "pdSectorInd": "NIFTY NEXT 50",
+        "pdSectorIndAll": [
+            "NIFTY NEXT 50",
+            "NIFTY INDIA MANUFACTURING",
+            "NIFTY 100",
+            "NIFTY 500",
+            "NIFTY 200",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY500 SHARIAH",
+            "NIFTY SHARIAH 25",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY ALPHA LOW-VOLATILITY 30",
+            "NIFTY ALPHA QUALITY LOW-VOLATILITY 30",
+            "NIFTY100 ESG SECTOR LEADERS",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY200 MOMENTUM 30",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY TOTAL MARKET",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY500 MOMENTUM 50",
+            "NIFTY200 ALPHA 30",
+            "NIFTY100 ESG",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY MNC",
+            "NIFTY INFRASTRUCTURE"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 356120255
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 6869.4,
+        "change": 100.39999999999964,
+        "pChange": 1.4832323829221399,
+        "previousClose": 6769,
+        "open": 6850,
+        "close": 6889.5,
+        "vwap": 6857.01,
+        "lowerCP": "6092.10",
+        "upperCP": "7445.90",
+        "pPriceBand": "No Band",
+        "basePrice": 6769,
+        "intraDayHighLow": {
+            "min": 6771.05,
+            "max": 6915.25,
+            "value": 6869.4
+        },
+        "weekHighLow": {
+            "min": 3246,
+            "minDate": "31-Oct-2023",
+            "max": 7968.7,
+            "maxDate": "05-Jul-2024",
+            "value": 6869.4
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Industrials",
+        "sector": "Capital Goods",
+        "industry": "Electrical Equipment",
+        "basicIndustry": "Heavy Electrical Equipment"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 6430.55,
+                "buyQty": 0,
+                "sellQty": 164
+            },
+            {
+                "price": 6616.3,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 6680,
+                "buyQty": 0,
+                "sellQty": 6
+            },
+            {
+                "price": 6740,
+                "buyQty": 0,
+                "sellQty": 50
+            },
+            {
+                "price": 6850,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 7034.9,
+                "buyQty": 228,
+                "sellQty": 0
+            },
+            {
+                "price": 7050,
+                "buyQty": 47,
+                "sellQty": 0
+            },
+            {
+                "price": 7107.45,
+                "buyQty": 32,
+                "sellQty": 0
+            },
+            {
+                "price": 7445.9,
+                "buyQty": 150,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 960,
+            "sell": 120
+        },
+        "IEP": 6850,
+        "totalTradedVolume": 2323,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "09-Aug-2024 09:07:04",
+        "totalBuyQuantity": 5764,
+        "totalSellQuantity": 8654,
+        "atoBuyQty": 960,
+        "atoSellQty": 120,
+        "Change": 81,
+        "perChange": 1.1966317033535234,
+        "prevClose": 6769
+    }
+}

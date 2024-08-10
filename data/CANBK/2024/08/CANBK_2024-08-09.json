@@ -1,0 +1,177 @@
+{
+    "info": {
+        "symbol": "CANBK",
+        "companyName": "Canara Bank",
+        "industry": "Public Sector Bank",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE476A01022",
+        "slb_isin": "INE476A01022",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "CANBKEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "CANBK",
+        "isin": "INE476A01022",
+        "status": "Listed",
+        "listingDate": "23-Dec-2002",
+        "industry": "Public Sector Bank",
+        "lastUpdateTime": "09-Aug-2024 16:00:00",
+        "pdSectorPe": 5.94,
+        "pdSymbolPe": 5.94,
+        "pdSectorInd": "NIFTY NEXT 50",
+        "pdSectorIndAll": [
+            "NIFTY NEXT 50",
+            "NIFTY PSU BANK",
+            "NIFTY 500",
+            "NIFTY 200",
+            "NIFTY DIVIDEND OPPORTUNITIES 50",
+            "NIFTY500 VALUE 50",
+            "NIFTY ALPHA 50",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY HIGH BETA 50",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY TOTAL MARKET",
+            "NIFTY200 VALUE 30",
+            "NIFTY HOUSING",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY100 ESG",
+            "NIFTY 100",
+            "NIFTY100 EQUAL WEIGHT"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 9070651260
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 110.8,
+        "change": 3.6499999999999915,
+        "pChange": 3.4064395706952784,
+        "previousClose": 107.15,
+        "open": 108,
+        "close": 110.65,
+        "vwap": 110.17,
+        "lowerCP": "96.43",
+        "upperCP": "117.86",
+        "pPriceBand": "No Band",
+        "basePrice": 107.15,
+        "intraDayHighLow": {
+            "min": 107.65,
+            "max": 112.54,
+            "value": 110.8
+        },
+        "weekHighLow": {
+            "min": 63.85,
+            "minDate": "31-Aug-2023",
+            "max": 128.9,
+            "maxDate": "03-Jun-2024",
+            "value": 110.8
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.01
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Public Sector Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 101.8,
+                "buyQty": 0,
+                "sellQty": 15962
+            },
+            {
+                "price": 103.94,
+                "buyQty": 0,
+                "sellQty": 2936
+            },
+            {
+                "price": 105,
+                "buyQty": 0,
+                "sellQty": 75
+            },
+            {
+                "price": 105.01,
+                "buyQty": 0,
+                "sellQty": 74728
+            },
+            {
+                "price": 108,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 112,
+                "buyQty": 100,
+                "sellQty": 0
+            },
+            {
+                "price": 114,
+                "buyQty": 100,
+                "sellQty": 0
+            },
+            {
+                "price": 115,
+                "buyQty": 88,
+                "sellQty": 0
+            },
+            {
+                "price": 117.86,
+                "buyQty": 60,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 19426,
+            "sell": 2088
+        },
+        "IEP": 108,
+        "totalTradedVolume": 124346,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "09-Aug-2024 09:07:05",
+        "totalBuyQuantity": 749947,
+        "totalSellQuantity": 653904,
+        "atoBuyQty": 19426,
+        "atoSellQty": 2088,
+        "Change": 0.8499999999999943,
+        "perChange": 0.79328044797013,
+        "prevClose": 107.15
+    }
+}

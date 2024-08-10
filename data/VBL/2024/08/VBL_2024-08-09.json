@@ -1,0 +1,171 @@
+{
+    "info": {
+        "symbol": "VBL",
+        "companyName": "Varun Beverages Limited",
+        "industry": "Other Beverages",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": false,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE200M01021",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "VBLEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "VBL",
+        "isin": "INE200M01021",
+        "status": "Listed",
+        "listingDate": "08-Nov-2016",
+        "industry": "Other Beverages",
+        "lastUpdateTime": "09-Aug-2024 16:00:00",
+        "pdSectorPe": 78.41,
+        "pdSymbolPe": 78.41,
+        "pdSectorInd": "NIFTY NEXT 50",
+        "pdSectorIndAll": [
+            "NIFTY NEXT 50",
+            "NIFTY 100",
+            "NIFTY 200",
+            "NIFTY 500",
+            "NIFTY INDIA CONSUMPTION",
+            "NIFTY ALPHA 50",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY TOTAL MARKET",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY NON-CYCLICAL CONSUMER",
+            "NIFTY100 ESG",
+            "NIFTY FMCG",
+            "NIFTY100 EQUAL WEIGHT"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "No",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 5,
+        "issuedSize": 1299448412
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1506,
+        "change": 17.700000000000045,
+        "pChange": 1.1892763555734762,
+        "previousClose": 1489.55,
+        "open": 1510.05,
+        "close": 1508.6,
+        "vwap": 1514.55,
+        "lowerCP": "1190.65",
+        "upperCP": "1785.95",
+        "pPriceBand": "20",
+        "basePrice": 1488.3,
+        "intraDayHighLow": {
+            "min": 1500.05,
+            "max": 1527.5,
+            "value": 1506
+        },
+        "weekHighLow": {
+            "min": 802.65,
+            "minDate": "09-Aug-2023",
+            "max": 1702.8,
+            "maxDate": "29-Jul-2024",
+            "value": 1506
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Fast Moving Consumer Goods",
+        "sector": "Fast Moving Consumer Goods",
+        "industry": "Beverages",
+        "basicIndustry": "Other Beverages"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1413.9,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 1415.1,
+                "buyQty": 0,
+                "sellQty": 818
+            },
+            {
+                "price": 1433.75,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 1439,
+                "buyQty": 0,
+                "sellQty": 200
+            },
+            {
+                "price": 1510.05,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1560,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 1564,
+                "buyQty": 33,
+                "sellQty": 0
+            },
+            {
+                "price": 1600,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 1637.1,
+                "buyQty": 497,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 1316,
+            "sell": 54
+        },
+        "IEP": 1510.05,
+        "totalTradedVolume": 4974,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "09-Aug-2024 09:07:02",
+        "totalBuyQuantity": 34888,
+        "totalSellQuantity": 120805,
+        "atoBuyQty": 1316,
+        "atoSellQty": 54,
+        "Change": 21.75,
+        "perChange": 1.4613989115097763,
+        "prevClose": 1489.55
+    }
+}

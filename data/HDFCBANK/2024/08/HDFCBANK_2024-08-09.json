@@ -1,0 +1,185 @@
+{
+    "info": {
+        "symbol": "HDFCBANK",
+        "companyName": "HDFC Bank Limited",
+        "industry": "Private Sector Bank",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "W3",
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE040A01034",
+        "slb_isin": "INE040A01034",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "HDFCBANKEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "HDFCBANK",
+        "isin": "INE040A01034",
+        "status": "Listed",
+        "listingDate": "08-Nov-1995",
+        "industry": "Private Sector Bank",
+        "lastUpdateTime": "09-Aug-2024 16:00:00",
+        "pdSectorPe": 17.82,
+        "pdSymbolPe": 17.92,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY BANK",
+            "NIFTY FINANCIAL SERVICES",
+            "NIFTY PRIVATE BANK",
+            "NIFTY100 QUALITY 30",
+            "NIFTY 200",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY100 LOW VOLATILITY 30",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY QUALITY LOW-VOLATILITY 30",
+            "NIFTY FINANCIAL SERVICES 25/50",
+            "NIFTY100 ESG SECTOR LEADERS",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY TOTAL MARKET",
+            "NIFTY TOP 10 EQUAL WEIGHT",
+            "NIFTY HOUSING",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY100 ESG",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY 500",
+            "NIFTY SERVICES SECTOR",
+            "NIFTY 100",
+            "NIFTY ALPHA QUALITY VALUE LOW-VOLATILITY 30"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 7617493354
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1650,
+        "change": 7.2999999999999545,
+        "pChange": 0.44439033298837,
+        "previousClose": 1642.7,
+        "open": 1652,
+        "close": 1650.2,
+        "vwap": 1655.58,
+        "lowerCP": "1478.45",
+        "upperCP": "1806.95",
+        "pPriceBand": "No Band",
+        "basePrice": 1642.7,
+        "intraDayHighLow": {
+            "min": 1645.8,
+            "max": 1662.55,
+            "value": 1650
+        },
+        "weekHighLow": {
+            "min": 1363.55,
+            "minDate": "14-Feb-2024",
+            "max": 1794,
+            "maxDate": "03-Jul-2024",
+            "value": 1650
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Private Sector Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1478.45,
+                "buyQty": 0,
+                "sellQty": 41454
+            },
+            {
+                "price": 1560.5,
+                "buyQty": 0,
+                "sellQty": 342
+            },
+            {
+                "price": 1560.6,
+                "buyQty": 0,
+                "sellQty": 1211
+            },
+            {
+                "price": 1593.45,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 1652,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1724.8,
+                "buyQty": 46238,
+                "sellQty": 0
+            },
+            {
+                "price": 1750,
+                "buyQty": 10,
+                "sellQty": 0
+            },
+            {
+                "price": 1757.65,
+                "buyQty": 25473,
+                "sellQty": 0
+            },
+            {
+                "price": 1806.95,
+                "buyQty": 31509,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 4910,
+            "sell": 1319
+        },
+        "IEP": 1652,
+        "totalTradedVolume": 189515,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "09-Aug-2024 09:07:05",
+        "totalBuyQuantity": 139496,
+        "totalSellQuantity": 378748,
+        "atoBuyQty": 4910,
+        "atoSellQty": 1319,
+        "Change": 9.299999999999955,
+        "perChange": 0.5661411091495681,
+        "prevClose": 1642.7
+    }
+}
