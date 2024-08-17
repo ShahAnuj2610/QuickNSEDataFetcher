@@ -1,0 +1,188 @@
+{
+    "info": {
+        "symbol": "MARUTI",
+        "companyName": "Maruti Suzuki India Limited",
+        "industry": "Passenger Cars & Utility Vehicles",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE585B01010",
+        "slb_isin": "INE585B01010",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "MARUTIEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "MARUTI",
+        "isin": "INE585B01010",
+        "status": "Listed",
+        "listingDate": "09-Jul-2003",
+        "industry": "Passenger Cars & Utility Vehicles",
+        "lastUpdateTime": "16-Aug-2024 16:00:00",
+        "pdSectorPe": 26.59,
+        "pdSymbolPe": 26.59,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY MOBILITY",
+            "NIFTY 100",
+            "NIFTY 200",
+            "NIFTY AUTO",
+            "NIFTY INDIA CONSUMPTION",
+            "NIFTY100 LIQUID 15",
+            "NIFTY GROWTH SECTORS 15",
+            "NIFTY100 QUALITY 30",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY QUALITY LOW-VOLATILITY 30",
+            "NIFTY ALPHA QUALITY LOW-VOLATILITY 30",
+            "NIFTY ALPHA LOW-VOLATILITY 30",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY100 ESG SECTOR LEADERS",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY500 MULTICAP INDIA MANUFACTURING 50:30:20",
+            "NIFTY RURAL",
+            "NIFTY INDIA MANUFACTURING",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY100 ESG",
+            "NIFTY TOTAL MARKET",
+            "NIFTY EV & NEW AGE AUTOMOTIVE",
+            "NIFTY TRANSPORTATION & LOGISTICS",
+            "NIFTY MNC",
+            "NIFTY 500"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 5,
+        "issuedSize": 314402574
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 12207.55,
+        "change": 1.8999999999996362,
+        "pChange": 0.015566561387551144,
+        "previousClose": 12205.65,
+        "open": 12314.95,
+        "close": 12213.3,
+        "vwap": 12212.03,
+        "lowerCP": "10985.10",
+        "upperCP": "13426.20",
+        "pPriceBand": "No Band",
+        "basePrice": 12205.65,
+        "intraDayHighLow": {
+            "min": 12111,
+            "max": 12343.95,
+            "value": 12207.55
+        },
+        "weekHighLow": {
+            "min": 9254.15,
+            "minDate": "16-Aug-2023",
+            "max": 13680,
+            "maxDate": "01-Aug-2024",
+            "value": 12207.55
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Consumer Discretionary",
+        "sector": "Automobile and Auto Components",
+        "industry": "Automobiles",
+        "basicIndustry": "Passenger Cars & Utility Vehicles"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 10985.1,
+                "buyQty": 0,
+                "sellQty": 7
+            },
+            {
+                "price": 11595.4,
+                "buyQty": 0,
+                "sellQty": 281
+            },
+            {
+                "price": 11960.1,
+                "buyQty": 0,
+                "sellQty": 162
+            },
+            {
+                "price": 11961.55,
+                "buyQty": 0,
+                "sellQty": 297
+            },
+            {
+                "price": 12314.95,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 12500,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 12754.9,
+                "buyQty": 4,
+                "sellQty": 0
+            },
+            {
+                "price": 12815.9,
+                "buyQty": 558,
+                "sellQty": 0
+            },
+            {
+                "price": 13426.2,
+                "buyQty": 87,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 72,
+            "sell": 36
+        },
+        "IEP": 12314.95,
+        "totalTradedVolume": 1190,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "16-Aug-2024 09:07:24",
+        "totalBuyQuantity": 2965,
+        "totalSellQuantity": 8702,
+        "atoBuyQty": 72,
+        "atoSellQty": 36,
+        "Change": 109.30000000000109,
+        "perChange": 0.8954869261366751,
+        "prevClose": 12205.65
+    }
+}

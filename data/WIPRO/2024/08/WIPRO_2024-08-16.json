@@ -1,0 +1,180 @@
+{
+    "info": {
+        "symbol": "WIPRO",
+        "companyName": "Wipro Limited",
+        "industry": "Computers - Software & Consulting",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE075A01022",
+        "slb_isin": "INE075A01022",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "WIPROEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "WIPRO",
+        "isin": "INE075A01022",
+        "status": "Listed",
+        "listingDate": "08-Nov-1995",
+        "industry": "Computers - Software & Consulting",
+        "lastUpdateTime": "16-Aug-2024 16:00:00",
+        "pdSectorPe": 22.94,
+        "pdSymbolPe": 22.94,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY 500",
+            "NIFTY SERVICES SECTOR",
+            "NIFTY 200",
+            "NIFTY50 VALUE 20",
+            "NIFTY GROWTH SECTORS 15",
+            "NIFTY100 QUALITY 30",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY QUALITY LOW-VOLATILITY 30",
+            "NIFTY ALPHA QUALITY VALUE LOW-VOLATILITY 30",
+            "NIFTY100 LOW VOLATILITY 30",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY100 ESG SECTOR LEADERS",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY TOTAL MARKET",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY INDIA DIGITAL",
+            "NIFTY100 ESG",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY IT",
+            "NIFTY 100"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 5230829537
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 516.1,
+        "change": 20.950000000000045,
+        "pChange": 4.2310410986569815,
+        "previousClose": 495.15,
+        "open": 501,
+        "close": 516.25,
+        "vwap": 510.98,
+        "lowerCP": "445.65",
+        "upperCP": "544.65",
+        "pPriceBand": "No Band",
+        "basePrice": 495.15,
+        "intraDayHighLow": {
+            "min": 497.95,
+            "max": 517.45,
+            "value": 516.1
+        },
+        "weekHighLow": {
+            "min": 375.05,
+            "minDate": "26-Oct-2023",
+            "max": 579.9,
+            "maxDate": "19-Jul-2024",
+            "value": 516.1
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Information Technology",
+        "sector": "Information Technology",
+        "industry": "IT - Software",
+        "basicIndustry": "Computers - Software & Consulting"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 445.65,
+                "buyQty": 0,
+                "sellQty": 289
+            },
+            {
+                "price": 460,
+                "buyQty": 0,
+                "sellQty": 2
+            },
+            {
+                "price": 470.4,
+                "buyQty": 0,
+                "sellQty": 728
+            },
+            {
+                "price": 480.3,
+                "buyQty": 0,
+                "sellQty": 710
+            },
+            {
+                "price": 501,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 519.9,
+                "buyQty": 132,
+                "sellQty": 0
+            },
+            {
+                "price": 520,
+                "buyQty": 200,
+                "sellQty": 0
+            },
+            {
+                "price": 525,
+                "buyQty": 50,
+                "sellQty": 0
+            },
+            {
+                "price": 525.1,
+                "buyQty": 15,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 9431,
+            "sell": 1553
+        },
+        "IEP": 501,
+        "totalTradedVolume": 49022,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "16-Aug-2024 09:07:25",
+        "totalBuyQuantity": 57107,
+        "totalSellQuantity": 191684,
+        "atoBuyQty": 9431,
+        "atoSellQty": 1553,
+        "Change": 5.850000000000023,
+        "perChange": 1.1814601635867965,
+        "prevClose": 495.15
+    }
+}
