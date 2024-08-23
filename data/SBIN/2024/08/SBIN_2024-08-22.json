@@ -1,0 +1,192 @@
+{
+    "info": {
+        "symbol": "SBIN",
+        "companyName": "State Bank of India",
+        "industry": "Public Sector Bank",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "N3",
+            "N6",
+            "N5",
+            "IL",
+            "N1",
+            "N2",
+            "N4"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE062A08041",
+        "slb_isin": "INE062A01020",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "SBINEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "SBIN",
+        "isin": "INE062A01020",
+        "status": "Listed",
+        "listingDate": "01-Mar-1995",
+        "industry": "Public Sector Bank",
+        "lastUpdateTime": "22-Aug-2024 16:00:00",
+        "pdSectorPe": 9.79,
+        "pdSymbolPe": 10.54,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY BANK",
+            "NIFTY FINANCIAL SERVICES",
+            "NIFTY 500",
+            "NIFTY 200",
+            "NIFTY50 VALUE 20",
+            "NIFTY100 LIQUID 15",
+            "NIFTY DIVIDEND OPPORTUNITIES 50",
+            "NIFTY500 VALUE 50",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY HIGH BETA 50",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY ALPHA LOW-VOLATILITY 30",
+            "NIFTY FINANCIAL SERVICES 25/50",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY TOTAL MARKET",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY200 VALUE 30",
+            "NIFTY100 ESG",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY HOUSING",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY SERVICES SECTOR",
+            "NIFTY RURAL",
+            "NIFTY PSU BANK",
+            "NIFTY 100"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 8924612434
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 820,
+        "change": 4.4500000000000455,
+        "pChange": 0.5456440438967625,
+        "previousClose": 815.55,
+        "open": 819,
+        "close": 820.3,
+        "vwap": 820.73,
+        "lowerCP": "734.00",
+        "upperCP": "897.10",
+        "pPriceBand": "No Band",
+        "basePrice": 815.55,
+        "intraDayHighLow": {
+            "min": 817.1,
+            "max": 823.9,
+            "value": 820
+        },
+        "weekHighLow": {
+            "min": 543.2,
+            "minDate": "26-Oct-2023",
+            "max": 912,
+            "maxDate": "03-Jun-2024",
+            "value": 820
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Public Sector Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 734,
+                "buyQty": 0,
+                "sellQty": 73
+            },
+            {
+                "price": 742,
+                "buyQty": 0,
+                "sellQty": 870
+            },
+            {
+                "price": 750,
+                "buyQty": 0,
+                "sellQty": 50
+            },
+            {
+                "price": 758.45,
+                "buyQty": 0,
+                "sellQty": 37
+            },
+            {
+                "price": 819,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 853.35,
+                "buyQty": 5,
+                "sellQty": 0
+            },
+            {
+                "price": 855.55,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 856.3,
+                "buyQty": 3907,
+                "sellQty": 0
+            },
+            {
+                "price": 860,
+                "buyQty": 5,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 5060,
+            "sell": 1675
+        },
+        "IEP": 819,
+        "totalTradedVolume": 16794,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "22-Aug-2024 09:08:00",
+        "totalBuyQuantity": 194762,
+        "totalSellQuantity": 309618,
+        "atoBuyQty": 5060,
+        "atoSellQty": 1675,
+        "Change": 3.4500000000000455,
+        "perChange": 0.4230274048188395,
+        "prevClose": 815.55
+    }
+}
