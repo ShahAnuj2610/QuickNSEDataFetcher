@@ -1,0 +1,166 @@
+{
+    "info": {
+        "symbol": "AWL",
+        "companyName": "Adani Wilmar Limited",
+        "industry": "Edible Oil",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE699H01024",
+        "slb_isin": "INE699H01024",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "AWLEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "AWL",
+        "isin": "INE699H01024",
+        "status": "Listed",
+        "listingDate": "08-Feb-2022",
+        "industry": "Edible Oil",
+        "lastUpdateTime": "27-Aug-2024 16:00:00",
+        "pdSectorPe": 84.11,
+        "pdSymbolPe": 90.75,
+        "pdSectorInd": "NIFTY 500",
+        "pdSectorIndAll": [
+            "NIFTY 500",
+            "NIFTY MIDCAP 150",
+            "NIFTY MIDSMALLCAP 400",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY RURAL",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY TOTAL MARKET",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 1299678605
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 374,
+        "change": -4.449999999999989,
+        "pChange": -1.1758488571806023,
+        "previousClose": 378.45,
+        "open": 379.45,
+        "close": 373.95,
+        "vwap": 377.55,
+        "lowerCP": "340.60",
+        "upperCP": "416.25",
+        "pPriceBand": "10",
+        "basePrice": 378.45,
+        "intraDayHighLow": {
+            "min": 373,
+            "max": 383.95,
+            "value": 374
+        },
+        "weekHighLow": {
+            "min": 285.8,
+            "minDate": "20-Nov-2023",
+            "max": 410.5,
+            "maxDate": "06-Dec-2023",
+            "value": 374
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Fast Moving Consumer Goods",
+        "sector": "Fast Moving Consumer Goods",
+        "industry": "Agricultural Food & other Products",
+        "basicIndustry": "Edible Oil"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 340.6,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 350,
+                "buyQty": 0,
+                "sellQty": 40
+            },
+            {
+                "price": 370,
+                "buyQty": 0,
+                "sellQty": 209
+            },
+            {
+                "price": 370.9,
+                "buyQty": 0,
+                "sellQty": 70
+            },
+            {
+                "price": 379.45,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 386.05,
+                "buyQty": 95,
+                "sellQty": 0
+            },
+            {
+                "price": 395.45,
+                "buyQty": 3,
+                "sellQty": 0
+            },
+            {
+                "price": 399,
+                "buyQty": 500,
+                "sellQty": 0
+            },
+            {
+                "price": 403,
+                "buyQty": 60,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 2101,
+            "sell": 645
+        },
+        "IEP": 379.45,
+        "totalTradedVolume": 6977,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "27-Aug-2024 09:07:15",
+        "totalBuyQuantity": 71731,
+        "totalSellQuantity": 285623,
+        "atoBuyQty": 2101,
+        "atoSellQty": 645,
+        "Change": 1,
+        "perChange": 0.2642356982428326,
+        "prevClose": 378.45
+    }
+}

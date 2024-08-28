@@ -1,0 +1,172 @@
+{
+    "info": {
+        "symbol": "AUBANK",
+        "companyName": "AU Small Finance Bank Limited",
+        "industry": "Other Bank",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE949L01017",
+        "slb_isin": "INE949L01017",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "AUBANKEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "AUBANK",
+        "isin": "INE949L01017",
+        "status": "Listed",
+        "listingDate": "10-Jul-2017",
+        "industry": "Other Bank",
+        "lastUpdateTime": "27-Aug-2024 16:00:00",
+        "pdSectorPe": 27.49,
+        "pdSymbolPe": 28.53,
+        "pdSectorInd": "NIFTY BANK",
+        "pdSectorIndAll": [
+            "NIFTY BANK",
+            "NIFTY MIDCAP 50",
+            "NIFTY 200",
+            "NIFTY MIDSMALLCAP 400",
+            "NIFTY MIDCAP 150",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY MIDCAP SELECT",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY TOTAL MARKET",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY MIDCAP150 QUALITY 50",
+            "NIFTY MIDSMALL FINANCIAL SERVICES",
+            "NIFTY 500",
+            "NIFTY MIDCAP 100",
+            "NIFTY LARGEMIDCAP 250"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 743270265
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 635.5,
+        "change": 2.0499999999999545,
+        "pChange": 0.3236245954692485,
+        "previousClose": 633.45,
+        "open": 639.25,
+        "close": 635.1,
+        "vwap": 635.96,
+        "lowerCP": "570.10",
+        "upperCP": "696.75",
+        "pPriceBand": "No Band",
+        "basePrice": 633.45,
+        "intraDayHighLow": {
+            "min": 632.1,
+            "max": 639.25,
+            "value": 635.5
+        },
+        "weekHighLow": {
+            "min": 553.7,
+            "minDate": "20-Mar-2024",
+            "max": 813.4,
+            "maxDate": "09-Jan-2024",
+            "value": 635.5
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Other Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 570.15,
+                "buyQty": 0,
+                "sellQty": 187
+            },
+            {
+                "price": 600,
+                "buyQty": 0,
+                "sellQty": 50
+            },
+            {
+                "price": 608,
+                "buyQty": 0,
+                "sellQty": 781
+            },
+            {
+                "price": 627.3,
+                "buyQty": 0,
+                "sellQty": 15
+            },
+            {
+                "price": 639.25,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 665,
+                "buyQty": 50,
+                "sellQty": 0
+            },
+            {
+                "price": 670,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 696,
+                "buyQty": 25,
+                "sellQty": 0
+            },
+            {
+                "price": 696.75,
+                "buyQty": 114,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 2154,
+            "sell": 289
+        },
+        "IEP": 639.25,
+        "totalTradedVolume": 13991,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "27-Aug-2024 09:07:18",
+        "totalBuyQuantity": 25930,
+        "totalSellQuantity": 43538,
+        "atoBuyQty": 2154,
+        "atoSellQty": 289,
+        "Change": 5.7999999999999545,
+        "perChange": 0.9156208066934965,
+        "prevClose": 633.45
+    }
+}
