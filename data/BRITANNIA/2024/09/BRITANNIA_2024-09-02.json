@@ -1,0 +1,190 @@
+{
+    "info": {
+        "symbol": "BRITANNIA",
+        "companyName": "Britannia Industries Limited",
+        "industry": "Packaged Foods",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "N1",
+            "N2"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE216A07052",
+        "slb_isin": "INE216A01030",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "BRITANNIAEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "BRITANNIA",
+        "isin": "INE216A01030",
+        "status": "Listed",
+        "listingDate": "05-Nov-1998",
+        "industry": "Packaged Foods",
+        "lastUpdateTime": "02-Sep-2024 16:00:00",
+        "pdSectorPe": 63.79,
+        "pdSymbolPe": 64.39,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY100 ESG",
+            "NIFTY MNC",
+            "NIFTY 200",
+            "NIFTY 500",
+            "NIFTY GROWTH SECTORS 15",
+            "NIFTY100 QUALITY 30",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY DIVIDEND OPPORTUNITIES 50",
+            "NIFTY INDIA CONSUMPTION",
+            "NIFTY50 VALUE 20",
+            "NIFTY50 SHARIAH",
+            "NIFTY500 SHARIAH",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY100 LOW VOLATILITY 30",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY ALPHA LOW-VOLATILITY 30",
+            "NIFTY QUALITY LOW-VOLATILITY 30",
+            "NIFTY ALPHA QUALITY LOW-VOLATILITY 30",
+            "NIFTY ALPHA QUALITY VALUE LOW-VOLATILITY 30",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY200 QUALITY 30",
+            "NIFTY TOTAL MARKET",
+            "NIFTY NON-CYCLICAL CONSUMER",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY RURAL",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY 100",
+            "NIFTY FMCG"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 240868296
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 5930,
+        "change": 74.75,
+        "pChange": 1.276632082319286,
+        "previousClose": 5855.25,
+        "open": 5882.05,
+        "close": 5922.15,
+        "vwap": 5897.61,
+        "lowerCP": "5269.75",
+        "upperCP": "6440.75",
+        "pPriceBand": "No Band",
+        "basePrice": 5855.25,
+        "intraDayHighLow": {
+            "min": 5865,
+            "max": 5933.95,
+            "value": 5930
+        },
+        "weekHighLow": {
+            "min": 4347.7,
+            "minDate": "01-Nov-2023",
+            "max": 6005,
+            "maxDate": "23-Jul-2024",
+            "value": 5930
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Fast Moving Consumer Goods",
+        "sector": "Fast Moving Consumer Goods",
+        "industry": "Food Products",
+        "basicIndustry": "Packaged Foods"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 5300,
+                "buyQty": 0,
+                "sellQty": 85
+            },
+            {
+                "price": 5328,
+                "buyQty": 0,
+                "sellQty": 26
+            },
+            {
+                "price": 5562.5,
+                "buyQty": 0,
+                "sellQty": 15
+            },
+            {
+                "price": 5738,
+                "buyQty": 0,
+                "sellQty": 68
+            },
+            {
+                "price": 5882.05,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 5972.35,
+                "buyQty": 6,
+                "sellQty": 0
+            },
+            {
+                "price": 5972.4,
+                "buyQty": 5,
+                "sellQty": 0
+            },
+            {
+                "price": 6118.7,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 6148,
+                "buyQty": 5,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 128,
+            "sell": 14
+        },
+        "IEP": 5882.05,
+        "totalTradedVolume": 367,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "02-Sep-2024 09:07:30",
+        "totalBuyQuantity": 1279,
+        "totalSellQuantity": 5590,
+        "atoBuyQty": 128,
+        "atoSellQty": 14,
+        "Change": 26.800000000000182,
+        "perChange": 0.4577088937278542,
+        "prevClose": 5855.25
+    }
+}
