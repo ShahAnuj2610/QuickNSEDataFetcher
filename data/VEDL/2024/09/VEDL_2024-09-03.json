@@ -1,0 +1,180 @@
+{
+    "info": {
+        "symbol": "VEDL",
+        "companyName": "Vedanta Limited",
+        "industry": "Diversified Metals",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "P1",
+            "O1"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE205A01025",
+        "slb_isin": "INE205A01025",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "VEDLEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "VEDL",
+        "isin": "INE205A01025",
+        "status": "Listed",
+        "listingDate": "13-May-1998",
+        "industry": "Diversified Metals",
+        "lastUpdateTime": "03-Sep-2024 16:00:00",
+        "pdSectorPe": 21.83,
+        "pdSymbolPe": 19.43,
+        "pdSectorInd": "NIFTY NEXT 50",
+        "pdSectorIndAll": [
+            "NIFTY NEXT 50",
+            "NIFTY MNC",
+            "NIFTY 500",
+            "NIFTY METAL",
+            "NIFTY 200",
+            "NIFTY DIVIDEND OPPORTUNITIES 50",
+            "NIFTY COMMODITIES",
+            "NIFTY500 VALUE 50",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY200 MOMENTUM 30",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY TOTAL MARKET",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY INDIA MANUFACTURING",
+            "NIFTY200 VALUE 30",
+            "NIFTY 100",
+            "NIFTY HIGH BETA 50"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 3910388057
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 464.5,
+        "change": 1.25,
+        "pChange": 0.26983270372369134,
+        "previousClose": 463.25,
+        "open": 473,
+        "close": 464.55,
+        "vwap": 465.24,
+        "lowerCP": "416.95",
+        "upperCP": "509.55",
+        "pPriceBand": "No Band",
+        "basePrice": 463.25,
+        "intraDayHighLow": {
+            "min": 462.1,
+            "max": 473.25,
+            "value": 464.5
+        },
+        "weekHighLow": {
+            "min": 208,
+            "minDate": "28-Sep-2023",
+            "max": 506.75,
+            "maxDate": "22-May-2024",
+            "value": 464.5
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Commodities",
+        "sector": "Metals & Mining",
+        "industry": "Diversified Metals",
+        "basicIndustry": "Diversified Metals"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 416.95,
+                "buyQty": 0,
+                "sellQty": 255
+            },
+            {
+                "price": 417,
+                "buyQty": 0,
+                "sellQty": 200
+            },
+            {
+                "price": 440.1,
+                "buyQty": 0,
+                "sellQty": 50
+            },
+            {
+                "price": 443.2,
+                "buyQty": 0,
+                "sellQty": 379
+            },
+            {
+                "price": 473,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 500,
+                "buyQty": 4909,
+                "sellQty": 0
+            },
+            {
+                "price": 501,
+                "buyQty": 100,
+                "sellQty": 0
+            },
+            {
+                "price": 509,
+                "buyQty": 1775,
+                "sellQty": 0
+            },
+            {
+                "price": 509.55,
+                "buyQty": 1707,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 177432,
+            "sell": 2694
+        },
+        "IEP": 473,
+        "totalTradedVolume": 298158,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "03-Sep-2024 09:07:47",
+        "totalBuyQuantity": 843217,
+        "totalSellQuantity": 566417,
+        "atoBuyQty": 177432,
+        "atoSellQty": 2694,
+        "Change": 9.75,
+        "perChange": 2.1046950890447924,
+        "prevClose": 463.25
+    }
+}
