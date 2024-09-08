@@ -1,0 +1,181 @@
+{
+    "info": {
+        "symbol": "JSWSTEEL",
+        "companyName": "JSW Steel Limited",
+        "industry": "Iron & Steel",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "P1",
+            "P2"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE019A04024",
+        "slb_isin": "INE019A01038",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "JSWSTEELEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "JSWSTEEL",
+        "isin": "INE019A01038",
+        "status": "Listed",
+        "listingDate": "23-Mar-2005",
+        "industry": "Iron & Steel",
+        "lastUpdateTime": "06-Sep-2024 16:00:00",
+        "pdSectorPe": 31.93,
+        "pdSymbolPe": 29.93,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY 500",
+            "NIFTY METAL",
+            "NIFTY 200",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY COMMODITIES",
+            "NIFTY HIGH BETA 50",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY100 ESG SECTOR LEADERS",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY INDIA MANUFACTURING",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY HOUSING",
+            "NIFTY500 MULTICAP INDIA MANUFACTURING 50:30:20",
+            "NIFTY100 ESG",
+            "NIFTY TOTAL MARKET",
+            "NIFTY 100",
+            "NIFTY50 EQUAL WEIGHT"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 2445453966
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 931,
+        "change": 5.5499999999999545,
+        "pChange": 0.5997082500405159,
+        "previousClose": 925.45,
+        "open": 925.45,
+        "close": 932.8,
+        "vwap": 928.83,
+        "lowerCP": "832.90",
+        "upperCP": "1017.95",
+        "pPriceBand": "No Band",
+        "basePrice": 925.45,
+        "intraDayHighLow": {
+            "min": 911.7,
+            "max": 939.4,
+            "value": 931
+        },
+        "weekHighLow": {
+            "min": 723,
+            "minDate": "01-Nov-2023",
+            "max": 968.9,
+            "maxDate": "26-Aug-2024",
+            "value": 931
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Commodities",
+        "sector": "Metals & Mining",
+        "industry": "Ferrous Metals",
+        "basicIndustry": "Iron & Steel"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 897.25,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 906.95,
+                "buyQty": 0,
+                "sellQty": 10
+            },
+            {
+                "price": 908.8,
+                "buyQty": 0,
+                "sellQty": 4
+            },
+            {
+                "price": 915.45,
+                "buyQty": 0,
+                "sellQty": 30
+            },
+            {
+                "price": 925.45,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 935.5,
+                "buyQty": 30,
+                "sellQty": 0
+            },
+            {
+                "price": 944,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 945.5,
+                "buyQty": 494,
+                "sellQty": 0
+            },
+            {
+                "price": 967.1,
+                "buyQty": 55,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 452,
+            "sell": 10
+        },
+        "IEP": 925.45,
+        "totalTradedVolume": 1951,
+        "finalPrice": 925.45,
+        "finalQuantity": 1951,
+        "lastUpdateTime": "06-Sep-2024 09:07:57",
+        "totalBuyQuantity": 9586,
+        "totalSellQuantity": 48472,
+        "atoBuyQty": 452,
+        "atoSellQty": 10,
+        "Change": 0,
+        "perChange": 0,
+        "prevClose": 925.45
+    }
+}
