@@ -1,0 +1,173 @@
+{
+    "info": {
+        "symbol": "ADANIENSOL",
+        "companyName": "Adani Energy Solutions Limited",
+        "industry": "Power Distribution",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": false,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE931S01010",
+        "slb_isin": "INE931S01010",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "ADANIENSOLEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "ADANIENSOL",
+        "isin": "INE931S01010",
+        "status": "Listed",
+        "listingDate": "31-Jul-2015",
+        "industry": "Power Distribution",
+        "lastUpdateTime": "09-Sep-2024 16:00:00",
+        "pdSectorPe": 73.65,
+        "pdSymbolPe": 0,
+        "pdSectorInd": "NIFTY NEXT 50",
+        "pdSectorIndAll": [
+            "NIFTY NEXT 50",
+            "NIFTY ENERGY",
+            "NIFTY 500",
+            "NIFTY INDIA CONSUMPTION",
+            "NIFTY 200",
+            "NIFTY COMMODITIES",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY100 ESG SECTOR LEADERS",
+            "NIFTY TOTAL MARKET",
+            "NIFTY100 ESG",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY HOUSING",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY 100"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "No",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 1201282642
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1008,
+        "change": 22.649999999999977,
+        "pChange": 2.298675597503423,
+        "previousClose": 985.35,
+        "open": 985.3,
+        "close": 1007.05,
+        "vwap": 988.26,
+        "lowerCP": "788.30",
+        "upperCP": "1182.40",
+        "pPriceBand": "20",
+        "basePrice": 985.35,
+        "intraDayHighLow": {
+            "min": 968.3,
+            "max": 1009.15,
+            "value": 1008
+        },
+        "weekHighLow": {
+            "min": 686,
+            "minDate": "26-Oct-2023",
+            "max": 1348,
+            "maxDate": "01-Aug-2024",
+            "value": 1008
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Utilities",
+        "sector": "Power",
+        "industry": "Power",
+        "basicIndustry": "Power Distribution"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 920,
+                "buyQty": 0,
+                "sellQty": 25
+            },
+            {
+                "price": 965,
+                "buyQty": 0,
+                "sellQty": 20
+            },
+            {
+                "price": 965.65,
+                "buyQty": 0,
+                "sellQty": 5
+            },
+            {
+                "price": 970,
+                "buyQty": 0,
+                "sellQty": 4
+            },
+            {
+                "price": 985.3,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1010,
+                "buyQty": 10,
+                "sellQty": 0
+            },
+            {
+                "price": 1029.65,
+                "buyQty": 29,
+                "sellQty": 0
+            },
+            {
+                "price": 1034.6,
+                "buyQty": 4,
+                "sellQty": 0
+            },
+            {
+                "price": 1057.8,
+                "buyQty": 1,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 831,
+            "sell": 238
+        },
+        "IEP": 985.3,
+        "totalTradedVolume": 3153,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "09-Sep-2024 09:07:53",
+        "totalBuyQuantity": 16387,
+        "totalSellQuantity": 75834,
+        "atoBuyQty": 831,
+        "atoSellQty": 238,
+        "Change": -0.05000000000006821,
+        "perChange": -0.0050743390673434014,
+        "prevClose": 985.35
+    }
+}

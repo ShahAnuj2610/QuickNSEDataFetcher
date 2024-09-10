@@ -1,0 +1,188 @@
+{
+    "info": {
+        "symbol": "MARUTI",
+        "companyName": "Maruti Suzuki India Limited",
+        "industry": "Passenger Cars & Utility Vehicles",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE585B01010",
+        "slb_isin": "INE585B01010",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "MARUTIEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "MARUTI",
+        "isin": "INE585B01010",
+        "status": "Listed",
+        "listingDate": "09-Jul-2003",
+        "industry": "Passenger Cars & Utility Vehicles",
+        "lastUpdateTime": "09-Sep-2024 16:00:00",
+        "pdSectorPe": 26.54,
+        "pdSymbolPe": 26.54,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY MOBILITY",
+            "NIFTY 500",
+            "NIFTY AUTO",
+            "NIFTY100 LIQUID 15",
+            "NIFTY GROWTH SECTORS 15",
+            "NIFTY100 QUALITY 30",
+            "NIFTY 200",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY INDIA CONSUMPTION",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY ALPHA LOW-VOLATILITY 30",
+            "NIFTY QUALITY LOW-VOLATILITY 30",
+            "NIFTY ALPHA QUALITY LOW-VOLATILITY 30",
+            "NIFTY100 ESG SECTOR LEADERS",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY RURAL",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY EV & NEW AGE AUTOMOTIVE",
+            "NIFTY INDIA MANUFACTURING",
+            "NIFTY TRANSPORTATION & LOGISTICS",
+            "NIFTY100 ESG",
+            "NIFTY500 MULTICAP INDIA MANUFACTURING 50:30:20",
+            "NIFTY TOTAL MARKET",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY 100",
+            "NIFTY MNC"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 5,
+        "issuedSize": 314402574
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 12148,
+        "change": -38.149999999999636,
+        "pChange": -0.31306031847630006,
+        "previousClose": 12186.15,
+        "open": 12197.5,
+        "close": 12145.75,
+        "vwap": 12146.75,
+        "lowerCP": "10967.55",
+        "upperCP": "13404.75",
+        "pPriceBand": "No Band",
+        "basePrice": 12186.15,
+        "intraDayHighLow": {
+            "min": 12102,
+            "max": 12219.85,
+            "value": 12148
+        },
+        "weekHighLow": {
+            "min": 9737.65,
+            "minDate": "18-Jan-2024",
+            "max": 13680,
+            "maxDate": "01-Aug-2024",
+            "value": 12148
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Consumer Discretionary",
+        "sector": "Automobile and Auto Components",
+        "industry": "Automobiles",
+        "basicIndustry": "Passenger Cars & Utility Vehicles"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 10967.55,
+                "buyQty": 0,
+                "sellQty": 229
+            },
+            {
+                "price": 11576.85,
+                "buyQty": 0,
+                "sellQty": 131
+            },
+            {
+                "price": 11942.45,
+                "buyQty": 0,
+                "sellQty": 2
+            },
+            {
+                "price": 12049.5,
+                "buyQty": 0,
+                "sellQty": 529
+            },
+            {
+                "price": 12197.5,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 12429.9,
+                "buyQty": 6,
+                "sellQty": 0
+            },
+            {
+                "price": 12474.3,
+                "buyQty": 717,
+                "sellQty": 0
+            },
+            {
+                "price": 12795.45,
+                "buyQty": 226,
+                "sellQty": 0
+            },
+            {
+                "price": 13000,
+                "buyQty": 5,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 51,
+            "sell": 78
+        },
+        "IEP": 12197.5,
+        "totalTradedVolume": 1450,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "09-Sep-2024 09:07:57",
+        "totalBuyQuantity": 3708,
+        "totalSellQuantity": 6620,
+        "atoBuyQty": 51,
+        "atoSellQty": 78,
+        "Change": 11.350000000000364,
+        "perChange": 0.09313852201064622,
+        "prevClose": 12186.15
+    }
+}
