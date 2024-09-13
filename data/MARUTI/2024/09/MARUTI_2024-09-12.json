@@ -1,0 +1,188 @@
+{
+    "info": {
+        "symbol": "MARUTI",
+        "companyName": "Maruti Suzuki India Limited",
+        "industry": "Passenger Cars & Utility Vehicles",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE585B01010",
+        "slb_isin": "INE585B01010",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "MARUTIEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "MARUTI",
+        "isin": "INE585B01010",
+        "status": "Listed",
+        "listingDate": "09-Jul-2003",
+        "industry": "Passenger Cars & Utility Vehicles",
+        "lastUpdateTime": "12-Sep-2024 16:00:00",
+        "pdSectorPe": 26.67,
+        "pdSymbolPe": 26.67,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY TOTAL MARKET",
+            "NIFTY 500",
+            "NIFTY AUTO",
+            "NIFTY 200",
+            "NIFTY INDIA CONSUMPTION",
+            "NIFTY100 LIQUID 15",
+            "NIFTY GROWTH SECTORS 15",
+            "NIFTY100 QUALITY 30",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY ALPHA LOW-VOLATILITY 30",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY QUALITY LOW-VOLATILITY 30",
+            "NIFTY ALPHA QUALITY LOW-VOLATILITY 30",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY100 ESG SECTOR LEADERS",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY100 ESG",
+            "NIFTY MOBILITY",
+            "NIFTY INDIA MANUFACTURING",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY RURAL",
+            "NIFTY TRANSPORTATION & LOGISTICS",
+            "NIFTY EV & NEW AGE AUTOMOTIVE",
+            "NIFTY500 MULTICAP INDIA MANUFACTURING 50:30:20",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY MNC",
+            "NIFTY 100"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 5,
+        "issuedSize": 314402574
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 12375,
+        "change": 132.39999999999964,
+        "pChange": 1.0814696224658131,
+        "previousClose": 12242.6,
+        "open": 12262.1,
+        "close": 12400.85,
+        "vwap": 12292.94,
+        "lowerCP": "11018.35",
+        "upperCP": "13466.85",
+        "pPriceBand": "No Band",
+        "basePrice": 12242.6,
+        "intraDayHighLow": {
+            "min": 12151.35,
+            "max": 12427,
+            "value": 12375
+        },
+        "weekHighLow": {
+            "min": 9737.65,
+            "minDate": "18-Jan-2024",
+            "max": 13680,
+            "maxDate": "01-Aug-2024",
+            "value": 12375
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Consumer Discretionary",
+        "sector": "Automobile and Auto Components",
+        "industry": "Automobiles",
+        "basicIndustry": "Passenger Cars & Utility Vehicles"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 11283.45,
+                "buyQty": 0,
+                "sellQty": 7
+            },
+            {
+                "price": 11450,
+                "buyQty": 0,
+                "sellQty": 3
+            },
+            {
+                "price": 11514.15,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 11630.5,
+                "buyQty": 0,
+                "sellQty": 64
+            },
+            {
+                "price": 12262.1,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 12323.4,
+                "buyQty": 7,
+                "sellQty": 0
+            },
+            {
+                "price": 12350,
+                "buyQty": 5,
+                "sellQty": 0
+            },
+            {
+                "price": 12487.45,
+                "buyQty": 64,
+                "sellQty": 0
+            },
+            {
+                "price": 12793.5,
+                "buyQty": 2,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 58,
+            "sell": 27
+        },
+        "IEP": 12262.1,
+        "totalTradedVolume": 288,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "12-Sep-2024 09:07:04",
+        "totalBuyQuantity": 2160,
+        "totalSellQuantity": 6474,
+        "atoBuyQty": 58,
+        "atoSellQty": 27,
+        "Change": 19.5,
+        "perChange": 0.15927989152630975,
+        "prevClose": 12242.6
+    }
+}
