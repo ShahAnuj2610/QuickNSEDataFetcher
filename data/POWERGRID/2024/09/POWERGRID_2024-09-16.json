@@ -1,0 +1,183 @@
+{
+    "info": {
+        "symbol": "POWERGRID",
+        "companyName": "Power Grid Corporation of India Limited",
+        "industry": "Power - Transmission",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE752E01010",
+        "slb_isin": "INE752E01010",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "POWERGRIDEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "POWERGRID",
+        "isin": "INE752E01010",
+        "status": "Listed",
+        "listingDate": "05-Oct-2007",
+        "industry": "Power - Transmission",
+        "lastUpdateTime": "16-Sep-2024 16:00:00",
+        "pdSectorPe": 20,
+        "pdSymbolPe": 20,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY200 VALUE 30",
+            "NIFTY 100",
+            "NIFTY ENERGY",
+            "NIFTY 500",
+            "NIFTY SERVICES SECTOR",
+            "NIFTY 200",
+            "NIFTY50 VALUE 20",
+            "NIFTY CPSE",
+            "NIFTY DIVIDEND OPPORTUNITIES 50",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY500 VALUE 50",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY100 ESG",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY TOTAL MARKET",
+            "NIFTY500 MULTICAP INFRASTRUCTURE 50:30:20",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY INFRASTRUCTURE",
+            "NIFTY PSE"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 9300603819
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 338.3,
+        "change": 1.0500000000000114,
+        "pChange": 0.3113417346182391,
+        "previousClose": 337.25,
+        "open": 337.25,
+        "close": 338.25,
+        "vwap": 339.78,
+        "stockIndClosePrice": null,
+        "lowerCP": "303.55",
+        "upperCP": "370.95",
+        "pPriceBand": "No Band",
+        "basePrice": 337.25,
+        "intraDayHighLow": {
+            "min": 337.05,
+            "max": 341.5,
+            "value": 338.3
+        },
+        "weekHighLow": {
+            "min": 192.2,
+            "minDate": "15-Sep-2023",
+            "max": 362.5,
+            "maxDate": "01-Aug-2024",
+            "value": 338.3
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Utilities",
+        "sector": "Power",
+        "industry": "Power",
+        "basicIndustry": "Power - Transmission"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 322.05,
+                "buyQty": 0,
+                "sellQty": 36
+            },
+            {
+                "price": 325,
+                "buyQty": 0,
+                "sellQty": 891
+            },
+            {
+                "price": 326.2,
+                "buyQty": 0,
+                "sellQty": 13
+            },
+            {
+                "price": 327.15,
+                "buyQty": 0,
+                "sellQty": 5033
+            },
+            {
+                "price": 337.25,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 350,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 352.4,
+                "buyQty": 159,
+                "sellQty": 0
+            },
+            {
+                "price": 352.45,
+                "buyQty": 12,
+                "sellQty": 0
+            },
+            {
+                "price": 370.95,
+                "buyQty": 1,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 2323,
+            "sell": 1790
+        },
+        "IEP": 337.25,
+        "totalTradedVolume": 25725,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "16-Sep-2024 09:07:59",
+        "totalBuyQuantity": 47733,
+        "totalSellQuantity": 181277,
+        "atoBuyQty": 2323,
+        "atoSellQty": 1790,
+        "Change": 0,
+        "perChange": 0,
+        "prevClose": 337.25
+    }
+}
