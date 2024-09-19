@@ -1,0 +1,194 @@
+{
+    "info": {
+        "symbol": "NTPC",
+        "companyName": "NTPC Limited",
+        "industry": "Power Generation",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "U4",
+            "N4",
+            "U1",
+            "N1"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE733E07JE0",
+        "slb_isin": "INE733E01010",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "NTPCEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "NTPC",
+        "isin": "INE733E01010",
+        "status": "Listed",
+        "listingDate": "05-Nov-2004",
+        "industry": "Power Generation",
+        "lastUpdateTime": "18-Sep-2024 16:00:00",
+        "pdSectorPe": 19.94,
+        "pdSymbolPe": 19.94,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY RURAL",
+            "NIFTY INFRASTRUCTURE",
+            "NIFTY SERVICES SECTOR",
+            "NIFTY 100",
+            "NIFTY 500",
+            "NIFTY 200",
+            "NIFTY CPSE",
+            "NIFTY DIVIDEND OPPORTUNITIES 50",
+            "NIFTY COMMODITIES",
+            "NIFTY50 VALUE 20",
+            "NIFTY LOW VOLATILITY 50",
+            "NIFTY500 VALUE 50",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY100 LOW VOLATILITY 30",
+            "NIFTY ALPHA LOW-VOLATILITY 30",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY100 ESG SECTOR LEADERS",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY200 MOMENTUM 30",
+            "NIFTY200 VALUE 30",
+            "NIFTY100 ESG",
+            "NIFTY200 ALPHA 30",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY HOUSING",
+            "NIFTY500 MULTICAP INFRASTRUCTURE 50:30:20",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY TOTAL MARKET",
+            "NIFTY PSE",
+            "NIFTY ENERGY"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 9696666134
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 413.8,
+        "change": -2.5,
+        "pChange": -0.6005284650492433,
+        "previousClose": 416.3,
+        "open": 418.5,
+        "close": 414.15,
+        "vwap": 416.47,
+        "stockIndClosePrice": null,
+        "lowerCP": "374.70",
+        "upperCP": "457.90",
+        "pPriceBand": "No Band",
+        "basePrice": 416.3,
+        "intraDayHighLow": {
+            "min": 413,
+            "max": 419.75,
+            "value": 413.8
+        },
+        "weekHighLow": {
+            "min": 227.75,
+            "minDate": "26-Oct-2023",
+            "max": 426.3,
+            "maxDate": "02-Aug-2024",
+            "value": 413.8
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Utilities",
+        "sector": "Power",
+        "industry": "Power",
+        "basicIndustry": "Power Generation"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 374.7,
+                "buyQty": 0,
+                "sellQty": 274
+            },
+            {
+                "price": 376,
+                "buyQty": 0,
+                "sellQty": 1442
+            },
+            {
+                "price": 395.5,
+                "buyQty": 0,
+                "sellQty": 131
+            },
+            {
+                "price": 397.9,
+                "buyQty": 0,
+                "sellQty": 334
+            },
+            {
+                "price": 418.5,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 450,
+                "buyQty": 158,
+                "sellQty": 0
+            },
+            {
+                "price": 450.1,
+                "buyQty": 1,
+                "sellQty": 0
+            },
+            {
+                "price": 457,
+                "buyQty": 31,
+                "sellQty": 0
+            },
+            {
+                "price": 457.9,
+                "buyQty": 119,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 30407,
+            "sell": 5872
+        },
+        "IEP": 418.5,
+        "totalTradedVolume": 58173,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "18-Sep-2024 09:07:51",
+        "totalBuyQuantity": 142180,
+        "totalSellQuantity": 313795,
+        "atoBuyQty": 30407,
+        "atoSellQty": 5872,
+        "Change": 2.1999999999999886,
+        "perChange": 0.5284650492433314,
+        "prevClose": 416.3
+    }
+}
