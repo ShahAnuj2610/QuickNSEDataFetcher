@@ -1,0 +1,179 @@
+{
+    "info": {
+        "symbol": "CHOLAFIN",
+        "companyName": "Cholamandalam Investment and Finance Company Limited",
+        "industry": "Non Banking Financial Company (NBFC)",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [
+            "D1"
+        ],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "BE",
+            "W1"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE121A01024",
+        "slb_isin": "INE121A01024",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "CHOLAFINEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "CHOLAFIN",
+        "isin": "INE121A01024",
+        "status": "Listed",
+        "listingDate": "15-May-1996",
+        "industry": "Non Banking Financial Company (NBFC)",
+        "lastUpdateTime": "19-Sep-2024 16:00:00",
+        "pdSectorPe": 36.67,
+        "pdSymbolPe": 36.67,
+        "pdSectorInd": "NIFTY NEXT 50",
+        "pdSectorIndAll": [
+            "NIFTY NEXT 50",
+            "NIFTY FINANCIAL SERVICES",
+            "NIFTY 500",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY FINANCIAL SERVICES 25/50",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY100 ESG",
+            "NIFTY RURAL",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY FINANCIAL SERVICES EX-BANK",
+            "NIFTY TOTAL MARKET",
+            "NIFTY 200",
+            "NIFTY 100",
+            "NIFTY100 ESG SECTOR LEADERS"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Bond",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 840402186
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 1597.85,
+        "change": 7.699999999999818,
+        "pChange": 0.48423104738545536,
+        "previousClose": 1590.15,
+        "open": 1599,
+        "close": 1596.3,
+        "vwap": 1597.08,
+        "stockIndClosePrice": null,
+        "lowerCP": "1431.15",
+        "upperCP": "1749.15",
+        "pPriceBand": "No Band",
+        "basePrice": 1590.15,
+        "intraDayHighLow": {
+            "min": 1574,
+            "max": 1614,
+            "value": 1597.85
+        },
+        "weekHighLow": {
+            "min": 1011.2,
+            "minDate": "06-Mar-2024",
+            "max": 1614,
+            "maxDate": "19-Sep-2024",
+            "value": 1597.85
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Finance",
+        "basicIndustry": "Non Banking Financial Company (NBFC)"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 1525,
+                "buyQty": 0,
+                "sellQty": 20
+            },
+            {
+                "price": 1526.75,
+                "buyQty": 0,
+                "sellQty": 60
+            },
+            {
+                "price": 1558.35,
+                "buyQty": 0,
+                "sellQty": 536
+            },
+            {
+                "price": 1575,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 1599,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 1629.95,
+                "buyQty": 10,
+                "sellQty": 0
+            },
+            {
+                "price": 1633.75,
+                "buyQty": 20,
+                "sellQty": 0
+            },
+            {
+                "price": 1640,
+                "buyQty": 500,
+                "sellQty": 0
+            },
+            {
+                "price": 1661.7,
+                "buyQty": 1,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 165,
+            "sell": 159
+        },
+        "IEP": 1599,
+        "totalTradedVolume": 1424,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "19-Sep-2024 09:07:59",
+        "totalBuyQuantity": 4701,
+        "totalSellQuantity": 11788,
+        "atoBuyQty": 165,
+        "atoSellQty": 159,
+        "Change": 8.849999999999909,
+        "perChange": 0.5565512687482256,
+        "prevClose": 1590.15
+    }
+}
