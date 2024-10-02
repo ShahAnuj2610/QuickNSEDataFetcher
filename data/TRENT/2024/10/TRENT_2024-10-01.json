@@ -1,0 +1,188 @@
+{
+    "info": {
+        "symbol": "TRENT",
+        "companyName": "Trent Limited",
+        "industry": "Speciality Retail",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL",
+            "N1",
+            "Q1",
+            "Q2",
+            "W1"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE849A13017",
+        "slb_isin": "INE849A01020",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "TRENTEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "TRENT",
+        "isin": "INE849A01020",
+        "status": "Listed",
+        "listingDate": "07-Jun-2004",
+        "industry": "Speciality Retail",
+        "lastUpdateTime": "01-Oct-2024 16:00:00",
+        "pdSectorPe": 261.45,
+        "pdSymbolPe": 173.79,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY 500",
+            "NIFTY INDIA CONSUMPTION",
+            "NIFTY 200",
+            "NIFTY50 SHARIAH",
+            "NIFTY500 SHARIAH",
+            "NIFTY INDIA CORPORATE GROUP INDEX - TATA GROUP",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY INDIA CORPORATE GROUP INDEX - TATA GROUP 25% CAP",
+            "NIFTY ALPHA 50",
+            "NIFTY500 MOMENTUM 50",
+            "NIFTY100 ESG SECTOR LEADERS",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY200 MOMENTUM 30",
+            "NIFTY NON-CYCLICAL CONSUMER",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY TOTAL MARKET",
+            "NIFTY100 ESG",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY200 ALPHA 30",
+            "NIFTY 100",
+            "NIFTY50 EQUAL WEIGHT"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": "LTASM - I (13)",
+            "desc": "Long Term Additional Surveillance Measure (LTASM) - Stage I"
+        },
+        "faceValue": 1,
+        "issuedSize": 355487461
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 7635,
+        "change": 60.350000000000364,
+        "pChange": 0.7967364828738009,
+        "previousClose": 7574.65,
+        "open": 7600,
+        "close": 7612.7,
+        "vwap": 7594.63,
+        "stockIndClosePrice": null,
+        "lowerCP": "6817.20",
+        "upperCP": "8332.10",
+        "pPriceBand": "No Band",
+        "basePrice": 7574.65,
+        "intraDayHighLow": {
+            "min": 7522.25,
+            "max": 7647.45,
+            "value": 7635
+        },
+        "weekHighLow": {
+            "min": 1945,
+            "minDate": "26-Oct-2023",
+            "max": 7939.9,
+            "maxDate": "26-Sep-2024",
+            "value": 7635
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05
+    },
+    "industryInfo": {
+        "macro": "Consumer Discretionary",
+        "sector": "Consumer Services",
+        "industry": "Retailing",
+        "basicIndustry": "Speciality Retail"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 6817.2,
+                "buyQty": 0,
+                "sellQty": 18
+            },
+            {
+                "price": 7044.45,
+                "buyQty": 0,
+                "sellQty": 330
+            },
+            {
+                "price": 7155,
+                "buyQty": 0,
+                "sellQty": 10
+            },
+            {
+                "price": 7500,
+                "buyQty": 0,
+                "sellQty": 70
+            },
+            {
+                "price": 7600,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 7900.3,
+                "buyQty": 2,
+                "sellQty": 0
+            },
+            {
+                "price": 7915.5,
+                "buyQty": 12,
+                "sellQty": 0
+            },
+            {
+                "price": 7953.35,
+                "buyQty": 35,
+                "sellQty": 0
+            },
+            {
+                "price": 8332.1,
+                "buyQty": 9,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 316,
+            "sell": 157
+        },
+        "IEP": 7600,
+        "totalTradedVolume": 1418,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "01-Oct-2024 09:07:28",
+        "totalBuyQuantity": 3305,
+        "totalSellQuantity": 6997,
+        "atoBuyQty": 316,
+        "atoSellQty": 157,
+        "Change": 25.350000000000364,
+        "perChange": 0.33466892859736574,
+        "prevClose": 7574.65
+    }
+}
