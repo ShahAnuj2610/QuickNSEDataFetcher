@@ -1,0 +1,181 @@
+{
+    "info": {
+        "symbol": "GAIL",
+        "companyName": "GAIL (India) Limited",
+        "industry": "Gas Transmission/Marketing",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE129A01019",
+        "slb_isin": "INE129A01019",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "GAILEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "GAIL",
+        "isin": "INE129A01019",
+        "status": "Listed",
+        "listingDate": "02-Apr-1997",
+        "industry": "Gas Transmission/Marketing",
+        "lastUpdateTime": "09-Oct-2024 16:00:00",
+        "pdSectorPe": 15.52,
+        "pdSymbolPe": 15.52,
+        "pdSectorInd": "NIFTY NEXT 50",
+        "pdSectorIndAll": [
+            "NIFTY NEXT 50",
+            "NIFTY 100",
+            "NIFTY INFRASTRUCTURE",
+            "NIFTY SERVICES SECTOR",
+            "NIFTY 500",
+            "NIFTY 200",
+            "NIFTY DIVIDEND OPPORTUNITIES 50",
+            "NIFTY500 SHARIAH",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY SHARIAH 25",
+            "NIFTY500 VALUE 50",
+            "NIFTY HIGH BETA 50",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY100 ESG SECTOR LEADERS",
+            "NIFTY100 ESG",
+            "NIFTY OIL & GAS",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY MOBILITY",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY200 VALUE 30",
+            "NIFTY TOTAL MARKET",
+            "NIFTY PSE"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 6575099643
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "priceInfo": {
+        "lastPrice": 222.49,
+        "change": -2.259999999999991,
+        "pChange": -1.0055617352613975,
+        "previousClose": 224.75,
+        "open": 225.25,
+        "close": 222.56,
+        "vwap": 223.73,
+        "stockIndClosePrice": null,
+        "lowerCP": "202.27",
+        "upperCP": "247.22",
+        "pPriceBand": "No Band",
+        "basePrice": 224.75,
+        "intraDayHighLow": {
+            "min": 222.15,
+            "max": 226.63,
+            "value": 222.49
+        },
+        "weekHighLow": {
+            "min": 116.15,
+            "minDate": "31-Oct-2023",
+            "max": 246.3,
+            "maxDate": "31-Jul-2024",
+            "value": 222.49
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.01
+    },
+    "industryInfo": {
+        "macro": "Energy",
+        "sector": "Oil Gas & Consumable Fuels",
+        "industry": "Gas",
+        "basicIndustry": "Gas Transmission/Marketing"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 213.52,
+                "buyQty": 0,
+                "sellQty": 508
+            },
+            {
+                "price": 215,
+                "buyQty": 0,
+                "sellQty": 2076
+            },
+            {
+                "price": 216,
+                "buyQty": 0,
+                "sellQty": 400
+            },
+            {
+                "price": 219.13,
+                "buyQty": 0,
+                "sellQty": 2353
+            },
+            {
+                "price": 225.25,
+                "buyQty": 0,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 234.86,
+                "buyQty": 236,
+                "sellQty": 0
+            },
+            {
+                "price": 235.13,
+                "buyQty": 105,
+                "sellQty": 0
+            },
+            {
+                "price": 235.98,
+                "buyQty": 1676,
+                "sellQty": 0
+            },
+            {
+                "price": 247.22,
+                "buyQty": 269,
+                "sellQty": 0
+            }
+        ],
+        "ato": {
+            "buy": 5344,
+            "sell": 570
+        },
+        "IEP": 225.25,
+        "totalTradedVolume": 16726,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "09-Oct-2024 09:07:23",
+        "totalBuyQuantity": 69908,
+        "totalSellQuantity": 281875,
+        "atoBuyQty": 5344,
+        "atoSellQty": 570,
+        "Change": 0.5,
+        "perChange": 0.22246941045606228,
+        "prevClose": 224.75
+    }
+}
