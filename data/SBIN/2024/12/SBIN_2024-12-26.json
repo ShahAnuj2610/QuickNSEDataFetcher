@@ -1,0 +1,205 @@
+{
+    "info": {
+        "symbol": "SBIN",
+        "companyName": "State Bank of India",
+        "industry": "Public Sector Bank",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "N3",
+            "N4",
+            "N1",
+            "IL",
+            "N5",
+            "N6",
+            "N2"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE062A01020",
+        "slb_isin": "INE062A01020",
+        "listingDate": "1995-03-01",
+        "isMunicipalBond": false,
+        "isTop10": false,
+        "identifier": "SBINEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "SBIN",
+        "isin": "INE062A01020",
+        "status": "Listed",
+        "listingDate": "01-Mar-1995",
+        "industry": "Public Sector Bank",
+        "lastUpdateTime": "26-Dec-2024 16:00:00",
+        "pdSectorPe": 9.27,
+        "pdSymbolPe": 9.94,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY BANK",
+            "NIFTY FINANCIAL SERVICES",
+            "NIFTY 200",
+            "NIFTY 500",
+            "NIFTY100 LIQUID 15",
+            "NIFTY DIVIDEND OPPORTUNITIES 50",
+            "NIFTY50 VALUE 20",
+            "NIFTY500 VALUE 50",
+            "NIFTY HIGH BETA 50",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY ALPHA LOW-VOLATILITY 30",
+            "NIFTY FINANCIAL SERVICES 25/50",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY TOP 15 EQUAL WEIGHT",
+            "NIFTY100 ESG",
+            "NIFTY RURAL",
+            "NIFTY100 ENHANCED ESG",
+            "NIFTY200 VALUE 30",
+            "NIFTY TOTAL MARKET",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY500 LOW VOLATILITY 50",
+            "NIFTY TOP 20 EQUAL WEIGHT",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY PSU BANK",
+            "NIFTY HOUSING",
+            "NIFTY SERVICES SECTOR",
+            "NIFTY 100"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 1,
+        "issuedSize": 8924620034
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "currentMarketType": "NM",
+    "priceInfo": {
+        "lastPrice": 814,
+        "change": 1.9500000000000455,
+        "pChange": 0.24013299673665978,
+        "previousClose": 812.05,
+        "open": 813,
+        "close": 812.45,
+        "vwap": 813.69,
+        "stockIndClosePrice": 0,
+        "lowerCP": "730.85",
+        "upperCP": "893.25",
+        "pPriceBand": "No Band",
+        "basePrice": 812.05,
+        "intraDayHighLow": {
+            "min": 808,
+            "max": 822.85,
+            "value": 814
+        },
+        "weekHighLow": {
+            "min": 600.65,
+            "minDate": "23-Jan-2024",
+            "max": 912,
+            "maxDate": "03-Jun-2024",
+            "value": 814
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05,
+        "ieq": ""
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Public Sector Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 812.5,
+                "buyQty": 310,
+                "sellQty": 0
+            },
+            {
+                "price": 812.6,
+                "buyQty": 24,
+                "sellQty": 0
+            },
+            {
+                "price": 812.7,
+                "buyQty": 50,
+                "sellQty": 0
+            },
+            {
+                "price": 812.8,
+                "buyQty": 20,
+                "sellQty": 0
+            },
+            {
+                "price": 812.9,
+                "buyQty": 20,
+                "sellQty": 0
+            },
+            {
+                "price": 813,
+                "buyQty": 0,
+                "sellQty": 17391,
+                "iep": true
+            },
+            {
+                "price": 813.25,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 814,
+                "buyQty": 0,
+                "sellQty": 1121
+            },
+            {
+                "price": 814.05,
+                "buyQty": 0,
+                "sellQty": 418
+            },
+            {
+                "price": 814.25,
+                "buyQty": 0,
+                "sellQty": 1
+            }
+        ],
+        "ato": {
+            "buy": 0,
+            "sell": 0
+        },
+        "IEP": 813,
+        "totalTradedVolume": 43104,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "26-Dec-2024 09:07:16",
+        "totalBuyQuantity": 61068,
+        "totalSellQuantity": 266570,
+        "atoBuyQty": 0,
+        "atoSellQty": 0,
+        "Change": 0.9500000000000455,
+        "perChange": 0.11698787020504224,
+        "prevClose": 812.05
+    }
+}
