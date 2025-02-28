@@ -1,0 +1,200 @@
+{
+    "info": {
+        "symbol": "NTPC",
+        "companyName": "NTPC Limited",
+        "industry": "Power Generation",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "N1",
+            "N4",
+            "U1",
+            "U4"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE733E01010",
+        "slb_isin": "INE733E01010",
+        "listingDate": "2004-11-05",
+        "isMunicipalBond": false,
+        "isHybridSymbol": false,
+        "isTop10": false,
+        "identifier": "NTPCEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "NTPC",
+        "isin": "INE733E01010",
+        "status": "Listed",
+        "listingDate": "05-Nov-2004",
+        "industry": "Power Generation",
+        "lastUpdateTime": "27-Feb-2025 16:00:00",
+        "pdSectorPe": 14.89,
+        "pdSymbolPe": 14.89,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY100 ESG",
+            "NIFTY INFRASTRUCTURE",
+            "NIFTY 500",
+            "NIFTY PSE",
+            "NIFTY SERVICES SECTOR",
+            "NIFTY 200",
+            "NIFTY COMMODITIES",
+            "NIFTY50 VALUE 20",
+            "NIFTY CPSE",
+            "NIFTY DIVIDEND OPPORTUNITIES 50",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY500 VALUE 50",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY100 ESG SECTOR LEADERS",
+            "NIFTY500 MULTICAP INFRASTRUCTURE 50:30:20",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY200 VALUE 30",
+            "NIFTY TOTAL MARKET",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY INDIA RAILWAYS PSU",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY100 ENHANCED ESG",
+            "NIFTY RURAL",
+            "NIFTY HOUSING",
+            "NIFTY 100",
+            "NIFTY ENERGY"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 9696666134
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "currentMarketType": "NM",
+    "priceInfo": {
+        "lastPrice": 315.7,
+        "change": -3,
+        "pChange": -0.9413241292751805,
+        "previousClose": 318.7,
+        "open": 315.35,
+        "close": 315.7,
+        "vwap": 315.71,
+        "stockIndClosePrice": 0,
+        "lowerCP": "286.85",
+        "upperCP": "350.55",
+        "pPriceBand": "No Band",
+        "basePrice": 318.7,
+        "intraDayHighLow": {
+            "min": 314.5,
+            "max": 319.3,
+            "value": 315.7
+        },
+        "weekHighLow": {
+            "min": 292.8,
+            "minDate": "17-Feb-2025",
+            "max": 448.45,
+            "maxDate": "30-Sep-2024",
+            "value": 315.7
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05,
+        "ieq": ""
+    },
+    "industryInfo": {
+        "macro": "Utilities",
+        "sector": "Power",
+        "industry": "Power",
+        "basicIndustry": "Power Generation"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 315,
+                "buyQty": 9820,
+                "sellQty": 0
+            },
+            {
+                "price": 315.05,
+                "buyQty": 6,
+                "sellQty": 0
+            },
+            {
+                "price": 315.1,
+                "buyQty": 1616,
+                "sellQty": 0
+            },
+            {
+                "price": 315.25,
+                "buyQty": 102,
+                "sellQty": 0
+            },
+            {
+                "price": 315.35,
+                "buyQty": 1204,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 315.55,
+                "buyQty": 0,
+                "sellQty": 101
+            },
+            {
+                "price": 316.6,
+                "buyQty": 0,
+                "sellQty": 8
+            },
+            {
+                "price": 316.8,
+                "buyQty": 0,
+                "sellQty": 10
+            },
+            {
+                "price": 316.9,
+                "buyQty": 0,
+                "sellQty": 500
+            },
+            {
+                "price": 317,
+                "buyQty": 0,
+                "sellQty": 598
+            }
+        ],
+        "ato": {
+            "buy": 0,
+            "sell": 0
+        },
+        "IEP": 315.35,
+        "totalTradedVolume": 30157,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "27-Feb-2025 09:07:33",
+        "totalBuyQuantity": 52839,
+        "totalSellQuantity": 132457,
+        "atoBuyQty": 0,
+        "atoSellQty": 0,
+        "Change": -3.349999999999966,
+        "perChange": -1.0511452776906076,
+        "prevClose": 318.7
+    }
+}
