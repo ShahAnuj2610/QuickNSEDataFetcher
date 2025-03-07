@@ -1,0 +1,193 @@
+{
+    "info": {
+        "symbol": "BAJFINANCE",
+        "companyName": "Bajaj Finance Limited",
+        "industry": "Non Banking Financial Company (NBFC)",
+        "activeSeries": [
+            "EQ"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": false,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "W1",
+            "N1"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE296A01024",
+        "slb_isin": "INE296A01024",
+        "listingDate": "2003-04-01",
+        "isMunicipalBond": false,
+        "isHybridSymbol": false,
+        "isTop10": false,
+        "identifier": "BAJFINANCEEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "BAJFINANCE",
+        "isin": "INE296A01024",
+        "status": "Listed",
+        "listingDate": "01-Apr-2003",
+        "industry": "Non Banking Financial Company (NBFC)",
+        "lastUpdateTime": "06-Mar-2025 16:00:00",
+        "pdSectorPe": 32.06,
+        "pdSymbolPe": 32.06,
+        "pdSectorInd": "NIFTY 50",
+        "pdSectorIndAll": [
+            "NIFTY 50",
+            "NIFTY FINANCIAL SERVICES",
+            "NIFTY 500",
+            "NIFTY100 LIQUID 15",
+            "NIFTY 200",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY50 EQUAL WEIGHT",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY FINANCIAL SERVICES 25/50",
+            "NIFTY RURAL",
+            "NIFTY100 ESG",
+            "NIFTY500 LOW VOLATILITY 50",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY100 ENHANCED ESG",
+            "NIFTY FINANCIAL SERVICES EX-BANK",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY TOP 20 EQUAL WEIGHT",
+            "NIFTY TOTAL MARKET",
+            "NIFTY TOP 15 EQUAL WEIGHT",
+            "NIFTY SERVICES SECTOR",
+            "NIFTY 100",
+            "NIFTY100 ESG SECTOR LEADERS"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 619878652
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "currentMarketType": "NM",
+    "priceInfo": {
+        "lastPrice": 8384,
+        "change": 85.29999999999927,
+        "pChange": 1.027871835347696,
+        "previousClose": 8298.7,
+        "open": 8365,
+        "close": 8410.85,
+        "vwap": 8386.18,
+        "stockIndClosePrice": 0,
+        "lowerCP": "7468.85",
+        "upperCP": "9128.55",
+        "pPriceBand": "No Band",
+        "basePrice": 8298.7,
+        "intraDayHighLow": {
+            "min": 8275.55,
+            "max": 8459.8,
+            "value": 8384
+        },
+        "weekHighLow": {
+            "min": 6187.8,
+            "minDate": "06-Mar-2024",
+            "max": 8739,
+            "maxDate": "27-Feb-2025",
+            "value": 8384
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.05,
+        "ieq": ""
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Finance",
+        "basicIndustry": "Non Banking Financial Company (NBFC)"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 8350,
+                "buyQty": 182,
+                "sellQty": 0
+            },
+            {
+                "price": 8360,
+                "buyQty": 253,
+                "sellQty": 0
+            },
+            {
+                "price": 8361,
+                "buyQty": 11,
+                "sellQty": 0
+            },
+            {
+                "price": 8362,
+                "buyQty": 100,
+                "sellQty": 0
+            },
+            {
+                "price": 8365,
+                "buyQty": 119,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 8366,
+                "buyQty": 0,
+                "sellQty": 3
+            },
+            {
+                "price": 8370,
+                "buyQty": 0,
+                "sellQty": 3
+            },
+            {
+                "price": 8371,
+                "buyQty": 0,
+                "sellQty": 4
+            },
+            {
+                "price": 8375,
+                "buyQty": 0,
+                "sellQty": 35
+            },
+            {
+                "price": 8375.55,
+                "buyQty": 0,
+                "sellQty": 1
+            }
+        ],
+        "ato": {
+            "buy": 0,
+            "sell": 0
+        },
+        "IEP": 8365,
+        "totalTradedVolume": 3424,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "06-Mar-2025 09:07:34",
+        "totalBuyQuantity": 7764,
+        "totalSellQuantity": 12945,
+        "atoBuyQty": 0,
+        "atoSellQty": 0,
+        "Change": 66.29999999999927,
+        "perChange": 0.7989203128200715,
+        "prevClose": 8298.7
+    }
+}
