@@ -1,0 +1,191 @@
+{
+    "info": {
+        "symbol": "BANKBARODA",
+        "companyName": "Bank of Baroda",
+        "industry": "Public Sector Bank",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [
+            "IL"
+        ],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE028A01039",
+        "slb_isin": "INE028A01039",
+        "listingDate": "1997-02-19",
+        "isMunicipalBond": false,
+        "isHybridSymbol": false,
+        "isTop10": false,
+        "identifier": "BANKBARODAEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "BANKBARODA",
+        "isin": "INE028A01039",
+        "status": "Listed",
+        "listingDate": "19-Feb-1997",
+        "industry": "Public Sector Bank",
+        "lastUpdateTime": "25-Aug-2025 16:00:00",
+        "pdSectorPe": 6.46,
+        "pdSymbolPe": 6.46,
+        "pdSectorInd": "NIFTY BANK",
+        "pdSectorIndAll": [
+            "NIFTY BANK",
+            "NIFTY NEXT 50",
+            "NIFTY TOTAL MARKET",
+            "NIFTY HOUSING",
+            "NIFTY 500",
+            "NIFTY RURAL",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY 200",
+            "NIFTY200 VALUE 30",
+            "NIFTY DIVIDEND OPPORTUNITIES 50",
+            "NIFTY PSU BANK",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY 100",
+            "NIFTY100 ENHANCED ESG",
+            "NIFTY100 ESG",
+            "NIFTY500 VALUE 50",
+            "NIFTY INDIA FPI 150",
+            "NIFTY HIGH BETA 50",
+            "NIFTY LARGEMIDCAP 250",
+            "NIFTY500 MULTICAP 50:25:25"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 2,
+        "issuedSize": 5171362179
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "currentMarketType": "NM",
+    "priceInfo": {
+        "lastPrice": 240.75,
+        "change": 0.5200000000000102,
+        "pChange": 0.216459226574537,
+        "previousClose": 240.23,
+        "open": 241.5,
+        "close": 241.08,
+        "vwap": 241.41,
+        "stockIndClosePrice": 0,
+        "lowerCP": "216.20",
+        "upperCP": "264.25",
+        "pPriceBand": "No Band",
+        "basePrice": 240.23,
+        "intraDayHighLow": {
+            "min": 240.49,
+            "max": 242.94,
+            "value": 240.75
+        },
+        "weekHighLow": {
+            "min": 190.7,
+            "minDate": "04-Mar-2025",
+            "max": 266.95,
+            "maxDate": "06-Dec-2024",
+            "value": 240.75
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.01,
+        "ieq": ""
+    },
+    "industryInfo": {
+        "macro": "Financial Services",
+        "sector": "Financial Services",
+        "industry": "Banks",
+        "basicIndustry": "Public Sector Bank"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 241.2,
+                "buyQty": 1300,
+                "sellQty": 0
+            },
+            {
+                "price": 241.3,
+                "buyQty": 125,
+                "sellQty": 0
+            },
+            {
+                "price": 241.4,
+                "buyQty": 50,
+                "sellQty": 0
+            },
+            {
+                "price": 241.43,
+                "buyQty": 198,
+                "sellQty": 0
+            },
+            {
+                "price": 241.5,
+                "buyQty": 69811,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 241.9,
+                "buyQty": 0,
+                "sellQty": 3520
+            },
+            {
+                "price": 241.98,
+                "buyQty": 0,
+                "sellQty": 6
+            },
+            {
+                "price": 241.99,
+                "buyQty": 0,
+                "sellQty": 1
+            },
+            {
+                "price": 242,
+                "buyQty": 0,
+                "sellQty": 6946
+            },
+            {
+                "price": 242.2,
+                "buyQty": 0,
+                "sellQty": 50
+            }
+        ],
+        "ato": {
+            "buy": 0,
+            "sell": 0
+        },
+        "IEP": 241.5,
+        "totalTradedVolume": 42179,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "25-Aug-2025 09:07:48",
+        "totalBuyQuantity": 152403,
+        "totalSellQuantity": 395382,
+        "atoBuyQty": 0,
+        "atoSellQty": 0,
+        "Change": 1.27,
+        "perChange": 0.53,
+        "prevClose": 240.23
+    }
+}
