@@ -1,0 +1,193 @@
+{
+    "info": {
+        "symbol": "IOC",
+        "companyName": "Indian Oil Corporation Limited",
+        "industry": "Refineries & Marketing",
+        "activeSeries": [
+            "EQ",
+            "T0"
+        ],
+        "debtSeries": [],
+        "isFNOSec": true,
+        "isCASec": false,
+        "isSLBSec": true,
+        "isDebtSec": true,
+        "isSuspended": false,
+        "tempSuspendedSeries": [],
+        "isETFSec": false,
+        "isDelisted": false,
+        "isin": "INE242A01010",
+        "slb_isin": "INE242A01010",
+        "listingDate": "1996-07-24",
+        "isMunicipalBond": false,
+        "isHybridSymbol": false,
+        "isTop10": false,
+        "identifier": "IOCEQN"
+    },
+    "metadata": {
+        "series": "EQ",
+        "symbol": "IOC",
+        "isin": "INE242A01010",
+        "status": "Listed",
+        "listingDate": "24-Jul-1996",
+        "industry": "Refineries & Marketing",
+        "lastUpdateTime": "17-Sep-2025 16:00:00",
+        "pdSectorPe": 16.09,
+        "pdSymbolPe": 14.08,
+        "pdSectorInd": "NIFTY NEXT 50",
+        "pdSectorIndAll": [
+            "NIFTY NEXT 50",
+            "NIFTY500 SHARIAH",
+            "NIFTY OIL & GAS",
+            "NIFTY500 MULTICAP 50:25:25",
+            "NIFTY TOTAL MARKET",
+            "NIFTY MOBILITY",
+            "NIFTY500 MULTICAP INFRASTRUCTURE 50:30:20",
+            "NIFTY500 EQUAL WEIGHT",
+            "NIFTY500 MULTIFACTOR MQVLV 50",
+            "NIFTY500 LARGEMIDSMALL EQUAL-CAP WEIGHTED",
+            "NIFTY100 EQUAL WEIGHT",
+            "NIFTY100 ESG",
+            "NIFTY 500",
+            "NIFTY500 VALUE 50",
+            "NIFTY PSE",
+            "NIFTY 100",
+            "NIFTY 200",
+            "NIFTY DIVIDEND OPPORTUNITIES 50",
+            "NIFTY INFRASTRUCTURE",
+            "NIFTY ENERGY",
+            "NIFTY200 VALUE 30",
+            "NIFTY INDIA FPI 150",
+            "NIFTY COMMODITIES",
+            "NIFTY INDIA MANUFACTURING",
+            "NIFTY LARGEMIDCAP 250"
+        ]
+    },
+    "securityInfo": {
+        "boardStatus": "Main",
+        "tradingStatus": "Active",
+        "tradingSegment": "Normal Market",
+        "sessionNo": "-",
+        "slb": "Yes",
+        "classOfShare": "Equity",
+        "derivatives": "Yes",
+        "surveillance": {
+            "surv": null,
+            "desc": null
+        },
+        "faceValue": 10,
+        "issuedSize": 14121238383
+    },
+    "sddDetails": {
+        "SDDAuditor": "-",
+        "SDDStatus": "-"
+    },
+    "currentMarketType": "NM",
+    "priceInfo": {
+        "lastPrice": 145.8,
+        "change": 0.8200000000000216,
+        "pChange": 0.5655952545178795,
+        "previousClose": 144.98,
+        "open": 145.04,
+        "close": 145.94,
+        "vwap": 145.95,
+        "stockIndClosePrice": 0,
+        "lowerCP": "130.48",
+        "upperCP": "159.47",
+        "pPriceBand": "No Band",
+        "basePrice": 144.98,
+        "intraDayHighLow": {
+            "min": 144.92,
+            "max": 147.24,
+            "value": 145.8
+        },
+        "weekHighLow": {
+            "min": 110.72,
+            "minDate": "03-Mar-2025",
+            "max": 182.46,
+            "maxDate": "30-Sep-2024",
+            "value": 145.8
+        },
+        "iNavValue": null,
+        "checkINAV": false,
+        "tickSize": 0.01,
+        "ieq": ""
+    },
+    "industryInfo": {
+        "macro": "Energy",
+        "sector": "Oil Gas & Consumable Fuels",
+        "industry": "Petroleum Products",
+        "basicIndustry": "Refineries & Marketing"
+    },
+    "preOpenMarket": {
+        "preopen": [
+            {
+                "price": 144.98,
+                "buyQty": 6654,
+                "sellQty": 0
+            },
+            {
+                "price": 145,
+                "buyQty": 7643,
+                "sellQty": 0
+            },
+            {
+                "price": 145.01,
+                "buyQty": 2060,
+                "sellQty": 0
+            },
+            {
+                "price": 145.02,
+                "buyQty": 621,
+                "sellQty": 0
+            },
+            {
+                "price": 145.04,
+                "buyQty": 98,
+                "sellQty": 0,
+                "iep": true
+            },
+            {
+                "price": 145.05,
+                "buyQty": 0,
+                "sellQty": 100
+            },
+            {
+                "price": 145.08,
+                "buyQty": 0,
+                "sellQty": 204
+            },
+            {
+                "price": 145.09,
+                "buyQty": 0,
+                "sellQty": 200
+            },
+            {
+                "price": 145.1,
+                "buyQty": 0,
+                "sellQty": 109
+            },
+            {
+                "price": 145.11,
+                "buyQty": 0,
+                "sellQty": 25
+            }
+        ],
+        "ato": {
+            "buy": 0,
+            "sell": 0
+        },
+        "IEP": 145.04,
+        "totalTradedVolume": 22162,
+        "finalPrice": 0,
+        "finalQuantity": 0,
+        "lastUpdateTime": "17-Sep-2025 09:08:01",
+        "totalBuyQuantity": 159822,
+        "totalSellQuantity": 463358,
+        "atoBuyQty": 0,
+        "atoSellQty": 0,
+        "Change": 0.06,
+        "perChange": 0.04,
+        "prevClose": 144.98
+    }
+}
